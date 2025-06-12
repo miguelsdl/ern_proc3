@@ -1,5 +1,4 @@
 # src/domain/album/repositories/album_repository.py
-
 from abc import ABC, abstractmethod
 from typing import List, Optional
 from domain.entities.album import Album
