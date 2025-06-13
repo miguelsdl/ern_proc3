@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ern:NewReleaseMessage xmlns:ern="http://ddex.net/xml/ern/38" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" LanguageAndScriptCode="pr" xs:schemaLocation="http://ddex.net/xml/ern/38 http://ddex.net/xml/ern/38/release-notification.xsd" MessageSchemaVersionId="ern/38">
+  <MessageHeader>
+    <MessageThreadId>PADPIDA2021061714E1726766372</MessageThreadId>
+    <MessageId>PADPIDA2021061714E1726766372</MessageId>
+    <MessageSender>
+      <PartyId>PADPIDA2021061714E</PartyId>
+      <PartyName>
+        <FullName>Lujo Network</FullName>
+      </PartyName>
+    </MessageSender>
+    <MessageRecipient>
+      <PartyId>PA-DPIDA-2016032305-3</PartyId>
+      <PartyName>
+        <FullName>Kuack Media Group</FullName>
+      </PartyName>
+    </MessageRecipient>
+    <MessageCreatedDateTime>2024-09-19T17:19:32+00:00</MessageCreatedDateTime>
+    <MessageControlType>LiveMessage</MessageControlType>
+  </MessageHeader>
+  <UpdateIndicator>OriginalMessage</UpdateIndicator>
+  <ResourceList>
+    <SoundRecording>
+      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+      <SoundRecordingId>
+        <ISRC>ESA112447732</ISRC>
+        <ProprietaryId Namespace="DPID:PADPIDA2021061714E">custom_id_221298</ProprietaryId>
+      </SoundRecordingId>
+      <IndirectSoundRecordingId>
+        <ISWC>TA112447732</ISWC>
+      </IndirectSoundRecordingId>
+      <ResourceReference>A1</ResourceReference>
+      <ReferenceTitle LanguageAndScriptCode="pr">
+        <TitleText>A Chama Continua Acesa! (Ba 15 Prefeito, Vice Dra. Manuella)</TitleText>
+      </ReferenceTitle>
+      <Duration>PT00H02M12S</Duration>
+      <SoundRecordingDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <Title LanguageAndScriptCode="pr" TitleType="DisplayTitle">
+          <TitleText>A Chama Continua Acesa! (Ba 15 Prefeito, Vice Dra. Manuella)</TitleText>
+        </Title>
+        <Title LanguageAndScriptCode="pr" TitleType="FormalTitle">
+          <TitleText>A Chama Continua Acesa! (Ba 15 Prefeito, Vice Dra. Manuella)</TitleText>
+        </Title>
+        <DisplayArtist SequenceNumber="1">
+          <PartyName>
+            <FullName>Mundo dos Jingles</FullName>
+          </PartyName>
+          <PartyId Namespace="DPID:PADPIDA2021061714E">4352</PartyId>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <ResourceContributor SequenceNumber="1">
+          <PartyName>
+            <FullName>Albérico Jr. F Souza</FullName>
+          </PartyName>
+          <ResourceContributorRole>Producer</ResourceContributorRole>
+        </ResourceContributor>
+        <IndirectResourceContributor SequenceNumber="1">
+          <PartyName>
+            <FullName>Augusto Limeira</FullName>
+          </PartyName>
+          <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+        </IndirectResourceContributor>
+        <IndirectResourceContributor SequenceNumber="2">
+          <PartyName>
+            <FullName>Albérico Jr. F Souza</FullName>
+          </PartyName>
+          <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+        </IndirectResourceContributor>
+        <IndirectResourceContributor SequenceNumber="3">
+          <PartyName>
+            <FullName>Glício Lee</FullName>
+          </PartyName>
+          <IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+        </IndirectResourceContributor>
+        <DisplayArtistName>Mundo dos Jingles</DisplayArtistName>
+        <LabelName LabelNameType="DisplayLabelName">Lee Music Digital</LabelName>
+        <OriginalResourceReleaseDate>2024-09-20</OriginalResourceReleaseDate>
+        <PLine>
+          <Year>2024</Year>
+          <PLineText>2024 Lee Music Digital</PLineText>
+        </PLine>
+        <Genre>
+          <GenreText>Brazilian</GenreText>
+        </Genre>
+        <ParentalWarningType>NotExplicit</ParentalWarningType>
+        <TechnicalSoundRecordingDetails>
+          <TechnicalResourceDetailsReference>T1</TechnicalResourceDetailsReference>
+          <AudioCodecType>FLAC</AudioCodecType>
+          <BitRate UnitOfMeasure="bps">958157</BitRate>
+          <SamplingRate UnitOfMeasure="Hz">44100</SamplingRate>
+          <BitsPerSample>16</BitsPerSample>
+          <File>
+            <FileName>8445824457784_T1_001.flac</FileName>
+            <FilePath>resources/</FilePath>
+            <HashSum>
+              <HashSum>853286ce51210908133034d21cd1ea21</HashSum>
+              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+            </HashSum>
+          </File>
+        </TechnicalSoundRecordingDetails>
+      </SoundRecordingDetailsByTerritory>
+    </SoundRecording>
+    <Image>
+      <ImageType>FrontCoverImage</ImageType>
+      <ImageId>
+        <ProprietaryId Namespace="DPID:PADPIDA2021061714E">8445824457784.jpg</ProprietaryId>
+      </ImageId>
+      <ResourceReference>A2</ResourceReference>
+      <ImageDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <TechnicalImageDetails>
+          <TechnicalResourceDetailsReference>T2</TechnicalResourceDetailsReference>
+          <ImageCodecType>JPEG</ImageCodecType>
+          <ImageHeight>3000</ImageHeight>
+          <ImageWidth>3000</ImageWidth>
+          <File>
+            <FileName>8445824457784_T2_002.jpg</FileName>
+            <FilePath>resources/</FilePath>
+            <HashSum>
+              <HashSum>fbf9fc91b69ac95155f0a2136fcb9da7</HashSum>
+              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+            </HashSum>
+          </File>
+        </TechnicalImageDetails>
+      </ImageDetailsByTerritory>
+    </Image>
+  </ResourceList>
+  <ReleaseList>
+    <Release>
+      <ReleaseId>
+        <ICPN IsEan="true">8445824457784</ICPN>
+        <ProprietaryId Namespace="DPID:PADPIDA2021061714E">custom_id_AL:65589</ProprietaryId>
+      </ReleaseId>
+      <ReleaseReference>R0</ReleaseReference>
+      <ReferenceTitle LanguageAndScriptCode="pr">
+        <TitleText>A Chama Continua Acesa! (Ba 15 Prefeito, Vice Dra. Manuella)</TitleText>
+      </ReferenceTitle>
+      <ReleaseResourceReferenceList>
+        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A1</ReleaseResourceReference>
+        <ReleaseResourceReference ReleaseResourceType="SecondaryResource">A2</ReleaseResourceReference>
+      </ReleaseResourceReferenceList>
+      <ReleaseType>Single</ReleaseType>
+      <ReleaseDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <DisplayArtistName>Mundo dos Jingles</DisplayArtistName>
+        <LabelName LabelNameType="DisplayLabelName">Lee Music Digital</LabelName>
+        <Title LanguageAndScriptCode="pr" TitleType="DisplayTitle">
+          <TitleText>A Chama Continua Acesa! (Ba 15 Prefeito, Vice Dra. Manuella)</TitleText>
+        </Title>
+        <Title LanguageAndScriptCode="pr" TitleType="FormalTitle">
+          <TitleText>A Chama Continua Acesa! (Ba 15 Prefeito, Vice Dra. Manuella)</TitleText>
+        </Title>
+        <DisplayArtist SequenceNumber="1">
+          <PartyName>
+            <FullName>Mundo dos Jingles</FullName>
+          </PartyName>
+          <PartyId Namespace="DPID:PADPIDA2021061714E">4352</PartyId>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <ParentalWarningType>NotExplicit</ParentalWarningType>
+        <ResourceGroup>
+          <ResourceGroup>
+            <Title TitleType="GroupingTitle">
+              <TitleText>Disc 1</TitleText>
+            </Title>
+            <SequenceNumber>1</SequenceNumber>
+            <ResourceGroupContentItem>
+              <SequenceNumber>1</SequenceNumber>
+              <ResourceType>SoundRecording</ResourceType>
+              <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A1</ReleaseResourceReference>
+            </ResourceGroupContentItem>
+          </ResourceGroup>
+          <ResourceGroupContentItem>
+            <SequenceNumber>2</SequenceNumber>
+            <ResourceType>Image</ResourceType>
+            <ReleaseResourceReference ReleaseResourceType="SecondaryResource">A2</ReleaseResourceReference>
+          </ResourceGroupContentItem>
+        </ResourceGroup>
+        <Genre>
+          <GenreText>Brazilian</GenreText>
+        </Genre>
+        <OriginalReleaseDate>2024-09-20</OriginalReleaseDate>
+      </ReleaseDetailsByTerritory>
+      <Duration>PT00H02M12S</Duration>
+      <PLine>
+        <Year>2024</Year>
+        <PLineText>2024 Lee Music Digital</PLineText>
+      </PLine>
+    </Release>
+    <Release>
+      <ReleaseId>
+        <ISRC>ESA112447732</ISRC>
+      </ReleaseId>
+      <ReleaseReference>R1</ReleaseReference>
+      <ReferenceTitle LanguageAndScriptCode="pr">
+        <TitleText>A Chama Continua Acesa! (Ba 15 Prefeito, Vice Dra. Manuella)</TitleText>
+      </ReferenceTitle>
+      <ReleaseResourceReferenceList>
+        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A1</ReleaseResourceReference>
+      </ReleaseResourceReferenceList>
+      <ReleaseType>TrackRelease</ReleaseType>
+      <ReleaseDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <DisplayArtistName>Mundo dos Jingles</DisplayArtistName>
+        <LabelName LabelNameType="DisplayLabelName">Lee Music Digital</LabelName>
+        <Title LanguageAndScriptCode="pr" TitleType="DisplayTitle">
+          <TitleText>A Chama Continua Acesa! (Ba 15 Prefeito, Vice Dra. Manuella)</TitleText>
+        </Title>
+        <Title LanguageAndScriptCode="pr" TitleType="FormalTitle">
+          <TitleText>A Chama Continua Acesa! (Ba 15 Prefeito, Vice Dra. Manuella)</TitleText>
+        </Title>
+        <DisplayArtist SequenceNumber="1">
+          <PartyName>
+            <FullName>Mundo dos Jingles</FullName>
+          </PartyName>
+          <PartyId Namespace="DPID:PADPIDA2021061714E">4352</PartyId>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <ParentalWarningType>NotExplicit</ParentalWarningType>
+        <Genre>
+          <GenreText>Brazilian</GenreText>
+        </Genre>
+      </ReleaseDetailsByTerritory>
+      <Duration>PT00H02M12S</Duration>
+      <PLine>
+        <Year>2024</Year>
+        <PLineText>2024 Lee Music Digital</PLineText>
+      </PLine>
+      <CLine>
+        <Year>2024</Year>
+        <CLineText>2024 Lee Music Digital</CLineText>
+      </CLine>
+    </Release>
+  </ReleaseList>
+  <DealList>
+    <ReleaseDeal>
+      <DealReleaseReference>R0</DealReleaseReference>
+      <Deal>
+        <DealReference>D1</DealReference>
+        <DealTerms>
+          <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+          <Usage>
+            <UseType>PermanentDownload</UseType>
+            <UseType>OnDemandStream</UseType>
+          </Usage>
+          <TerritoryCode>Worldwide</TerritoryCode>
+          <ValidityPeriod>
+            <StartDate>2024-09-20</StartDate>
+          </ValidityPeriod>
+        </DealTerms>
+      </Deal>
+      <Deal>
+        <DealReference>D1</DealReference>
+        <DealTerms>
+          <CommercialModelType>SubscriptionModel</CommercialModelType>
+          <Usage>
+            <UseType>PermanentDownload</UseType>
+            <UseType>OnDemandStream</UseType>
+          </Usage>
+          <TerritoryCode>Worldwide</TerritoryCode>
+          <ValidityPeriod>
+            <StartDate>2024-09-20</StartDate>
+          </ValidityPeriod>
+        </DealTerms>
+      </Deal>
+    </ReleaseDeal>
+    <ReleaseDeal>
+      <DealReleaseReference>R1</DealReleaseReference>
+      <Deal>
+        <DealReference>D2</DealReference>
+        <DealTerms>
+          <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+          <Usage>
+            <UseType>PermanentDownload</UseType>
+            <UseType>OnDemandStream</UseType>
+          </Usage>
+          <TerritoryCode>Worldwide</TerritoryCode>
+          <ValidityPeriod>
+            <StartDate>2024-09-20</StartDate>
+          </ValidityPeriod>
+        </DealTerms>
+      </Deal>
+      <Deal>
+        <DealReference>D2</DealReference>
+        <DealTerms>
+          <CommercialModelType>SubscriptionModel</CommercialModelType>
+          <Usage>
+            <UseType>PermanentDownload</UseType>
+            <UseType>OnDemandStream</UseType>
+          </Usage>
+          <TerritoryCode>Worldwide</TerritoryCode>
+          <ValidityPeriod>
+            <StartDate>2024-09-20</StartDate>
+          </ValidityPeriod>
+        </DealTerms>
+      </Deal>
+    </ReleaseDeal>
+  </DealList>
+</ern:NewReleaseMessage>
