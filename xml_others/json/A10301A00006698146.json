@@ -1,0 +1,3816 @@
+{
+  "ernm:NewReleaseMessage": {
+    "@AvsVersionId": "5",
+    "@LanguageAndScriptCode": "en",
+    "@xsi:schemaLocation": "http://ddex.net/xml/ern/43 http://ddex.net/xml/ern/43/release-notification.xsd",
+    "@xmlns:ernm": "http://ddex.net/xml/ern/43",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "MessageHeader": {
+      "MessageThreadId": "G0100006698146_KUC",
+      "MessageId": "332932439",
+      "MessageSender": {
+        "PartyId": "PADPIDA2007040502I",
+        "PartyName": {
+          "FullName": "Sony Music Entertainment"
+        }
+      },
+      "MessageRecipient": {
+        "PartyId": "PADPIDA2012073006T",
+        "PartyName": {
+          "FullName": "KuackMedia 4.3 SD"
+        }
+      },
+      "MessageCreatedDateTime": "2024-10-23T08:55:26.447Z",
+      "MessageControlType": "TestMessage"
+    },
+    "PartyList": {
+      "Party": [
+        {
+          "PartyReference": "P_SME_SENDER",
+          "PartyName": {
+            "FullName": "Sony Music Entertainment"
+          },
+          "PartyId": {
+            "DPID": "PADPIDA2007040502I"
+          }
+        },
+        {
+          "PartyReference": "P_ARTIST_295",
+          "PartyName": {
+            "FullName": "Bob Ludwig"
+          }
+        },
+        {
+          "PartyReference": "P_ARTIST_4788",
+          "PartyName": {
+            "FullName": "Bob Irwin"
+          }
+        },
+        {
+          "PartyReference": "P_ARTIST_4908",
+          "PartyName": {
+            "FullName": "Vic Anesini"
+          }
+        },
+        {
+          "PartyReference": "P_ARTIST_17349",
+          "PartyName": {
+            "FullName": "Tommy Shannon"
+          }
+        },
+        {
+          "PartyReference": "P_ARTIST_22436",
+          "PartyName": [
+            {
+              "FullName": "Stevie Ray Vaughan"
+            },
+            {
+              "@LanguageAndScriptCode": "zh-Hant",
+              "FullName": "\u53f2\u5824\u592b\u96f7\u8303"
+            }
+          ]
+        },
+        {
+          "PartyReference": "P_ARTIST_43733",
+          "PartyName": {
+            "FullName": "Spoken Word"
+          }
+        },
+        {
+          "PartyReference": "P_ARTIST_64118",
+          "PartyName": {
+            "FullName": "Richard Mullen"
+          }
+        },
+        {
+          "PartyReference": "P_ARTIST_64119",
+          "PartyName": {
+            "FullName": "Lincoln Clapp"
+          }
+        },
+        {
+          "PartyReference": "P_ARTIST_64122",
+          "PartyName": [
+            {
+              "FullName": "Stevie Ray Vaughn"
+            },
+            {
+              "@LanguageAndScriptCode": "zh-Hant",
+              "FullName": "\u53f2\u5824\u592b\u96f7\u8303"
+            }
+          ]
+        },
+        {
+          "PartyReference": "P_ARTIST_64123",
+          "PartyName": {
+            "FullName": "Double Trouble",
+            "#text": "/home/miguel/PycharmProjects/feed_refactor/miguel/src/xml/A10301A00006698146.xml"
+          }
+        },
+        {
+          "PartyReference": "P_ARTIST_64125",
+          "PartyName": {
+            "FullName": "John Hammond"
+          }
+        },
+        {
+          "PartyReference": "P_ARTIST_64126",
+          "PartyName": {
+            "FullName": "Tony Martell"
+          }
+        },
+        {
+          "PartyReference": "P_ARTIST_64127",
+          "PartyName": {
+            "FullName": "Mikie Harris"
+          }
+        },
+        {
+          "PartyReference": "P_ARTIST_64128",
+          "PartyName": {
+            "FullName": "Mark Proct"
+          }
+        },
+        {
+          "PartyReference": "P_ARTIST_64129",
+          "PartyName": {
+            "FullName": "Don Wershba"
+          }
+        },
+        {
+          "PartyReference": "P_ARTIST_64130",
+          "PartyName": {
+            "FullName": "Harry Spiridakis"
+          }
+        },
+        {
+          "PartyReference": "P_ARTIST_64131",
+          "PartyName": {
+            "FullName": "Ken Robertson"
+          }
+        },
+        {
+          "PartyReference": "P_ARTIST_64137",
+          "PartyName": {
+            "FullName": "B. Guy"
+          }
+        },
+        {
+          "PartyReference": "P_ARTIST_64139",
+          "PartyName": {
+            "FullName": "L. Mack"
+          }
+        },
+        {
+          "PartyReference": "P_ARTIST_64151",
+          "PartyName": {
+            "FullName": "R. Geddins"
+          }
+        },
+        {
+          "PartyReference": "P_ARTIST_64160",
+          "PartyName": {
+            "FullName": "L.C. Davis"
+          }
+        },
+        {
+          "PartyReference": "P_ARTIST_64161",
+          "PartyName": {
+            "FullName": "J.W. Scott"
+          }
+        },
+        {
+          "PartyReference": "P_ARTIST_65837",
+          "PartyName": [
+            {
+              "FullName": "Stevie Ray Vaughan & Double Trouble"
+            },
+            {
+              "@LanguageAndScriptCode": "zh-Hant",
+              "FullName": "\u53f2\u63d0\u592b\u96f7\u8303\u8207\u96d9\u91cd\u9ebb\u7169\u6a02\u5718"
+            }
+          ]
+        },
+        {
+          "PartyReference": "P_ARTIST_269083",
+          "PartyName": {
+            "FullName": "Doyle Bramhall"
+          }
+        },
+        {
+          "PartyReference": "P_ARTIST_1286795",
+          "PartyName": {
+            "FullName": "Chris \"Whipper\" Layton"
+          }
+        },
+        {
+          "PartyReference": "P_ARTIST_1327278",
+          "PartyName": [
+            {
+              "FullName": "Stevie Ray Vaughan (Primary)"
+            },
+            {
+              "@LanguageAndScriptCode": "zh-Hant",
+              "FullName": "\u53f2\u5824\u592b\u96f7\u8303"
+            }
+          ]
+        },
+        {
+          "PartyReference": "P_ARTIST_2756870",
+          "PartyName": [
+            {
+              "FullName": "O'Kelly Isley"
+            },
+            {
+              "@LanguageAndScriptCode": "ja-Jpan",
+              "FullName": "O'kelly Isley"
+            }
+          ]
+        },
+        {
+          "PartyReference": "P_ARTIST_2756871",
+          "PartyName": [
+            {
+              "FullName": "Ronald Isley"
+            },
+            {
+              "@LanguageAndScriptCode": "ja-Jpan",
+              "FullName": "Ronald Isley"
+            }
+          ]
+        },
+        {
+          "PartyReference": "P_ARTIST_2756872",
+          "PartyName": [
+            {
+              "FullName": "Rudolph Isley"
+            },
+            {
+              "@LanguageAndScriptCode": "ja-Jpan",
+              "FullName": "Rudolph Isley"
+            }
+          ]
+        },
+        {
+          "PartyReference": "P_ARTIST_2782385",
+          "PartyName": [
+            {
+              "FullName": "Chester Burnett"
+            },
+            {
+              "@LanguageAndScriptCode": "ja-Jpan",
+              "FullName": "Chester Burnett"
+            }
+          ]
+        },
+        {
+          "PartyReference": "P_LABEL_EPICLEGACY",
+          "PartyName": {
+            "FullName": "Epic/Legacy"
+          }
+        }
+      ]
+    },
+    "ResourceList": {
+      "SoundRecording": [
+        {
+          "ResourceReference": "A1",
+          "Type": "MusicalWorkSoundRecording",
+          "SoundRecordingEdition": {
+            "Type": "NonImmersiveEdition",
+            "ResourceId": {
+              "ISRC": "USSM19805796"
+            },
+            "PLine": {
+              "Year": "1983",
+              "PLineText": "(P) 1983 Epic Records, a division of Sony Music Entertainment"
+            },
+            "TechnicalDetails": {
+              "TechnicalResourceDetailsReference": "T1",
+              "DeliveryFile": {
+                "Type": "AudioFile",
+                "AudioCodecType": "MP3",
+                "BitRate": {
+                  "@UnitOfMeasure": "kbps",
+                  "#text": "320"
+                },
+                "NumberOfChannels": "2",
+                "SamplingRate": {
+                  "@UnitOfMeasure": "kHz",
+                  "#text": "44.1"
+                },
+                "BitsPerSample": "16",
+                "File": {
+                  "URI": "https://mgsrv-aws.smecde.com/rd/2202b138e5/20122/20173269.20122.mp3?oauth_consumer_key=kuc&tag=cc69e159c1612000dff9e16c08b9fdec&oauth_timestamp=1738313726&oauth_signature=LjoeveKyXXNYL%2BY23vljOhHnRDM%3D",
+                  "HashSum": {
+                    "Algorithm": "MD5",
+                    "HashSumValue": "cc69e159c1612000dff9e16c08b9fdec"
+                  },
+                  "FileSize": "5664787"
+                },
+                "IsProvidedInDelivery": "false"
+              },
+              "IsClip": "false",
+              "ClipDetails": {
+                "TechnicalResourceDetailsReference": "T1P",
+                "ClipType": "Preview",
+                "Timing": {
+                  "StartPoint": "48000",
+                  "EndPoint": "78000",
+                  "DurationUsed": "P0DT0H0M30.000S"
+                },
+                "ExpressionType": "Instructive"
+              }
+            }
+          },
+          "DisplayTitleText": {
+            "@LanguageAndScriptCode": "en",
+            "#text": "Love Struck Baby"
+          },
+          "DisplayTitle": {
+            "@LanguageAndScriptCode": "en",
+            "TitleText": "Love Struck Baby"
+          },
+          "DisplayArtistName": "Stevie Ray Vaughan & Double Trouble",
+          "DisplayArtist": {
+            "@SequenceNumber": "1",
+            "ArtistPartyReference": "P_ARTIST_65837",
+            "DisplayArtistRole": "MainArtist",
+            "ArtisticRole": "AssociatedPerformer"
+          },
+          "Contributor": [
+            {
+              "@SequenceNumber": "1",
+              "ContributorPartyReference": "P_ARTIST_64122",
+              "Role": [
+                {
+                  "@Namespace": "DPID:PADPIDA2007040502I",
+                  "@UserDefinedValue": "Guitar",
+                  "#text": "UserDefined"
+                },
+                {
+                  "@Namespace": "DPID:PADPIDA2007040502I",
+                  "@UserDefinedValue": "Vocal",
+                  "#text": "UserDefined"
+                }
+              ]
+            },
+            {
+              "@SequenceNumber": "2",
+              "ContributorPartyReference": "P_ARTIST_64119",
+              "Role": [
+                {
+                  "@Namespace": "DPID:PADPIDA2007040502I",
+                  "@UserDefinedValue": "Vocal",
+                  "#text": "UserDefined"
+                },
+                {
+                  "@Namespace": "DPID:PADPIDA2007040502I",
+                  "@UserDefinedValue": "Mixing Engineer",
+                  "#text": "UserDefined"
+                }
+              ]
+            },
+            {
+              "@SequenceNumber": "3",
+              "ContributorPartyReference": "P_ARTIST_22436",
+              "Role": [
+                "Composer",
+                "Lyricist",
+                {
+                  "@Namespace": "DPID:PADPIDA2007040502I",
+                  "@UserDefinedValue": "Producer",
+                  "#text": "UserDefined"
+                }
+              ]
+            },
+            {
+              "@SequenceNumber": "4",
+              "ContributorPartyReference": "P_ARTIST_1286795",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Drums",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "5",
+              "ContributorPartyReference": "P_ARTIST_17349",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Bass",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "6",
+              "ContributorPartyReference": "P_ARTIST_64118",
+              "Role": [
+                {
+                  "@Namespace": "DPID:PADPIDA2007040502I",
+                  "@UserDefinedValue": "Producer",
+                  "#text": "UserDefined"
+                },
+                {
+                  "@Namespace": "DPID:PADPIDA2007040502I",
+                  "@UserDefinedValue": "Recording Engineer",
+                  "#text": "UserDefined"
+                }
+              ]
+            },
+            {
+              "@SequenceNumber": "7",
+              "ContributorPartyReference": "P_ARTIST_64123",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Producer",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "8",
+              "ContributorPartyReference": "P_ARTIST_4788",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Producer",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "9",
+              "ContributorPartyReference": "P_ARTIST_64125",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Executive Producer",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "10",
+              "ContributorPartyReference": "P_ARTIST_64126",
+              "Role": [
+                {
+                  "@Namespace": "DPID:PADPIDA2007040502I",
+                  "@UserDefinedValue": "Coordinator",
+                  "#text": "UserDefined"
+                },
+                {
+                  "@Namespace": "DPID:PADPIDA2007040502I",
+                  "@UserDefinedValue": "Executive Producer",
+                  "#text": "UserDefined"
+                }
+              ]
+            },
+            {
+              "@SequenceNumber": "11",
+              "ContributorPartyReference": "P_ARTIST_64127",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Assistant Producer",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "12",
+              "ContributorPartyReference": "P_ARTIST_64128",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Project Coordinator",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "13",
+              "ContributorPartyReference": "P_ARTIST_64129",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Assistant Engineer",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "14",
+              "ContributorPartyReference": "P_ARTIST_64130",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Assistant Engineer",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "15",
+              "ContributorPartyReference": "P_ARTIST_4908",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Mastering Engineer",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "16",
+              "ContributorPartyReference": "P_ARTIST_295",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Mastering Engineer",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "17",
+              "ContributorPartyReference": "P_ARTIST_64131",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Mastering Engineer",
+                "#text": "UserDefined"
+              }
+            }
+          ],
+          "Duration": "PT0H2M22S",
+          "ParentalWarningType": "ExplicitContentEdited",
+          "LanguageOfPerformance": "en"
+        },
+        {
+          "ResourceReference": "A2",
+          "Type": "MusicalWorkSoundRecording",
+          "SoundRecordingEdition": {
+            "Type": "NonImmersiveEdition",
+            "ResourceId": {
+              "ISRC": "USSM18300418"
+            },
+            "PLine": {
+              "Year": "1983",
+              "PLineText": "(P) 1983 Epic Records, a division of Sony Music Entertainment"
+            },
+            "TechnicalDetails": {
+              "TechnicalResourceDetailsReference": "T2",
+              "DeliveryFile": {
+                "Type": "AudioFile",
+                "AudioCodecType": "MP3",
+                "BitRate": {
+                  "@UnitOfMeasure": "kbps",
+                  "#text": "320"
+                },
+                "NumberOfChannels": "2",
+                "SamplingRate": {
+                  "@UnitOfMeasure": "kHz",
+                  "#text": "44.1"
+                },
+                "BitsPerSample": "16",
+                "File": {
+                  "URI": "https://mgsrv-aws.smecde.com/rd/65dbb138e5/20122/20173271.20122.mp3?oauth_consumer_key=kuc&tag=db44ca8daa212c615a5f58167e447bf3&oauth_timestamp=1738313726&oauth_signature=LJV9bnO%2BVOryykMEw1de39uIe6A%3D",
+                  "HashSum": {
+                    "Algorithm": "MD5",
+                    "HashSumValue": "db44ca8daa212c615a5f58167e447bf3"
+                  },
+                  "FileSize": "8778579"
+                },
+                "IsProvidedInDelivery": "false"
+              },
+              "IsClip": "false",
+              "ClipDetails": {
+                "TechnicalResourceDetailsReference": "T2P",
+                "ClipType": "Preview",
+                "Timing": {
+                  "StartPoint": "48000",
+                  "EndPoint": "78000",
+                  "DurationUsed": "P0DT0H0M30.000S"
+                },
+                "ExpressionType": "Instructive"
+              }
+            }
+          },
+          "DisplayTitleText": {
+            "@LanguageAndScriptCode": "en",
+            "#text": "Pride and Joy"
+          },
+          "DisplayTitle": {
+            "@LanguageAndScriptCode": "en",
+            "TitleText": "Pride and Joy"
+          },
+          "DisplayArtistName": "Stevie Ray Vaughan & Double Trouble",
+          "DisplayArtist": {
+            "@SequenceNumber": "1",
+            "ArtistPartyReference": "P_ARTIST_65837",
+            "DisplayArtistRole": "MainArtist",
+            "ArtisticRole": [
+              "AssociatedPerformer",
+              {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Producer",
+                "#text": "UserDefined"
+              }
+            ]
+          },
+          "Contributor": [
+            {
+              "@SequenceNumber": "1",
+              "ContributorPartyReference": "P_ARTIST_64119",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Vocal",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "2",
+              "ContributorPartyReference": "P_ARTIST_22436",
+              "Role": [
+                {
+                  "@Namespace": "DPID:PADPIDA2007040502I",
+                  "@UserDefinedValue": "Guitar",
+                  "#text": "UserDefined"
+                },
+                {
+                  "@Namespace": "DPID:PADPIDA2007040502I",
+                  "@UserDefinedValue": "Vocal",
+                  "#text": "UserDefined"
+                },
+                "Composer",
+                "Lyricist"
+              ]
+            },
+            {
+              "@SequenceNumber": "3",
+              "ContributorPartyReference": "P_ARTIST_64118",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Producer",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "4",
+              "ContributorPartyReference": "P_ARTIST_64123",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Producer",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "5",
+              "ContributorPartyReference": "P_ARTIST_64125",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Executive Producer",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "6",
+              "ContributorPartyReference": "P_ARTIST_1286795",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Drums",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "7",
+              "ContributorPartyReference": "P_ARTIST_17349",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Bass",
+                "#text": "UserDefined"
+              }
+            }
+          ],
+          "Duration": "PT0H3M39S",
+          "ParentalWarningType": "ExplicitContentEdited",
+          "LanguageOfPerformance": "en"
+        },
+        {
+          "ResourceReference": "A3",
+          "Type": "MusicalWorkSoundRecording",
+          "SoundRecordingEdition": {
+            "Type": "NonImmersiveEdition",
+            "ResourceId": {
+              "ISRC": "USSM18300419"
+            },
+            "PLine": {
+              "Year": "1983",
+              "PLineText": "(P) 1983 Epic Records, a division of Sony Music Entertainment"
+            },
+            "TechnicalDetails": {
+              "TechnicalResourceDetailsReference": "T3",
+              "DeliveryFile": {
+                "Type": "AudioFile",
+                "AudioCodecType": "MP3",
+                "BitRate": {
+                  "@UnitOfMeasure": "kbps",
+                  "#text": "320"
+                },
+                "NumberOfChannels": "2",
+                "SamplingRate": {
+                  "@UnitOfMeasure": "kHz",
+                  "#text": "44.1"
+                },
+                "BitsPerSample": "16",
+                "File": {
+                  "URI": "https://mgsrv-aws.smecde.com/rd/a8a5c138e5/20122/20173273.20122.mp3?oauth_consumer_key=kuc&tag=2fe9517481fa43a2cbba1750dbb4505c&oauth_timestamp=1738313726&oauth_signature=kb%2FNLQ1e8T4jzNZBKcRUtnLx04M%3D",
+                  "HashSum": {
+                    "Algorithm": "MD5",
+                    "HashSumValue": "2fe9517481fa43a2cbba1750dbb4505c"
+                  },
+                  "FileSize": "12830692"
+                },
+                "IsProvidedInDelivery": "false"
+              },
+              "IsClip": "false",
+              "ClipDetails": {
+                "TechnicalResourceDetailsReference": "T3P",
+                "ClipType": "Preview",
+                "Timing": {
+                  "StartPoint": "48000",
+                  "EndPoint": "78000",
+                  "DurationUsed": "P0DT0H0M30.000S"
+                },
+                "ExpressionType": "Instructive"
+              }
+            }
+          },
+          "DisplayTitleText": {
+            "@LanguageAndScriptCode": "en",
+            "#text": "Texas Flood"
+          },
+          "DisplayTitle": {
+            "@LanguageAndScriptCode": "en",
+            "TitleText": "Texas Flood"
+          },
+          "DisplayArtistName": "Stevie Ray Vaughan & Double Trouble",
+          "DisplayArtist": {
+            "@SequenceNumber": "1",
+            "ArtistPartyReference": "P_ARTIST_65837",
+            "DisplayArtistRole": "MainArtist",
+            "ArtisticRole": "AssociatedPerformer"
+          },
+          "Contributor": [
+            {
+              "@SequenceNumber": "1",
+              "ContributorPartyReference": "P_ARTIST_64160",
+              "Role": [
+                "Composer",
+                "Lyricist"
+              ]
+            },
+            {
+              "@SequenceNumber": "2",
+              "ContributorPartyReference": "P_ARTIST_1327278",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Producer",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "3",
+              "ContributorPartyReference": "P_ARTIST_22436",
+              "Role": [
+                {
+                  "@Namespace": "DPID:PADPIDA2007040502I",
+                  "@UserDefinedValue": "Guitar",
+                  "#text": "UserDefined"
+                },
+                {
+                  "@Namespace": "DPID:PADPIDA2007040502I",
+                  "@UserDefinedValue": "Vocal",
+                  "#text": "UserDefined"
+                }
+              ]
+            },
+            {
+              "@SequenceNumber": "4",
+              "ContributorPartyReference": "P_ARTIST_64118",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Producer",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "5",
+              "ContributorPartyReference": "P_ARTIST_64161",
+              "Role": [
+                "Composer",
+                "Lyricist"
+              ]
+            },
+            {
+              "@SequenceNumber": "6",
+              "ContributorPartyReference": "P_ARTIST_64123",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Producer",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "7",
+              "ContributorPartyReference": "P_ARTIST_1286795",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Drums",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "8",
+              "ContributorPartyReference": "P_ARTIST_64125",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Executive Producer",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "9",
+              "ContributorPartyReference": "P_ARTIST_17349",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Bass",
+                "#text": "UserDefined"
+              }
+            }
+          ],
+          "Duration": "PT0H5M21S",
+          "ParentalWarningType": "ExplicitContentEdited",
+          "LanguageOfPerformance": "en"
+        },
+        {
+          "ResourceReference": "A4",
+          "Type": "MusicalWorkSoundRecording",
+          "SoundRecordingEdition": {
+            "Type": "NonImmersiveEdition",
+            "ResourceId": {
+              "ISRC": "USSM18300420"
+            },
+            "PLine": {
+              "Year": "1983",
+              "PLineText": "(P) 1983 Epic Records, a division of Sony Music Entertainment"
+            },
+            "TechnicalDetails": {
+              "TechnicalResourceDetailsReference": "T4",
+              "DeliveryFile": {
+                "Type": "AudioFile",
+                "AudioCodecType": "MP3",
+                "BitRate": {
+                  "@UnitOfMeasure": "kbps",
+                  "#text": "320"
+                },
+                "NumberOfChannels": "2",
+                "SamplingRate": {
+                  "@UnitOfMeasure": "kHz",
+                  "#text": "44.1"
+                },
+                "BitsPerSample": "16",
+                "File": {
+                  "URI": "https://mgsrv-aws.smecde.com/rd/eb7fc138e5/20122/20173275.20122.mp3?oauth_consumer_key=kuc&tag=5dec977c5093e2c49dbed22aa5d9bcc3&oauth_timestamp=1738313726&oauth_signature=Yp5Xab1B9%2FSyikgiThRDxBQCGB8%3D",
+                  "HashSum": {
+                    "Algorithm": "MD5",
+                    "HashSumValue": "5dec977c5093e2c49dbed22aa5d9bcc3"
+                  },
+                  "FileSize": "6691912"
+                },
+                "IsProvidedInDelivery": "false"
+              },
+              "IsClip": "false",
+              "ClipDetails": {
+                "TechnicalResourceDetailsReference": "T4P",
+                "ClipType": "Preview",
+                "Timing": {
+                  "StartPoint": "48000",
+                  "EndPoint": "78000",
+                  "DurationUsed": "P0DT0H0M30.000S"
+                },
+                "ExpressionType": "Instructive"
+              }
+            }
+          },
+          "DisplayTitleText": {
+            "@LanguageAndScriptCode": "en",
+            "#text": "Tell Me"
+          },
+          "DisplayTitle": {
+            "@LanguageAndScriptCode": "en",
+            "TitleText": "Tell Me"
+          },
+          "DisplayArtistName": "Stevie Ray Vaughan & Double Trouble",
+          "DisplayArtist": {
+            "@SequenceNumber": "1",
+            "ArtistPartyReference": "P_ARTIST_65837",
+            "DisplayArtistRole": "MainArtist",
+            "ArtisticRole": "AssociatedPerformer"
+          },
+          "Contributor": [
+            {
+              "@SequenceNumber": "1",
+              "ContributorPartyReference": "P_ARTIST_2782385",
+              "Role": [
+                "Composer",
+                "Lyricist"
+              ]
+            },
+            {
+              "@SequenceNumber": "2",
+              "ContributorPartyReference": "P_ARTIST_64122",
+              "Role": [
+                {
+                  "@Namespace": "DPID:PADPIDA2007040502I",
+                  "@UserDefinedValue": "Guitar",
+                  "#text": "UserDefined"
+                },
+                {
+                  "@Namespace": "DPID:PADPIDA2007040502I",
+                  "@UserDefinedValue": "Vocal",
+                  "#text": "UserDefined"
+                },
+                {
+                  "@Namespace": "DPID:PADPIDA2007040502I",
+                  "@UserDefinedValue": "Producer",
+                  "#text": "UserDefined"
+                }
+              ]
+            },
+            {
+              "@SequenceNumber": "3",
+              "ContributorPartyReference": "P_ARTIST_64119",
+              "Role": [
+                {
+                  "@Namespace": "DPID:PADPIDA2007040502I",
+                  "@UserDefinedValue": "Vocal",
+                  "#text": "UserDefined"
+                },
+                {
+                  "@Namespace": "DPID:PADPIDA2007040502I",
+                  "@UserDefinedValue": "Mixing Engineer",
+                  "#text": "UserDefined"
+                }
+              ]
+            },
+            {
+              "@SequenceNumber": "4",
+              "ContributorPartyReference": "P_ARTIST_1286795",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Drums",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "5",
+              "ContributorPartyReference": "P_ARTIST_17349",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Bass",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "6",
+              "ContributorPartyReference": "P_ARTIST_64118",
+              "Role": [
+                {
+                  "@Namespace": "DPID:PADPIDA2007040502I",
+                  "@UserDefinedValue": "Producer",
+                  "#text": "UserDefined"
+                },
+                {
+                  "@Namespace": "DPID:PADPIDA2007040502I",
+                  "@UserDefinedValue": "Recording Engineer",
+                  "#text": "UserDefined"
+                }
+              ]
+            },
+            {
+              "@SequenceNumber": "7",
+              "ContributorPartyReference": "P_ARTIST_64123",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Producer",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "8",
+              "ContributorPartyReference": "P_ARTIST_64125",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Executive Producer",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "9",
+              "ContributorPartyReference": "P_ARTIST_64127",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Assistant Producer",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "10",
+              "ContributorPartyReference": "P_ARTIST_64129",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Assistant Engineer",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "11",
+              "ContributorPartyReference": "P_ARTIST_64130",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Assistant Engineer",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "12",
+              "ContributorPartyReference": "P_ARTIST_64131",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Mastering Engineer",
+                "#text": "UserDefined"
+              }
+            }
+          ],
+          "Duration": "PT0H2M47S",
+          "ParentalWarningType": "ExplicitContentEdited",
+          "LanguageOfPerformance": "en"
+        },
+        {
+          "ResourceReference": "A5",
+          "Type": "MusicalWorkSoundRecording",
+          "SoundRecordingEdition": {
+            "Type": "NonImmersiveEdition",
+            "ResourceId": {
+              "ISRC": "USSM18300421"
+            },
+            "PLine": {
+              "Year": "1983",
+              "PLineText": "(P) 1983 Epic Records, a division of Sony Music Entertainment"
+            },
+            "TechnicalDetails": {
+              "TechnicalResourceDetailsReference": "T5",
+              "DeliveryFile": {
+                "Type": "AudioFile",
+                "AudioCodecType": "MP3",
+                "BitRate": {
+                  "@UnitOfMeasure": "kbps",
+                  "#text": "320"
+                },
+                "NumberOfChannels": "2",
+                "SamplingRate": {
+                  "@UnitOfMeasure": "kHz",
+                  "#text": "44.1"
+                },
+                "BitsPerSample": "16",
+                "File": {
+                  "URI": "https://mgsrv-aws.smecde.com/rd/2f49d138e5/20122/20173277.20122.mp3?oauth_consumer_key=kuc&tag=d5c14de90d70995392b83a8cc828362e&oauth_timestamp=1738313726&oauth_signature=D%2FQJrVsDWjgnpRe%2Fjya28%2BjJQrk%3D",
+                  "HashSum": {
+                    "Algorithm": "MD5",
+                    "HashSumValue": "d5c14de90d70995392b83a8cc828362e"
+                  },
+                  "FileSize": "8060729"
+                },
+                "IsProvidedInDelivery": "false"
+              },
+              "IsClip": "false",
+              "ClipDetails": {
+                "TechnicalResourceDetailsReference": "T5P",
+                "ClipType": "Preview",
+                "Timing": {
+                  "StartPoint": "48000",
+                  "EndPoint": "78000",
+                  "DurationUsed": "P0DT0H0M30.000S"
+                },
+                "ExpressionType": "Instructive"
+              }
+            }
+          },
+          "DisplayTitleText": {
+            "@LanguageAndScriptCode": "en",
+            "#text": "Testify"
+          },
+          "DisplayTitle": {
+            "@LanguageAndScriptCode": "en",
+            "TitleText": "Testify"
+          },
+          "DisplayArtistName": "Stevie Ray Vaughan & Double Trouble",
+          "DisplayArtist": {
+            "@SequenceNumber": "1",
+            "ArtistPartyReference": "P_ARTIST_65837",
+            "DisplayArtistRole": "MainArtist",
+            "ArtisticRole": "AssociatedPerformer"
+          },
+          "Contributor": [
+            {
+              "@SequenceNumber": "1",
+              "ContributorPartyReference": "P_ARTIST_2756870",
+              "Role": [
+                "Composer",
+                "Lyricist"
+              ]
+            },
+            {
+              "@SequenceNumber": "2",
+              "ContributorPartyReference": "P_ARTIST_22436",
+              "Role": [
+                {
+                  "@Namespace": "DPID:PADPIDA2007040502I",
+                  "@UserDefinedValue": "Guitar",
+                  "#text": "UserDefined"
+                },
+                {
+                  "@Namespace": "DPID:PADPIDA2007040502I",
+                  "@UserDefinedValue": "Vocal",
+                  "#text": "UserDefined"
+                },
+                {
+                  "@Namespace": "DPID:PADPIDA2007040502I",
+                  "@UserDefinedValue": "Producer",
+                  "#text": "UserDefined"
+                }
+              ]
+            },
+            {
+              "@SequenceNumber": "3",
+              "ContributorPartyReference": "P_ARTIST_1286795",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Drums",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "4",
+              "ContributorPartyReference": "P_ARTIST_2756871",
+              "Role": [
+                "Composer",
+                "Lyricist"
+              ]
+            },
+            {
+              "@SequenceNumber": "5",
+              "ContributorPartyReference": "P_ARTIST_64123",
+              "Role": [
+                "AssociatedPerformer",
+                {
+                  "@Namespace": "DPID:PADPIDA2007040502I",
+                  "@UserDefinedValue": "Producer",
+                  "#text": "UserDefined"
+                }
+              ]
+            },
+            {
+              "@SequenceNumber": "6",
+              "ContributorPartyReference": "P_ARTIST_2756872",
+              "Role": [
+                "Composer",
+                "Lyricist"
+              ]
+            },
+            {
+              "@SequenceNumber": "7",
+              "ContributorPartyReference": "P_ARTIST_17349",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Bass",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "8",
+              "ContributorPartyReference": "P_ARTIST_64118",
+              "Role": [
+                {
+                  "@Namespace": "DPID:PADPIDA2007040502I",
+                  "@UserDefinedValue": "Producer",
+                  "#text": "UserDefined"
+                },
+                {
+                  "@Namespace": "DPID:PADPIDA2007040502I",
+                  "@UserDefinedValue": "Recording Engineer",
+                  "#text": "UserDefined"
+                }
+              ]
+            },
+            {
+              "@SequenceNumber": "9",
+              "ContributorPartyReference": "P_ARTIST_64125",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Executive Producer",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "10",
+              "ContributorPartyReference": "P_ARTIST_64127",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Assistant Producer",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "11",
+              "ContributorPartyReference": "P_ARTIST_64129",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Assistant Engineer",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "12",
+              "ContributorPartyReference": "P_ARTIST_64130",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Assistant Engineer",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "13",
+              "ContributorPartyReference": "P_ARTIST_64119",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Mixing Engineer",
+                "#text": "UserDefined"
+              }
+            }
+          ],
+          "Duration": "PT0H3M21S",
+          "ParentalWarningType": "ExplicitContentEdited",
+          "LanguageOfPerformance": "en"
+        },
+        {
+          "ResourceReference": "A6",
+          "Type": "MusicalWorkSoundRecording",
+          "SoundRecordingEdition": {
+            "Type": "NonImmersiveEdition",
+            "ResourceId": {
+              "ISRC": "USSM18300422"
+            },
+            "PLine": {
+              "Year": "1983",
+              "PLineText": "(P) 1983 Epic Records, a division of Sony Music Entertainment"
+            },
+            "TechnicalDetails": {
+              "TechnicalResourceDetailsReference": "T6",
+              "DeliveryFile": {
+                "Type": "AudioFile",
+                "AudioCodecType": "MP3",
+                "BitRate": {
+                  "@UnitOfMeasure": "kbps",
+                  "#text": "320"
+                },
+                "NumberOfChannels": "2",
+                "SamplingRate": {
+                  "@UnitOfMeasure": "kHz",
+                  "#text": "44.1"
+                },
+                "BitsPerSample": "16",
+                "File": {
+                  "URI": "https://mgsrv-aws.smecde.com/rd/6223e138e5/20122/20173279.20122.mp3?oauth_consumer_key=kuc&tag=97c0aafdb5fdaac0ab119dcc02e911cc&oauth_timestamp=1738313726&oauth_signature=aSO8sLSWBVONWddCI0SZSm%2BqKss%3D",
+                  "HashSum": {
+                    "Algorithm": "MD5",
+                    "HashSumValue": "97c0aafdb5fdaac0ab119dcc02e911cc"
+                  },
+                  "FileSize": "11171392"
+                },
+                "IsProvidedInDelivery": "false"
+              },
+              "IsClip": "false",
+              "ClipDetails": {
+                "TechnicalResourceDetailsReference": "T6P",
+                "ClipType": "Preview",
+                "Timing": {
+                  "StartPoint": "48000",
+                  "EndPoint": "78000",
+                  "DurationUsed": "P0DT0H0M30.000S"
+                },
+                "ExpressionType": "Instructive"
+              }
+            }
+          },
+          "DisplayTitleText": {
+            "@LanguageAndScriptCode": "en",
+            "#text": "Rude Mood"
+          },
+          "DisplayTitle": {
+            "@LanguageAndScriptCode": "en",
+            "TitleText": "Rude Mood"
+          },
+          "DisplayArtistName": "Stevie Ray Vaughan & Double Trouble",
+          "DisplayArtist": {
+            "@SequenceNumber": "1",
+            "ArtistPartyReference": "P_ARTIST_65837",
+            "DisplayArtistRole": "MainArtist",
+            "ArtisticRole": "AssociatedPerformer"
+          },
+          "Contributor": [
+            {
+              "@SequenceNumber": "1",
+              "ContributorPartyReference": "P_ARTIST_22436",
+              "Role": [
+                {
+                  "@Namespace": "DPID:PADPIDA2007040502I",
+                  "@UserDefinedValue": "Guitar",
+                  "#text": "UserDefined"
+                },
+                {
+                  "@Namespace": "DPID:PADPIDA2007040502I",
+                  "@UserDefinedValue": "Vocal",
+                  "#text": "UserDefined"
+                },
+                "Composer",
+                "Lyricist",
+                {
+                  "@Namespace": "DPID:PADPIDA2007040502I",
+                  "@UserDefinedValue": "Producer",
+                  "#text": "UserDefined"
+                }
+              ]
+            },
+            {
+              "@SequenceNumber": "2",
+              "ContributorPartyReference": "P_ARTIST_1286795",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Drums",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "3",
+              "ContributorPartyReference": "P_ARTIST_64123",
+              "Role": [
+                "AssociatedPerformer",
+                {
+                  "@Namespace": "DPID:PADPIDA2007040502I",
+                  "@UserDefinedValue": "Producer",
+                  "#text": "UserDefined"
+                }
+              ]
+            },
+            {
+              "@SequenceNumber": "4",
+              "ContributorPartyReference": "P_ARTIST_17349",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Bass",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "5",
+              "ContributorPartyReference": "P_ARTIST_64118",
+              "Role": [
+                {
+                  "@Namespace": "DPID:PADPIDA2007040502I",
+                  "@UserDefinedValue": "Producer",
+                  "#text": "UserDefined"
+                },
+                {
+                  "@Namespace": "DPID:PADPIDA2007040502I",
+                  "@UserDefinedValue": "Recording Engineer",
+                  "#text": "UserDefined"
+                }
+              ]
+            },
+            {
+              "@SequenceNumber": "6",
+              "ContributorPartyReference": "P_ARTIST_64125",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Executive Producer",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "7",
+              "ContributorPartyReference": "P_ARTIST_64127",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Assistant Producer",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "8",
+              "ContributorPartyReference": "P_ARTIST_64129",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Assistant Engineer",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "9",
+              "ContributorPartyReference": "P_ARTIST_64130",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Assistant Engineer",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "10",
+              "ContributorPartyReference": "P_ARTIST_64119",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Mixing Engineer",
+                "#text": "UserDefined"
+              }
+            }
+          ],
+          "Duration": "PT0H4M39S",
+          "ParentalWarningType": "ExplicitContentEdited",
+          "LanguageOfPerformance": "en"
+        },
+        {
+          "ResourceReference": "A7",
+          "Type": "MusicalWorkSoundRecording",
+          "SoundRecordingEdition": {
+            "Type": "NonImmersiveEdition",
+            "ResourceId": {
+              "ISRC": "USSM18300423"
+            },
+            "PLine": {
+              "Year": "1983",
+              "PLineText": "(P) 1983 Epic Records, a division of Sony Music Entertainment"
+            },
+            "TechnicalDetails": {
+              "TechnicalResourceDetailsReference": "T7",
+              "DeliveryFile": {
+                "Type": "AudioFile",
+                "AudioCodecType": "MP3",
+                "BitRate": {
+                  "@UnitOfMeasure": "kbps",
+                  "#text": "320"
+                },
+                "NumberOfChannels": "2",
+                "SamplingRate": {
+                  "@UnitOfMeasure": "kHz",
+                  "#text": "44.1"
+                },
+                "BitsPerSample": "16",
+                "File": {
+                  "URI": "https://mgsrv-aws.smecde.com/rd/a5fce138e5/20122/20173281.20122.mp3?oauth_consumer_key=kuc&tag=160824a23f2fa82f0288b3f36b049e90&oauth_timestamp=1738313726&oauth_signature=0Vq9PtL%2F9JYhGL2TUnX7NEVr8v8%3D",
+                  "HashSum": {
+                    "Algorithm": "MD5",
+                    "HashSumValue": "160824a23f2fa82f0288b3f36b049e90"
+                  },
+                  "FileSize": "6673119"
+                },
+                "IsProvidedInDelivery": "false"
+              },
+              "IsClip": "false",
+              "ClipDetails": {
+                "TechnicalResourceDetailsReference": "T7P",
+                "ClipType": "Preview",
+                "Timing": {
+                  "StartPoint": "48000",
+                  "EndPoint": "78000",
+                  "DurationUsed": "P0DT0H0M30.000S"
+                },
+                "ExpressionType": "Instructive"
+              }
+            }
+          },
+          "DisplayTitleText": {
+            "@LanguageAndScriptCode": "en",
+            "#text": "Mary Had a Little Lamb"
+          },
+          "DisplayTitle": {
+            "@LanguageAndScriptCode": "en",
+            "TitleText": "Mary Had a Little Lamb"
+          },
+          "DisplayArtistName": "Stevie Ray Vaughan & Double Trouble",
+          "DisplayArtist": {
+            "@SequenceNumber": "1",
+            "ArtistPartyReference": "P_ARTIST_65837",
+            "DisplayArtistRole": "MainArtist",
+            "ArtisticRole": "AssociatedPerformer"
+          },
+          "Contributor": [
+            {
+              "@SequenceNumber": "1",
+              "ContributorPartyReference": "P_ARTIST_64137",
+              "Role": [
+                "Composer",
+                "Lyricist"
+              ]
+            },
+            {
+              "@SequenceNumber": "2",
+              "ContributorPartyReference": "P_ARTIST_22436",
+              "Role": [
+                {
+                  "@Namespace": "DPID:PADPIDA2007040502I",
+                  "@UserDefinedValue": "Guitar",
+                  "#text": "UserDefined"
+                },
+                {
+                  "@Namespace": "DPID:PADPIDA2007040502I",
+                  "@UserDefinedValue": "Vocal",
+                  "#text": "UserDefined"
+                },
+                {
+                  "@Namespace": "DPID:PADPIDA2007040502I",
+                  "@UserDefinedValue": "Producer",
+                  "#text": "UserDefined"
+                }
+              ]
+            },
+            {
+              "@SequenceNumber": "3",
+              "ContributorPartyReference": "P_ARTIST_1286795",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Drums",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "4",
+              "ContributorPartyReference": "P_ARTIST_17349",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Bass",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "5",
+              "ContributorPartyReference": "P_ARTIST_64118",
+              "Role": [
+                {
+                  "@Namespace": "DPID:PADPIDA2007040502I",
+                  "@UserDefinedValue": "Producer",
+                  "#text": "UserDefined"
+                },
+                {
+                  "@Namespace": "DPID:PADPIDA2007040502I",
+                  "@UserDefinedValue": "Recording Engineer",
+                  "#text": "UserDefined"
+                }
+              ]
+            },
+            {
+              "@SequenceNumber": "6",
+              "ContributorPartyReference": "P_ARTIST_64123",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Producer",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "7",
+              "ContributorPartyReference": "P_ARTIST_64125",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Executive Producer",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "8",
+              "ContributorPartyReference": "P_ARTIST_64127",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Assistant Producer",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "9",
+              "ContributorPartyReference": "P_ARTIST_64129",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Assistant Engineer",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "10",
+              "ContributorPartyReference": "P_ARTIST_64130",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Assistant Engineer",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "11",
+              "ContributorPartyReference": "P_ARTIST_64119",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Mixing Engineer",
+                "#text": "UserDefined"
+              }
+            }
+          ],
+          "Duration": "PT0H2M46S",
+          "ParentalWarningType": "ExplicitContentEdited",
+          "LanguageOfPerformance": "en"
+        },
+        {
+          "ResourceReference": "A8",
+          "Type": "MusicalWorkSoundRecording",
+          "SoundRecordingEdition": {
+            "Type": "NonImmersiveEdition",
+            "ResourceId": {
+              "ISRC": "USSM18300424"
+            },
+            "PLine": {
+              "Year": "1983",
+              "PLineText": "(P) 1983 Epic Records, a division of Sony Music Entertainment"
+            },
+            "TechnicalDetails": {
+              "TechnicalResourceDetailsReference": "T8",
+              "DeliveryFile": {
+                "Type": "AudioFile",
+                "AudioCodecType": "MP3",
+                "BitRate": {
+                  "@UnitOfMeasure": "kbps",
+                  "#text": "320"
+                },
+                "NumberOfChannels": "2",
+                "SamplingRate": {
+                  "@UnitOfMeasure": "kHz",
+                  "#text": "44.1"
+                },
+                "BitsPerSample": "16",
+                "File": {
+                  "URI": "https://mgsrv-aws.smecde.com/rd/e8c6f138e5/20122/20173283.20122.mp3?oauth_consumer_key=kuc&tag=3cf5b80643f24cb0544259b4592dda61&oauth_timestamp=1738313726&oauth_signature=Og%2BmyCEi%2FIxL0Pxc7wmre2Ir1oQ%3D",
+                  "HashSum": {
+                    "Algorithm": "MD5",
+                    "HashSumValue": "3cf5b80643f24cb0544259b4592dda61"
+                  },
+                  "FileSize": "12020895"
+                },
+                "IsProvidedInDelivery": "false"
+              },
+              "IsClip": "false",
+              "ClipDetails": {
+                "TechnicalResourceDetailsReference": "T8P",
+                "ClipType": "Preview",
+                "Timing": {
+                  "StartPoint": "48000",
+                  "EndPoint": "78000",
+                  "DurationUsed": "P0DT0H0M30.000S"
+                },
+                "ExpressionType": "Instructive"
+              }
+            }
+          },
+          "DisplayTitleText": {
+            "@LanguageAndScriptCode": "en",
+            "#text": "Dirty Pool"
+          },
+          "DisplayTitle": {
+            "@LanguageAndScriptCode": "en",
+            "TitleText": "Dirty Pool"
+          },
+          "DisplayArtistName": "Stevie Ray Vaughan & Double Trouble",
+          "DisplayArtist": {
+            "@SequenceNumber": "1",
+            "ArtistPartyReference": "P_ARTIST_65837",
+            "DisplayArtistRole": "MainArtist",
+            "ArtisticRole": "AssociatedPerformer"
+          },
+          "Contributor": [
+            {
+              "@SequenceNumber": "1",
+              "ContributorPartyReference": "P_ARTIST_22436",
+              "Role": [
+                {
+                  "@Namespace": "DPID:PADPIDA2007040502I",
+                  "@UserDefinedValue": "Guitar",
+                  "#text": "UserDefined"
+                },
+                {
+                  "@Namespace": "DPID:PADPIDA2007040502I",
+                  "@UserDefinedValue": "Vocal",
+                  "#text": "UserDefined"
+                },
+                "Composer",
+                "Lyricist",
+                {
+                  "@Namespace": "DPID:PADPIDA2007040502I",
+                  "@UserDefinedValue": "Producer",
+                  "#text": "UserDefined"
+                }
+              ]
+            },
+            {
+              "@SequenceNumber": "2",
+              "ContributorPartyReference": "P_ARTIST_1286795",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Drums",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "3",
+              "ContributorPartyReference": "P_ARTIST_269083",
+              "Role": [
+                "Composer",
+                "Lyricist"
+              ]
+            },
+            {
+              "@SequenceNumber": "4",
+              "ContributorPartyReference": "P_ARTIST_64123",
+              "Role": [
+                "AssociatedPerformer",
+                {
+                  "@Namespace": "DPID:PADPIDA2007040502I",
+                  "@UserDefinedValue": "Producer",
+                  "#text": "UserDefined"
+                }
+              ]
+            },
+            {
+              "@SequenceNumber": "5",
+              "ContributorPartyReference": "P_ARTIST_17349",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Bass",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "6",
+              "ContributorPartyReference": "P_ARTIST_64118",
+              "Role": [
+                {
+                  "@Namespace": "DPID:PADPIDA2007040502I",
+                  "@UserDefinedValue": "Producer",
+                  "#text": "UserDefined"
+                },
+                {
+                  "@Namespace": "DPID:PADPIDA2007040502I",
+                  "@UserDefinedValue": "Recording Engineer",
+                  "#text": "UserDefined"
+                }
+              ]
+            },
+            {
+              "@SequenceNumber": "7",
+              "ContributorPartyReference": "P_ARTIST_64125",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Executive Producer",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "8",
+              "ContributorPartyReference": "P_ARTIST_64127",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Assistant Producer",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "9",
+              "ContributorPartyReference": "P_ARTIST_64129",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Assistant Engineer",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "10",
+              "ContributorPartyReference": "P_ARTIST_64130",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Assistant Engineer",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "11",
+              "ContributorPartyReference": "P_ARTIST_64119",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Mixing Engineer",
+                "#text": "UserDefined"
+              }
+            }
+          ],
+          "Duration": "PT0H5M0S",
+          "ParentalWarningType": "ExplicitContentEdited",
+          "LanguageOfPerformance": "en"
+        },
+        {
+          "ResourceReference": "A9",
+          "Type": "MusicalWorkSoundRecording",
+          "SoundRecordingEdition": {
+            "Type": "NonImmersiveEdition",
+            "ResourceId": {
+              "ISRC": "USSM18300425"
+            },
+            "PLine": {
+              "Year": "1983",
+              "PLineText": "(P) 1983 Epic Records, a division of Sony Music Entertainment"
+            },
+            "TechnicalDetails": {
+              "TechnicalResourceDetailsReference": "T9",
+              "DeliveryFile": {
+                "Type": "AudioFile",
+                "AudioCodecType": "MP3",
+                "BitRate": {
+                  "@UnitOfMeasure": "kbps",
+                  "#text": "320"
+                },
+                "NumberOfChannels": "2",
+                "SamplingRate": {
+                  "@UnitOfMeasure": "kHz",
+                  "#text": "44.1"
+                },
+                "BitsPerSample": "16",
+                "File": {
+                  "URI": "https://mgsrv-aws.smecde.com/rd/2c900238e5/20122/20173285.20122.mp3?oauth_consumer_key=kuc&tag=7550c08399f1343f5e146ccba3f262a3&oauth_timestamp=1738313726&oauth_signature=HFDRC1wiWD8my6rn21MTkKcYSxA%3D",
+                  "HashSum": {
+                    "Algorithm": "MD5",
+                    "HashSumValue": "7550c08399f1343f5e146ccba3f262a3"
+                  },
+                  "FileSize": "8939491"
+                },
+                "IsProvidedInDelivery": "false"
+              },
+              "IsClip": "false",
+              "ClipDetails": {
+                "TechnicalResourceDetailsReference": "T9P",
+                "ClipType": "Preview",
+                "Timing": {
+                  "StartPoint": "48000",
+                  "EndPoint": "78000",
+                  "DurationUsed": "P0DT0H0M30.000S"
+                },
+                "ExpressionType": "Instructive"
+              }
+            }
+          },
+          "DisplayTitleText": {
+            "@LanguageAndScriptCode": "en",
+            "#text": "I'm Cryin'"
+          },
+          "DisplayTitle": {
+            "@LanguageAndScriptCode": "en",
+            "TitleText": "I'm Cryin'"
+          },
+          "DisplayArtistName": "Stevie Ray Vaughan & Double Trouble",
+          "DisplayArtist": {
+            "@SequenceNumber": "1",
+            "ArtistPartyReference": "P_ARTIST_65837",
+            "DisplayArtistRole": "MainArtist",
+            "ArtisticRole": "AssociatedPerformer"
+          },
+          "Contributor": [
+            {
+              "@SequenceNumber": "1",
+              "ContributorPartyReference": "P_ARTIST_64122",
+              "Role": [
+                {
+                  "@Namespace": "DPID:PADPIDA2007040502I",
+                  "@UserDefinedValue": "Guitar",
+                  "#text": "UserDefined"
+                },
+                {
+                  "@Namespace": "DPID:PADPIDA2007040502I",
+                  "@UserDefinedValue": "Vocal",
+                  "#text": "UserDefined"
+                },
+                {
+                  "@Namespace": "DPID:PADPIDA2007040502I",
+                  "@UserDefinedValue": "Producer",
+                  "#text": "UserDefined"
+                }
+              ]
+            },
+            {
+              "@SequenceNumber": "2",
+              "ContributorPartyReference": "P_ARTIST_64119",
+              "Role": [
+                {
+                  "@Namespace": "DPID:PADPIDA2007040502I",
+                  "@UserDefinedValue": "Vocal",
+                  "#text": "UserDefined"
+                },
+                {
+                  "@Namespace": "DPID:PADPIDA2007040502I",
+                  "@UserDefinedValue": "Mixing Engineer",
+                  "#text": "UserDefined"
+                }
+              ]
+            },
+            {
+              "@SequenceNumber": "3",
+              "ContributorPartyReference": "P_ARTIST_22436",
+              "Role": [
+                "Composer",
+                "Lyricist"
+              ]
+            },
+            {
+              "@SequenceNumber": "4",
+              "ContributorPartyReference": "P_ARTIST_1286795",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Drums",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "5",
+              "ContributorPartyReference": "P_ARTIST_17349",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Bass",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "6",
+              "ContributorPartyReference": "P_ARTIST_64118",
+              "Role": [
+                {
+                  "@Namespace": "DPID:PADPIDA2007040502I",
+                  "@UserDefinedValue": "Producer",
+                  "#text": "UserDefined"
+                },
+                {
+                  "@Namespace": "DPID:PADPIDA2007040502I",
+                  "@UserDefinedValue": "Recording Engineer",
+                  "#text": "UserDefined"
+                }
+              ]
+            },
+            {
+              "@SequenceNumber": "7",
+              "ContributorPartyReference": "P_ARTIST_64123",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Producer",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "8",
+              "ContributorPartyReference": "P_ARTIST_64125",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Executive Producer",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "9",
+              "ContributorPartyReference": "P_ARTIST_64127",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Assistant Producer",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "10",
+              "ContributorPartyReference": "P_ARTIST_64129",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Assistant Engineer",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "11",
+              "ContributorPartyReference": "P_ARTIST_64130",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Assistant Engineer",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "12",
+              "ContributorPartyReference": "P_ARTIST_64131",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Mastering Engineer",
+                "#text": "UserDefined"
+              }
+            }
+          ],
+          "Duration": "PT0H3M43S",
+          "ParentalWarningType": "ExplicitContentEdited",
+          "LanguageOfPerformance": "en"
+        },
+        {
+          "ResourceReference": "A10",
+          "Type": "MusicalWorkSoundRecording",
+          "SoundRecordingEdition": {
+            "Type": "NonImmersiveEdition",
+            "ResourceId": {
+              "ISRC": "USSM18300426"
+            },
+            "PLine": {
+              "Year": "1983",
+              "PLineText": "(P) 1983 Epic Records, a division of Sony Music Entertainment"
+            },
+            "TechnicalDetails": {
+              "TechnicalResourceDetailsReference": "T10",
+              "DeliveryFile": {
+                "Type": "AudioFile",
+                "AudioCodecType": "MP3",
+                "BitRate": {
+                  "@UnitOfMeasure": "kbps",
+                  "#text": "320"
+                },
+                "NumberOfChannels": "2",
+                "SamplingRate": {
+                  "@UnitOfMeasure": "kHz",
+                  "#text": "44.1"
+                },
+                "BitsPerSample": "16",
+                "File": {
+                  "URI": "https://mgsrv-aws.smecde.com/rd/6f6a0238e5/20122/20173287.20122.mp3?oauth_consumer_key=kuc&tag=f1c725e1b9437611ee88f385dc6782c1&oauth_timestamp=1738313726&oauth_signature=2W%2FAMfJzPCJQol%2FJ4J1JA73Dw%2Bk%3D",
+                  "HashSum": {
+                    "Algorithm": "MD5",
+                    "HashSumValue": "f1c725e1b9437611ee88f385dc6782c1"
+                  },
+                  "FileSize": "11890279"
+                },
+                "IsProvidedInDelivery": "false"
+              },
+              "IsClip": "false",
+              "ClipDetails": {
+                "TechnicalResourceDetailsReference": "T10P",
+                "ClipType": "Preview",
+                "Timing": {
+                  "StartPoint": "48000",
+                  "EndPoint": "78000",
+                  "DurationUsed": "P0DT0H0M30.000S"
+                },
+                "ExpressionType": "Instructive"
+              }
+            }
+          },
+          "DisplayTitleText": {
+            "@LanguageAndScriptCode": "en",
+            "#text": "Lenny"
+          },
+          "DisplayTitle": {
+            "@LanguageAndScriptCode": "en",
+            "TitleText": "Lenny"
+          },
+          "DisplayArtistName": "Stevie Ray Vaughan & Double Trouble",
+          "DisplayArtist": {
+            "@SequenceNumber": "1",
+            "ArtistPartyReference": "P_ARTIST_65837",
+            "DisplayArtistRole": "MainArtist",
+            "ArtisticRole": "AssociatedPerformer"
+          },
+          "Contributor": [
+            {
+              "@SequenceNumber": "1",
+              "ContributorPartyReference": "P_ARTIST_22436",
+              "Role": [
+                {
+                  "@Namespace": "DPID:PADPIDA2007040502I",
+                  "@UserDefinedValue": "Guitar",
+                  "#text": "UserDefined"
+                },
+                {
+                  "@Namespace": "DPID:PADPIDA2007040502I",
+                  "@UserDefinedValue": "Vocal",
+                  "#text": "UserDefined"
+                },
+                "Composer",
+                "Lyricist",
+                {
+                  "@Namespace": "DPID:PADPIDA2007040502I",
+                  "@UserDefinedValue": "Producer",
+                  "#text": "UserDefined"
+                }
+              ]
+            },
+            {
+              "@SequenceNumber": "2",
+              "ContributorPartyReference": "P_ARTIST_1286795",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Drums",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "3",
+              "ContributorPartyReference": "P_ARTIST_64123",
+              "Role": [
+                "AssociatedPerformer",
+                {
+                  "@Namespace": "DPID:PADPIDA2007040502I",
+                  "@UserDefinedValue": "Producer",
+                  "#text": "UserDefined"
+                }
+              ]
+            },
+            {
+              "@SequenceNumber": "4",
+              "ContributorPartyReference": "P_ARTIST_17349",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Bass",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "5",
+              "ContributorPartyReference": "P_ARTIST_64118",
+              "Role": [
+                {
+                  "@Namespace": "DPID:PADPIDA2007040502I",
+                  "@UserDefinedValue": "Producer",
+                  "#text": "UserDefined"
+                },
+                {
+                  "@Namespace": "DPID:PADPIDA2007040502I",
+                  "@UserDefinedValue": "Recording Engineer",
+                  "#text": "UserDefined"
+                }
+              ]
+            },
+            {
+              "@SequenceNumber": "6",
+              "ContributorPartyReference": "P_ARTIST_4788",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Producer",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "7",
+              "ContributorPartyReference": "P_ARTIST_64125",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Executive Producer",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "8",
+              "ContributorPartyReference": "P_ARTIST_64127",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Assistant Producer",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "9",
+              "ContributorPartyReference": "P_ARTIST_64129",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Assistant Engineer",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "10",
+              "ContributorPartyReference": "P_ARTIST_64130",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Assistant Engineer",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "11",
+              "ContributorPartyReference": "P_ARTIST_64119",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Mixing Engineer",
+                "#text": "UserDefined"
+              }
+            }
+          ],
+          "Duration": "PT0H4M57S",
+          "ParentalWarningType": "ExplicitContentEdited",
+          "LanguageOfPerformance": "en"
+        },
+        {
+          "ResourceReference": "A11",
+          "Type": "MusicalWorkSoundRecording",
+          "SoundRecordingEdition": {
+            "Type": "NonImmersiveEdition",
+            "ResourceId": {
+              "ISRC": "USSM10606175"
+            },
+            "PLine": {
+              "Year": "1999",
+              "PLineText": "(P) 1999 Epic Records, a division of Sony Music Entertainment"
+            },
+            "TechnicalDetails": {
+              "TechnicalResourceDetailsReference": "T11",
+              "DeliveryFile": {
+                "Type": "AudioFile",
+                "AudioCodecType": "MP3",
+                "BitRate": {
+                  "@UnitOfMeasure": "kbps",
+                  "#text": "320"
+                },
+                "NumberOfChannels": "2",
+                "SamplingRate": {
+                  "@UnitOfMeasure": "kHz",
+                  "#text": "44.1"
+                },
+                "BitsPerSample": "16",
+                "File": {
+                  "URI": "https://mgsrv-aws.smecde.com/rd/a2441238e5/20122/20173289.20122.mp3?oauth_consumer_key=kuc&tag=96a7df296df2b872f4d53ea0a62c94d9&oauth_timestamp=1738313726&oauth_signature=S2oIAVgV9LeT7TdzOmEYrJWcL5c%3D",
+                  "HashSum": {
+                    "Algorithm": "MD5",
+                    "HashSumValue": "96a7df296df2b872f4d53ea0a62c94d9"
+                  },
+                  "FileSize": "1497727"
+                },
+                "IsProvidedInDelivery": "false"
+              },
+              "IsClip": "false",
+              "ClipDetails": {
+                "TechnicalResourceDetailsReference": "T11P",
+                "ClipType": "Preview",
+                "Timing": {
+                  "StartPoint": "7000",
+                  "EndPoint": "37000",
+                  "DurationUsed": "P0DT0H0M30.000S"
+                },
+                "ExpressionType": "Instructive"
+              }
+            }
+          },
+          "DisplayTitleText": {
+            "@LanguageAndScriptCode": "en",
+            "#text": "SRV Speaks"
+          },
+          "DisplayTitle": {
+            "@LanguageAndScriptCode": "en",
+            "TitleText": "SRV Speaks"
+          },
+          "DisplayArtistName": "Stevie Ray Vaughan & Double Trouble",
+          "DisplayArtist": {
+            "@SequenceNumber": "1",
+            "ArtistPartyReference": "P_ARTIST_65837",
+            "DisplayArtistRole": "MainArtist",
+            "ArtisticRole": "AssociatedPerformer"
+          },
+          "Contributor": [
+            {
+              "@SequenceNumber": "1",
+              "ContributorPartyReference": "P_ARTIST_43733",
+              "Role": "Lyricist"
+            },
+            {
+              "@SequenceNumber": "2",
+              "ContributorPartyReference": "P_ARTIST_64122",
+              "Role": [
+                {
+                  "@Namespace": "DPID:PADPIDA2007040502I",
+                  "@UserDefinedValue": "Guitar",
+                  "#text": "UserDefined"
+                },
+                {
+                  "@Namespace": "DPID:PADPIDA2007040502I",
+                  "@UserDefinedValue": "Vocal",
+                  "#text": "UserDefined"
+                },
+                {
+                  "@Namespace": "DPID:PADPIDA2007040502I",
+                  "@UserDefinedValue": "Producer",
+                  "#text": "UserDefined"
+                }
+              ]
+            },
+            {
+              "@SequenceNumber": "3",
+              "ContributorPartyReference": "P_ARTIST_64119",
+              "Role": [
+                {
+                  "@Namespace": "DPID:PADPIDA2007040502I",
+                  "@UserDefinedValue": "Vocal",
+                  "#text": "UserDefined"
+                },
+                {
+                  "@Namespace": "DPID:PADPIDA2007040502I",
+                  "@UserDefinedValue": "Mixing Engineer",
+                  "#text": "UserDefined"
+                }
+              ]
+            },
+            {
+              "@SequenceNumber": "4",
+              "ContributorPartyReference": "P_ARTIST_1286795",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Drums",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "5",
+              "ContributorPartyReference": "P_ARTIST_17349",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Bass",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "6",
+              "ContributorPartyReference": "P_ARTIST_64118",
+              "Role": [
+                {
+                  "@Namespace": "DPID:PADPIDA2007040502I",
+                  "@UserDefinedValue": "Producer",
+                  "#text": "UserDefined"
+                },
+                {
+                  "@Namespace": "DPID:PADPIDA2007040502I",
+                  "@UserDefinedValue": "Recording Engineer",
+                  "#text": "UserDefined"
+                }
+              ]
+            },
+            {
+              "@SequenceNumber": "7",
+              "ContributorPartyReference": "P_ARTIST_64123",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Producer",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "8",
+              "ContributorPartyReference": "P_ARTIST_64125",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Executive Producer",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "9",
+              "ContributorPartyReference": "P_ARTIST_64127",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Assistant Producer",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "10",
+              "ContributorPartyReference": "P_ARTIST_64129",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Assistant Engineer",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "11",
+              "ContributorPartyReference": "P_ARTIST_64130",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Assistant Engineer",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "12",
+              "ContributorPartyReference": "P_ARTIST_64131",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Mastering Engineer",
+                "#text": "UserDefined"
+              }
+            }
+          ],
+          "Duration": "PT0H0M37S",
+          "ParentalWarningType": "ExplicitContentEdited",
+          "LanguageOfPerformance": "en"
+        },
+        {
+          "ResourceReference": "A12",
+          "Type": "MusicalWorkSoundRecording",
+          "SoundRecordingEdition": {
+            "Type": "NonImmersiveEdition",
+            "ResourceId": {
+              "ISRC": "USSM18200435"
+            },
+            "PLine": {
+              "Year": "1999",
+              "PLineText": "(P) 1999 Epic Records, a division of Sony Music Entertainment"
+            },
+            "TechnicalDetails": {
+              "TechnicalResourceDetailsReference": "T12",
+              "DeliveryFile": {
+                "Type": "AudioFile",
+                "AudioCodecType": "MP3",
+                "BitRate": {
+                  "@UnitOfMeasure": "kbps",
+                  "#text": "320"
+                },
+                "NumberOfChannels": "2",
+                "SamplingRate": {
+                  "@UnitOfMeasure": "kHz",
+                  "#text": "44.1"
+                },
+                "BitsPerSample": "16",
+                "File": {
+                  "URI": "https://mgsrv-aws.smecde.com/rd/e51e1238e5/20122/20173291.20122.mp3?oauth_consumer_key=kuc&tag=abbbe1fa21b06340429db63373977af7&oauth_timestamp=1738313726&oauth_signature=MMk%2F%2BhPCw7udmircRQYPIfPvA5g%3D",
+                  "HashSum": {
+                    "Algorithm": "MD5",
+                    "HashSumValue": "abbbe1fa21b06340429db63373977af7"
+                  },
+                  "FileSize": "18298675"
+                },
+                "IsProvidedInDelivery": "false"
+              },
+              "IsClip": "false",
+              "ClipDetails": {
+                "TechnicalResourceDetailsReference": "T12P",
+                "ClipType": "Preview",
+                "Timing": {
+                  "StartPoint": "48000",
+                  "EndPoint": "78000",
+                  "DurationUsed": "P0DT0H0M30.000S"
+                },
+                "ExpressionType": "Instructive"
+              }
+            }
+          },
+          "DisplayTitleText": {
+            "@LanguageAndScriptCode": "en",
+            "#text": "Tin Pan Alley (AKA Roughest Place in Town) (1982 Version)"
+          },
+          "DisplayTitle": {
+            "@LanguageAndScriptCode": "en",
+            "TitleText": "Tin Pan Alley (AKA Roughest Place in Town)",
+            "SubTitle": {
+              "@SubTitleType": "Version",
+              "#text": "1982 Version"
+            }
+          },
+          "DisplayArtistName": "Stevie Ray Vaughan & Double Trouble",
+          "DisplayArtist": {
+            "@SequenceNumber": "1",
+            "ArtistPartyReference": "P_ARTIST_65837",
+            "DisplayArtistRole": "MainArtist",
+            "ArtisticRole": "AssociatedPerformer"
+          },
+          "Contributor": [
+            {
+              "@SequenceNumber": "1",
+              "ContributorPartyReference": "P_ARTIST_64151",
+              "Role": [
+                "Composer",
+                "Lyricist"
+              ]
+            },
+            {
+              "@SequenceNumber": "2",
+              "ContributorPartyReference": "P_ARTIST_22436",
+              "Role": [
+                {
+                  "@Namespace": "DPID:PADPIDA2007040502I",
+                  "@UserDefinedValue": "Guitar",
+                  "#text": "UserDefined"
+                },
+                {
+                  "@Namespace": "DPID:PADPIDA2007040502I",
+                  "@UserDefinedValue": "Vocal",
+                  "#text": "UserDefined"
+                }
+              ]
+            },
+            {
+              "@SequenceNumber": "3",
+              "ContributorPartyReference": "P_ARTIST_1286795",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Drums",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "4",
+              "ContributorPartyReference": "P_ARTIST_17349",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Bass",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "5",
+              "ContributorPartyReference": "P_ARTIST_64122",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Producer",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "6",
+              "ContributorPartyReference": "P_ARTIST_64118",
+              "Role": [
+                {
+                  "@Namespace": "DPID:PADPIDA2007040502I",
+                  "@UserDefinedValue": "Producer",
+                  "#text": "UserDefined"
+                },
+                {
+                  "@Namespace": "DPID:PADPIDA2007040502I",
+                  "@UserDefinedValue": "Recording Engineer",
+                  "#text": "UserDefined"
+                }
+              ]
+            },
+            {
+              "@SequenceNumber": "7",
+              "ContributorPartyReference": "P_ARTIST_64123",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Producer",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "8",
+              "ContributorPartyReference": "P_ARTIST_64125",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Executive Producer",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "9",
+              "ContributorPartyReference": "P_ARTIST_64127",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Assistant Producer",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "10",
+              "ContributorPartyReference": "P_ARTIST_64129",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Assistant Engineer",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "11",
+              "ContributorPartyReference": "P_ARTIST_64130",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Assistant Engineer",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "12",
+              "ContributorPartyReference": "P_ARTIST_64119",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Mixing Engineer",
+                "#text": "UserDefined"
+              }
+            }
+          ],
+          "Duration": "PT0H7M37S",
+          "ParentalWarningType": "ExplicitContentEdited",
+          "LanguageOfPerformance": "en"
+        },
+        {
+          "ResourceReference": "A13",
+          "Type": "MusicalWorkSoundRecording",
+          "SoundRecordingEdition": {
+            "Type": "NonImmersiveEdition",
+            "ResourceId": {
+              "ISRC": "USSM18300440"
+            },
+            "PLine": {
+              "Year": "1999",
+              "PLineText": "(P) 1999 Epic Records, a division of Sony Music Entertainment"
+            },
+            "TechnicalDetails": {
+              "TechnicalResourceDetailsReference": "T13",
+              "DeliveryFile": {
+                "Type": "AudioFile",
+                "AudioCodecType": "MP3",
+                "BitRate": {
+                  "@UnitOfMeasure": "kbps",
+                  "#text": "320"
+                },
+                "NumberOfChannels": "2",
+                "SamplingRate": {
+                  "@UnitOfMeasure": "kHz",
+                  "#text": "44.1"
+                },
+                "BitsPerSample": "16",
+                "File": {
+                  "URI": "https://mgsrv-aws.smecde.com/rd/29e72238e5/20122/20173293.20122.mp3?oauth_consumer_key=kuc&tag=18e12e9ab4238c57dab64aa555381716&oauth_timestamp=1738313726&oauth_signature=ixosJn1OROaOf1Kpywmxz0%2FbudM%3D",
+                  "HashSum": {
+                    "Algorithm": "MD5",
+                    "HashSumValue": "18e12e9ab4238c57dab64aa555381716"
+                  },
+                  "FileSize": "9364762"
+                },
+                "IsProvidedInDelivery": "false"
+              },
+              "IsClip": "false",
+              "ClipDetails": {
+                "TechnicalResourceDetailsReference": "T13P",
+                "ClipType": "Preview",
+                "Timing": {
+                  "StartPoint": "48000",
+                  "EndPoint": "78000",
+                  "DurationUsed": "P0DT0H0M30.000S"
+                },
+                "ExpressionType": "Instructive"
+              }
+            }
+          },
+          "DisplayTitleText": {
+            "@LanguageAndScriptCode": "en",
+            "#text": "Testify (Live)"
+          },
+          "DisplayTitle": {
+            "@LanguageAndScriptCode": "en",
+            "TitleText": "Testify",
+            "SubTitle": {
+              "@SubTitleType": "Version",
+              "#text": "Live"
+            }
+          },
+          "DisplayArtistName": "Stevie Ray Vaughan & Double Trouble",
+          "DisplayArtist": {
+            "@SequenceNumber": "1",
+            "ArtistPartyReference": "P_ARTIST_65837",
+            "DisplayArtistRole": "MainArtist",
+            "ArtisticRole": "AssociatedPerformer"
+          },
+          "Contributor": [
+            {
+              "@SequenceNumber": "1",
+              "ContributorPartyReference": "P_ARTIST_2756870",
+              "Role": [
+                "Composer",
+                "Lyricist"
+              ]
+            },
+            {
+              "@SequenceNumber": "2",
+              "ContributorPartyReference": "P_ARTIST_64122",
+              "Role": [
+                {
+                  "@Namespace": "DPID:PADPIDA2007040502I",
+                  "@UserDefinedValue": "Guitar",
+                  "#text": "UserDefined"
+                },
+                {
+                  "@Namespace": "DPID:PADPIDA2007040502I",
+                  "@UserDefinedValue": "Vocal",
+                  "#text": "UserDefined"
+                },
+                {
+                  "@Namespace": "DPID:PADPIDA2007040502I",
+                  "@UserDefinedValue": "Producer",
+                  "#text": "UserDefined"
+                }
+              ]
+            },
+            {
+              "@SequenceNumber": "3",
+              "ContributorPartyReference": "P_ARTIST_64119",
+              "Role": [
+                {
+                  "@Namespace": "DPID:PADPIDA2007040502I",
+                  "@UserDefinedValue": "Vocal",
+                  "#text": "UserDefined"
+                },
+                {
+                  "@Namespace": "DPID:PADPIDA2007040502I",
+                  "@UserDefinedValue": "Mixing Engineer",
+                  "#text": "UserDefined"
+                }
+              ]
+            },
+            {
+              "@SequenceNumber": "4",
+              "ContributorPartyReference": "P_ARTIST_2756871",
+              "Role": [
+                "Composer",
+                "Lyricist"
+              ]
+            },
+            {
+              "@SequenceNumber": "5",
+              "ContributorPartyReference": "P_ARTIST_1286795",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Drums",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "6",
+              "ContributorPartyReference": "P_ARTIST_2756872",
+              "Role": [
+                "Composer",
+                "Lyricist"
+              ]
+            },
+            {
+              "@SequenceNumber": "7",
+              "ContributorPartyReference": "P_ARTIST_17349",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Bass",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "8",
+              "ContributorPartyReference": "P_ARTIST_64118",
+              "Role": [
+                {
+                  "@Namespace": "DPID:PADPIDA2007040502I",
+                  "@UserDefinedValue": "Producer",
+                  "#text": "UserDefined"
+                },
+                {
+                  "@Namespace": "DPID:PADPIDA2007040502I",
+                  "@UserDefinedValue": "Recording Engineer",
+                  "#text": "UserDefined"
+                }
+              ]
+            },
+            {
+              "@SequenceNumber": "9",
+              "ContributorPartyReference": "P_ARTIST_64123",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Producer",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "10",
+              "ContributorPartyReference": "P_ARTIST_64125",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Executive Producer",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "11",
+              "ContributorPartyReference": "P_ARTIST_64127",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Assistant Producer",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "12",
+              "ContributorPartyReference": "P_ARTIST_64129",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Assistant Engineer",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "13",
+              "ContributorPartyReference": "P_ARTIST_64130",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Assistant Engineer",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "14",
+              "ContributorPartyReference": "P_ARTIST_64131",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Mastering Engineer",
+                "#text": "UserDefined"
+              }
+            }
+          ],
+          "Duration": "PT0H3M54S",
+          "ParentalWarningType": "ExplicitContentEdited",
+          "LanguageOfPerformance": "en"
+        },
+        {
+          "ResourceReference": "A14",
+          "Type": "MusicalWorkSoundRecording",
+          "SoundRecordingEdition": {
+            "Type": "NonImmersiveEdition",
+            "ResourceId": {
+              "ISRC": "USSM18300441"
+            },
+            "PLine": {
+              "Year": "1999",
+              "PLineText": "(P) 1999 Epic Records, a division of Sony Music Entertainment"
+            },
+            "TechnicalDetails": {
+              "TechnicalResourceDetailsReference": "T14",
+              "DeliveryFile": {
+                "Type": "AudioFile",
+                "AudioCodecType": "MP3",
+                "BitRate": {
+                  "@UnitOfMeasure": "kbps",
+                  "#text": "320"
+                },
+                "NumberOfChannels": "2",
+                "SamplingRate": {
+                  "@UnitOfMeasure": "kHz",
+                  "#text": "44.1"
+                },
+                "BitsPerSample": "16",
+                "File": {
+                  "URI": "https://mgsrv-aws.smecde.com/rd/6cb13238e5/20122/20173295.20122.mp3?oauth_consumer_key=kuc&tag=64046586b00fb59fd35679769253dabc&oauth_timestamp=1738313726&oauth_signature=uPH7%2FHCCoJfTWoA6TWsnhTdyl6U%3D",
+                  "HashSum": {
+                    "Algorithm": "MD5",
+                    "HashSumValue": "64046586b00fb59fd35679769253dabc"
+                  },
+                  "FileSize": "8472434"
+                },
+                "IsProvidedInDelivery": "false"
+              },
+              "IsClip": "false",
+              "ClipDetails": {
+                "TechnicalResourceDetailsReference": "T14P",
+                "ClipType": "Preview",
+                "Timing": {
+                  "StartPoint": "48000",
+                  "EndPoint": "78000",
+                  "DurationUsed": "P0DT0H0M30.000S"
+                },
+                "ExpressionType": "Instructive"
+              }
+            }
+          },
+          "DisplayTitleText": {
+            "@LanguageAndScriptCode": "en",
+            "#text": "Mary Had a Little Lamb (Live)"
+          },
+          "DisplayTitle": {
+            "@LanguageAndScriptCode": "en",
+            "TitleText": "Mary Had a Little Lamb",
+            "SubTitle": {
+              "@SubTitleType": "Version",
+              "#text": "Live"
+            }
+          },
+          "DisplayArtistName": "Stevie Ray Vaughan & Double Trouble",
+          "DisplayArtist": {
+            "@SequenceNumber": "1",
+            "ArtistPartyReference": "P_ARTIST_65837",
+            "DisplayArtistRole": "MainArtist",
+            "ArtisticRole": "AssociatedPerformer"
+          },
+          "Contributor": [
+            {
+              "@SequenceNumber": "1",
+              "ContributorPartyReference": "P_ARTIST_64137",
+              "Role": [
+                "Composer",
+                "Lyricist"
+              ]
+            },
+            {
+              "@SequenceNumber": "2",
+              "ContributorPartyReference": "P_ARTIST_64122",
+              "Role": [
+                {
+                  "@Namespace": "DPID:PADPIDA2007040502I",
+                  "@UserDefinedValue": "Guitar",
+                  "#text": "UserDefined"
+                },
+                {
+                  "@Namespace": "DPID:PADPIDA2007040502I",
+                  "@UserDefinedValue": "Vocal",
+                  "#text": "UserDefined"
+                },
+                {
+                  "@Namespace": "DPID:PADPIDA2007040502I",
+                  "@UserDefinedValue": "Producer",
+                  "#text": "UserDefined"
+                }
+              ]
+            },
+            {
+              "@SequenceNumber": "3",
+              "ContributorPartyReference": "P_ARTIST_64119",
+              "Role": [
+                {
+                  "@Namespace": "DPID:PADPIDA2007040502I",
+                  "@UserDefinedValue": "Vocal",
+                  "#text": "UserDefined"
+                },
+                {
+                  "@Namespace": "DPID:PADPIDA2007040502I",
+                  "@UserDefinedValue": "Mixing Engineer",
+                  "#text": "UserDefined"
+                }
+              ]
+            },
+            {
+              "@SequenceNumber": "4",
+              "ContributorPartyReference": "P_ARTIST_1286795",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Drums",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "5",
+              "ContributorPartyReference": "P_ARTIST_17349",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Bass",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "6",
+              "ContributorPartyReference": "P_ARTIST_64118",
+              "Role": [
+                {
+                  "@Namespace": "DPID:PADPIDA2007040502I",
+                  "@UserDefinedValue": "Producer",
+                  "#text": "UserDefined"
+                },
+                {
+                  "@Namespace": "DPID:PADPIDA2007040502I",
+                  "@UserDefinedValue": "Recording Engineer",
+                  "#text": "UserDefined"
+                }
+              ]
+            },
+            {
+              "@SequenceNumber": "7",
+              "ContributorPartyReference": "P_ARTIST_64123",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Producer",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "8",
+              "ContributorPartyReference": "P_ARTIST_64125",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Executive Producer",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "9",
+              "ContributorPartyReference": "P_ARTIST_64127",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Assistant Producer",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "10",
+              "ContributorPartyReference": "P_ARTIST_64129",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Assistant Engineer",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "11",
+              "ContributorPartyReference": "P_ARTIST_64130",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Assistant Engineer",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "12",
+              "ContributorPartyReference": "P_ARTIST_64131",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Mastering Engineer",
+                "#text": "UserDefined"
+              }
+            }
+          ],
+          "Duration": "PT0H3M32S",
+          "ParentalWarningType": "ExplicitContentEdited",
+          "LanguageOfPerformance": "en"
+        },
+        {
+          "ResourceReference": "A15",
+          "Type": "MusicalWorkSoundRecording",
+          "SoundRecordingEdition": {
+            "Type": "NonImmersiveEdition",
+            "ResourceId": {
+              "ISRC": "USSM18300442"
+            },
+            "PLine": {
+              "Year": "1999",
+              "PLineText": "(P) 1999 Epic Records, a division of Sony Music Entertainment"
+            },
+            "TechnicalDetails": {
+              "TechnicalResourceDetailsReference": "T15",
+              "DeliveryFile": {
+                "Type": "AudioFile",
+                "AudioCodecType": "MP3",
+                "BitRate": {
+                  "@UnitOfMeasure": "kbps",
+                  "#text": "320"
+                },
+                "NumberOfChannels": "2",
+                "SamplingRate": {
+                  "@UnitOfMeasure": "kHz",
+                  "#text": "44.1"
+                },
+                "BitsPerSample": "16",
+                "File": {
+                  "URI": "https://mgsrv-aws.smecde.com/rd/af8b3238e5/20122/20173297.20122.mp3?oauth_consumer_key=kuc&tag=a9650464ff6c1658e47d848e7e73c43d&oauth_timestamp=1738313726&oauth_signature=wOnvZGDTjkV3jreJnRBy0yvU2S4%3D",
+                  "HashSum": {
+                    "Algorithm": "MD5",
+                    "HashSumValue": "a9650464ff6c1658e47d848e7e73c43d"
+                  },
+                  "FileSize": "10408613"
+                },
+                "IsProvidedInDelivery": "false"
+              },
+              "IsClip": "false",
+              "ClipDetails": {
+                "TechnicalResourceDetailsReference": "T15P",
+                "ClipType": "Preview",
+                "Timing": {
+                  "StartPoint": "48000",
+                  "EndPoint": "78000",
+                  "DurationUsed": "P0DT0H0M30.000S"
+                },
+                "ExpressionType": "Instructive"
+              }
+            }
+          },
+          "DisplayTitleText": {
+            "@LanguageAndScriptCode": "en",
+            "#text": "Wham! (Live)"
+          },
+          "DisplayTitle": {
+            "@LanguageAndScriptCode": "en",
+            "TitleText": "Wham!",
+            "SubTitle": {
+              "@SubTitleType": "Version",
+              "#text": "Live"
+            }
+          },
+          "DisplayArtistName": "Stevie Ray Vaughan & Double Trouble",
+          "DisplayArtist": {
+            "@SequenceNumber": "1",
+            "ArtistPartyReference": "P_ARTIST_65837",
+            "DisplayArtistRole": "MainArtist",
+            "ArtisticRole": "AssociatedPerformer"
+          },
+          "Contributor": [
+            {
+              "@SequenceNumber": "1",
+              "ContributorPartyReference": "P_ARTIST_64122",
+              "Role": [
+                {
+                  "@Namespace": "DPID:PADPIDA2007040502I",
+                  "@UserDefinedValue": "Guitar",
+                  "#text": "UserDefined"
+                },
+                {
+                  "@Namespace": "DPID:PADPIDA2007040502I",
+                  "@UserDefinedValue": "Vocal",
+                  "#text": "UserDefined"
+                },
+                {
+                  "@Namespace": "DPID:PADPIDA2007040502I",
+                  "@UserDefinedValue": "Producer",
+                  "#text": "UserDefined"
+                }
+              ]
+            },
+            {
+              "@SequenceNumber": "2",
+              "ContributorPartyReference": "P_ARTIST_64119",
+              "Role": [
+                {
+                  "@Namespace": "DPID:PADPIDA2007040502I",
+                  "@UserDefinedValue": "Vocal",
+                  "#text": "UserDefined"
+                },
+                {
+                  "@Namespace": "DPID:PADPIDA2007040502I",
+                  "@UserDefinedValue": "Mixing Engineer",
+                  "#text": "UserDefined"
+                }
+              ]
+            },
+            {
+              "@SequenceNumber": "3",
+              "ContributorPartyReference": "P_ARTIST_64139",
+              "Role": [
+                "Composer",
+                "Lyricist"
+              ]
+            },
+            {
+              "@SequenceNumber": "4",
+              "ContributorPartyReference": "P_ARTIST_1286795",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Drums",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "5",
+              "ContributorPartyReference": "P_ARTIST_17349",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Bass",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "6",
+              "ContributorPartyReference": "P_ARTIST_64118",
+              "Role": [
+                {
+                  "@Namespace": "DPID:PADPIDA2007040502I",
+                  "@UserDefinedValue": "Producer",
+                  "#text": "UserDefined"
+                },
+                {
+                  "@Namespace": "DPID:PADPIDA2007040502I",
+                  "@UserDefinedValue": "Recording Engineer",
+                  "#text": "UserDefined"
+                }
+              ]
+            },
+            {
+              "@SequenceNumber": "7",
+              "ContributorPartyReference": "P_ARTIST_64123",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Producer",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "8",
+              "ContributorPartyReference": "P_ARTIST_64125",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Executive Producer",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "9",
+              "ContributorPartyReference": "P_ARTIST_64127",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Assistant Producer",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "10",
+              "ContributorPartyReference": "P_ARTIST_64129",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Assistant Engineer",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "11",
+              "ContributorPartyReference": "P_ARTIST_64130",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Assistant Engineer",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "12",
+              "ContributorPartyReference": "P_ARTIST_64131",
+              "Role": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Mastering Engineer",
+                "#text": "UserDefined"
+              }
+            }
+          ],
+          "Duration": "PT0H4M20S",
+          "ParentalWarningType": "ExplicitContentEdited",
+          "LanguageOfPerformance": "en"
+        }
+      ],
+      "Image": {
+        "ResourceReference": "A16",
+        "Type": "FrontCoverImage",
+        "ResourceId": {
+          "ProprietaryId": {
+            "@Namespace": "DPID:PADPIDA2007040502I",
+            "#text": "G0100006698146"
+          }
+        },
+        "FirstPublicationDate": {
+          "FulfillmentDate": "1990-04-09"
+        },
+        "TechnicalDetails": {
+          "TechnicalResourceDetailsReference": "T16",
+          "ImageCodecType": "JPEG",
+          "ImageHeight": "1400",
+          "ImageWidth": "1400",
+          "ImageResolution": "300",
+          "File": {
+            "URI": "https://mgsrv-aws.smecde.com/rd/000/000/500/541/20126/500541.20126.jpg?oauth_consumer_key=kuc&tag=431c6bfa31f252f0043e69ff5d0b9ccb&oauth_timestamp=1738313726&oauth_signature=cojgqaAIAPLp%2BHvISitTO4hL5z4%3D",
+            "HashSum": {
+              "Algorithm": "MD5",
+              "HashSumValue": "431c6bfa31f252f0043e69ff5d0b9ccb"
+            },
+            "FileSize": "2833866"
+          },
+          "IsProvidedInDelivery": "false"
+        }
+      }
+    },
+    "ReleaseList": {
+      "Release": {
+        "ReleaseReference": "R0",
+        "ReleaseType": "Album",
+        "ReleaseId": {
+          "GRid": "A10301A00006698146",
+          "ICPN": "886443370340",
+          "CatalogNumber": {
+            "@Namespace": "DPID:PADPIDA2007040502I",
+            "#text": "G0100006698146"
+          }
+        },
+        "DisplayTitleText": {
+          "@LanguageAndScriptCode": "en",
+          "#text": "Texas Flood"
+        },
+        "DisplayTitle": {
+          "@LanguageAndScriptCode": "en",
+          "TitleText": "Texas Flood"
+        },
+        "DisplayArtistName": "Stevie Ray Vaughan & Double Trouble",
+        "DisplayArtist": {
+          "@SequenceNumber": "1",
+          "ArtistPartyReference": "P_ARTIST_65837",
+          "DisplayArtistRole": "MainArtist"
+        },
+        "ReleaseLabelReference": {
+          "@LabelType": "DisplayLabel",
+          "#text": "P_LABEL_EPICLEGACY"
+        },
+        "PLine": {
+          "Year": "1999",
+          "PLineText": "(P) 1983, 1999 Sony Music Entertainment"
+        },
+        "Duration": "PT0H58M35S",
+        "Genre": {
+          "@ApplicableTerritoryCode": "Worldwide",
+          "GenreText": "Rock"
+        },
+        "OriginalReleaseDate": "1990-04-09",
+        "ParentalWarningType": "NotExplicit",
+        "ResourceGroup": {
+          "AdditionalTitle": {
+            "@TitleType": "GroupingTitle",
+            "TitleText": "Disc 1"
+          },
+          "SequenceNumber": "1",
+          "ResourceGroupContentItem": [
+            {
+              "SequenceNumber": "1",
+              "ReleaseResourceReference": "A1"
+            },
+            {
+              "SequenceNumber": "2",
+              "ReleaseResourceReference": "A2"
+            },
+            {
+              "SequenceNumber": "3",
+              "ReleaseResourceReference": "A3"
+            },
+            {
+              "SequenceNumber": "4",
+              "ReleaseResourceReference": "A4"
+            },
+            {
+              "SequenceNumber": "5",
+              "ReleaseResourceReference": "A5"
+            },
+            {
+              "SequenceNumber": "6",
+              "ReleaseResourceReference": "A6"
+            },
+            {
+              "SequenceNumber": "7",
+              "ReleaseResourceReference": "A7"
+            },
+            {
+              "SequenceNumber": "8",
+              "ReleaseResourceReference": "A8"
+            },
+            {
+              "SequenceNumber": "9",
+              "ReleaseResourceReference": "A9"
+            },
+            {
+              "SequenceNumber": "10",
+              "ReleaseResourceReference": "A10"
+            },
+            {
+              "SequenceNumber": "11",
+              "ReleaseResourceReference": "A11"
+            },
+            {
+              "SequenceNumber": "12",
+              "ReleaseResourceReference": "A12"
+            },
+            {
+              "SequenceNumber": "13",
+              "ReleaseResourceReference": "A13"
+            },
+            {
+              "SequenceNumber": "14",
+              "ReleaseResourceReference": "A14"
+            },
+            {
+              "SequenceNumber": "15",
+              "ReleaseResourceReference": "A15"
+            }
+          ],
+          "LinkedReleaseResourceReference": {
+            "@LinkDescription": "CoverArt",
+            "#text": "A16"
+          }
+        }
+      },
+      "TrackRelease": [
+        {
+          "ReleaseReference": "R1",
+          "ReleaseId": {
+            "GRid": "A10328E0003980129M",
+            "ProprietaryId": {
+              "@Namespace": "ISRC",
+              "#text": "USSM19805796"
+            }
+          },
+          "ReleaseResourceReference": "A1",
+          "ReleaseLabelReference": {
+            "@LabelType": "DisplayLabel",
+            "#text": "P_LABEL_EPICLEGACY"
+          },
+          "Genre": {
+            "@ApplicableTerritoryCode": "Worldwide",
+            "GenreText": "Rock"
+          }
+        },
+        {
+          "ReleaseReference": "R2",
+          "ReleaseId": {
+            "GRid": "A10328E0003980128O",
+            "ProprietaryId": {
+              "@Namespace": "ISRC",
+              "#text": "USSM18300418"
+            }
+          },
+          "ReleaseResourceReference": "A2",
+          "ReleaseLabelReference": {
+            "@LabelType": "DisplayLabel",
+            "#text": "P_LABEL_EPICLEGACY"
+          },
+          "Genre": {
+            "@ApplicableTerritoryCode": "Worldwide",
+            "GenreText": "Rock"
+          }
+        },
+        {
+          "ReleaseReference": "R3",
+          "ReleaseId": {
+            "GRid": "A10328E0003980127Q",
+            "ProprietaryId": {
+              "@Namespace": "ISRC",
+              "#text": "USSM18300419"
+            }
+          },
+          "ReleaseResourceReference": "A3",
+          "ReleaseLabelReference": {
+            "@LabelType": "DisplayLabel",
+            "#text": "P_LABEL_EPICLEGACY"
+          },
+          "Genre": {
+            "@ApplicableTerritoryCode": "Worldwide",
+            "GenreText": "Rock"
+          }
+        },
+        {
+          "ReleaseReference": "R4",
+          "ReleaseId": {
+            "GRid": "A10328E0003980126S",
+            "ProprietaryId": {
+              "@Namespace": "ISRC",
+              "#text": "USSM18300420"
+            }
+          },
+          "ReleaseResourceReference": "A4",
+          "ReleaseLabelReference": {
+            "@LabelType": "DisplayLabel",
+            "#text": "P_LABEL_EPICLEGACY"
+          },
+          "Genre": {
+            "@ApplicableTerritoryCode": "Worldwide",
+            "GenreText": "Rock"
+          }
+        },
+        {
+          "ReleaseReference": "R5",
+          "ReleaseId": {
+            "GRid": "A10328E0003980124W",
+            "ProprietaryId": {
+              "@Namespace": "ISRC",
+              "#text": "USSM18300421"
+            }
+          },
+          "ReleaseResourceReference": "A5",
+          "ReleaseLabelReference": {
+            "@LabelType": "DisplayLabel",
+            "#text": "P_LABEL_EPICLEGACY"
+          },
+          "Genre": {
+            "@ApplicableTerritoryCode": "Worldwide",
+            "GenreText": "Rock"
+          }
+        },
+        {
+          "ReleaseReference": "R6",
+          "ReleaseId": {
+            "GRid": "A10328E0003980125U",
+            "ProprietaryId": {
+              "@Namespace": "ISRC",
+              "#text": "USSM18300422"
+            }
+          },
+          "ReleaseResourceReference": "A6",
+          "ReleaseLabelReference": {
+            "@LabelType": "DisplayLabel",
+            "#text": "P_LABEL_EPICLEGACY"
+          },
+          "Genre": {
+            "@ApplicableTerritoryCode": "Worldwide",
+            "GenreText": "Rock"
+          }
+        },
+        {
+          "ReleaseReference": "R7",
+          "ReleaseId": {
+            "GRid": "A10328E00039801220",
+            "ProprietaryId": {
+              "@Namespace": "ISRC",
+              "#text": "USSM18300423"
+            }
+          },
+          "ReleaseResourceReference": "A7",
+          "ReleaseLabelReference": {
+            "@LabelType": "DisplayLabel",
+            "#text": "P_LABEL_EPICLEGACY"
+          },
+          "Genre": {
+            "@ApplicableTerritoryCode": "Worldwide",
+            "GenreText": "Rock"
+          }
+        },
+        {
+          "ReleaseReference": "R8",
+          "ReleaseId": {
+            "GRid": "A10328E0003980123Y",
+            "ProprietaryId": {
+              "@Namespace": "ISRC",
+              "#text": "USSM18300424"
+            }
+          },
+          "ReleaseResourceReference": "A8",
+          "ReleaseLabelReference": {
+            "@LabelType": "DisplayLabel",
+            "#text": "P_LABEL_EPICLEGACY"
+          },
+          "Genre": {
+            "@ApplicableTerritoryCode": "Worldwide",
+            "GenreText": "Rock"
+          }
+        },
+        {
+          "ReleaseReference": "R9",
+          "ReleaseId": {
+            "GRid": "A10328E00039801211",
+            "ProprietaryId": {
+              "@Namespace": "ISRC",
+              "#text": "USSM18300425"
+            }
+          },
+          "ReleaseResourceReference": "A9",
+          "ReleaseLabelReference": {
+            "@LabelType": "DisplayLabel",
+            "#text": "P_LABEL_EPICLEGACY"
+          },
+          "Genre": {
+            "@ApplicableTerritoryCode": "Worldwide",
+            "GenreText": "Rock"
+          }
+        },
+        {
+          "ReleaseReference": "R10",
+          "ReleaseId": {
+            "GRid": "A10328E00039801203",
+            "ProprietaryId": {
+              "@Namespace": "ISRC",
+              "#text": "USSM18300426"
+            }
+          },
+          "ReleaseResourceReference": "A10",
+          "ReleaseLabelReference": {
+            "@LabelType": "DisplayLabel",
+            "#text": "P_LABEL_EPICLEGACY"
+          },
+          "Genre": {
+            "@ApplicableTerritoryCode": "Worldwide",
+            "GenreText": "Rock"
+          }
+        },
+        {
+          "ReleaseReference": "R11",
+          "ReleaseId": {
+            "GRid": "A10328E0003980119Q",
+            "ProprietaryId": {
+              "@Namespace": "ISRC",
+              "#text": "USSM10606175"
+            }
+          },
+          "ReleaseResourceReference": "A11",
+          "ReleaseLabelReference": {
+            "@LabelType": "DisplayLabel",
+            "#text": "P_LABEL_EPICLEGACY"
+          },
+          "Genre": {
+            "@ApplicableTerritoryCode": "Worldwide",
+            "GenreText": "Rock"
+          }
+        },
+        {
+          "ReleaseReference": "R12",
+          "ReleaseId": {
+            "GRid": "A10328E0003980118S",
+            "ProprietaryId": {
+              "@Namespace": "ISRC",
+              "#text": "USSM18200435"
+            }
+          },
+          "ReleaseResourceReference": "A12",
+          "ReleaseLabelReference": {
+            "@LabelType": "DisplayLabel",
+            "#text": "P_LABEL_EPICLEGACY"
+          },
+          "Genre": {
+            "@ApplicableTerritoryCode": "Worldwide",
+            "GenreText": "Rock"
+          }
+        },
+        {
+          "ReleaseReference": "R13",
+          "ReleaseId": {
+            "GRid": "A10328E0003980116W",
+            "ProprietaryId": {
+              "@Namespace": "ISRC",
+              "#text": "USSM18300440"
+            }
+          },
+          "ReleaseResourceReference": "A13",
+          "ReleaseLabelReference": {
+            "@LabelType": "DisplayLabel",
+            "#text": "P_LABEL_EPICLEGACY"
+          },
+          "Genre": {
+            "@ApplicableTerritoryCode": "Worldwide",
+            "GenreText": "Rock"
+          }
+        },
+        {
+          "ReleaseReference": "R14",
+          "ReleaseId": {
+            "GRid": "A10328E0003980117U",
+            "ProprietaryId": {
+              "@Namespace": "ISRC",
+              "#text": "USSM18300441"
+            }
+          },
+          "ReleaseResourceReference": "A14",
+          "ReleaseLabelReference": {
+            "@LabelType": "DisplayLabel",
+            "#text": "P_LABEL_EPICLEGACY"
+          },
+          "Genre": {
+            "@ApplicableTerritoryCode": "Worldwide",
+            "GenreText": "Rock"
+          }
+        },
+        {
+          "ReleaseReference": "R15",
+          "ReleaseId": {
+            "GRid": "A10328E0003980115Y",
+            "ProprietaryId": {
+              "@Namespace": "ISRC",
+              "#text": "USSM18300442"
+            }
+          },
+          "ReleaseResourceReference": "A15",
+          "ReleaseLabelReference": {
+            "@LabelType": "DisplayLabel",
+            "#text": "P_LABEL_EPICLEGACY"
+          },
+          "Genre": {
+            "@ApplicableTerritoryCode": "Worldwide",
+            "GenreText": "Rock"
+          }
+        }
+      ]
+    },
+    "DealList": {
+      "ReleaseDeal": {
+        "DealReleaseReference": [
+          "R1",
+          "R2",
+          "R3",
+          "R4",
+          "R5",
+          "R6",
+          "R7",
+          "R8",
+          "R9",
+          "R10",
+          "R11",
+          "R12",
+          "R13",
+          "R14",
+          "R15"
+        ],
+        "Deal": [
+          {
+            "DealTerms": {
+              "TerritoryCode": [
+                "AG",
+                "AI",
+                "AW",
+                "BB",
+                "BM",
+                "BO",
+                "BQ",
+                "BR",
+                "BZ",
+                "CL",
+                "CO",
+                "CR",
+                "CW",
+                "DM",
+                "DO",
+                "EC",
+                "ES",
+                "GD",
+                "GF",
+                "GP",
+                "GY",
+                "HT",
+                "JM",
+                "KN",
+                "KY",
+                "LC",
+                "MQ",
+                "MS",
+                "PA",
+                "PE",
+                "SR",
+                "SV",
+                "TC",
+                "TT",
+                "VC",
+                "VG",
+                "VU",
+                "ZM"
+              ],
+              "ValidityPeriod": {
+                "StartDateTime": "1990-04-09T00:00:00",
+                "EndDateTime": "2029-11-06T00:00:00"
+              },
+              "CommercialModelType": "SubscriptionModel",
+              "UseType": [
+                "ConditionalDownload",
+                "NonInteractiveStream",
+                "OnDemandStream"
+              ]
+            }
+          },
+          {
+            "DealTerms": {
+              "TerritoryCode": [
+                "AG",
+                "AI",
+                "AW",
+                "BB",
+                "BM",
+                "BO",
+                "BQ",
+                "BR",
+                "BZ",
+                "CL",
+                "CO",
+                "CR",
+                "CW",
+                "DM",
+                "DO",
+                "EC",
+                "ES",
+                "GD",
+                "GF",
+                "GP",
+                "GY",
+                "HT",
+                "JM",
+                "KN",
+                "KY",
+                "LC",
+                "MQ",
+                "MS",
+                "PA",
+                "PE",
+                "SR",
+                "SV",
+                "TC",
+                "TT",
+                "VC",
+                "VG",
+                "VU",
+                "ZM"
+              ],
+              "ValidityPeriod": {
+                "StartDateTime": "1990-04-09T00:00:00",
+                "EndDateTime": "2029-11-06T00:00:00"
+              },
+              "CommercialModelType": "AdvertisementSupportedModel",
+              "UseType": [
+                "NonInteractiveStream",
+                "OnDemandStream"
+              ]
+            }
+          }
+        ]
+      }
+    }
+  }
+}

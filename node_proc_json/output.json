@@ -1,0 +1,2182 @@
+{
+    "party_value": {
+        "PADPIDA2007040502I": {
+            "default": "Sony Music Entertainment"
+        },
+        "PADPIDA2012073006T": {
+            "default": "KuackMedia 4.3 SD"
+        },
+        "P_SME_SENDER": {
+            "default": "Sony Music Entertainment"
+        },
+        "P_ARTIST_9252": {
+            "default": "Doug Sax"
+        },
+        "P_ARTIST_17865": {
+            "default": "Tom Hamilton"
+        },
+        "P_ARTIST_42945": {
+            "default": "Jack Douglas"
+        },
+        "P_ARTIST_87022": {
+            "default": "Corky Stasiak"
+        },
+        "P_ARTIST_87023": {
+            "default": "Dave Thoener"
+        },
+        "P_ARTIST_115900": {
+            "default": "Fred Weismantel"
+        },
+        "P_ARTIST_137673": {
+            "default": "Brad Whitford"
+        },
+        "P_ARTIST_162292": {
+            "default": "Joey Kramer"
+        },
+        "P_ARTIST_170704": {
+            "default": "Jay Messina"
+        },
+        "P_ARTIST_240611": {
+            "default": "Scott Cushnie"
+        },
+        "P_ARTIST_241048": {
+            "default": "Rod O'Brien"
+        },
+        "P_ARTIST_351662": {
+            "default": "Michael Mainieri"
+        },
+        "P_ARTIST_2636683": {
+            "default": "Don Solomon"
+        },
+        "P_ARTIST_2730203": {
+            "default": "Steven Tyler",
+            "ja-Jpan": "Steven Tyler",
+            "ja-Kana": "スティーヴンタイラー",
+            "zh-Hant": "史提芬泰勒"
+        },
+        "P_ARTIST_2762254": {
+            "default": "Joe Perry",
+            "ja-Jpan": "ジョー・ペリー",
+            "ja-Kana": "ジョーペリー",
+            "zh-Hant": "喬派瑞"
+        },
+        "P_ARTIST_2990300": {
+            "default": "Aerosmith",
+            "ja-Jpan": "Aerosmith",
+            "ja-Kana": "エアロスミス",
+            "zh-Hant": "史密斯飛船合唱團"
+        },
+        "P_LABEL_COLUMBIA": {
+            "default": "Columbia"
+        }
+    },
+    "message_header_value": {
+        "MessageThreadId": "G010000935334X_KUC",
+        "MessageId": "332932436",
+        "MessageSender": {
+            "PartyId": "PADPIDA2007040502I",
+            "PartyName": {
+                "FullName": "Sony Music Entertainment"
+            }
+        },
+        "MessageRecipient": {
+            "PartyId": "PADPIDA2012073006T",
+            "PartyName": {
+                "FullName": "KuackMedia 4.3 SD"
+            }
+        },
+        "MessageCreatedDateTime": "2024-10-23T08:55:20.656Z",
+        "MessageControlType": "TestMessage"
+    },
+    "technical_details_value": {
+        "A1": {
+            "T1": {
+                "TechnicalResourceDetailsReference": "T1",
+                "DeliveryFile": {
+                    "Type": "AudioFile",
+                    "AudioCodecType": "MP3",
+                    "BitRate": {
+                        "@UnitOfMeasure": "kbps",
+                        "#text": "320"
+                    },
+                    "NumberOfChannels": "2",
+                    "SamplingRate": {
+                        "@UnitOfMeasure": "kHz",
+                        "#text": "44.1"
+                    },
+                    "BitsPerSample": "16",
+                    "File": {
+                        "URI": "https://mgsrv-aws.smecde.com/rd/e859c2b42/20122/489571.20122.mp3?oauth_consumer_key=kuc&tag=99f5d8e7feea860116b8e513f9ad9576&oauth_timestamp=1738313720&oauth_signature=16uFoEf9%2BrUmF7yqUpn6EhBcqcA%3D",
+                        "HashSum": {
+                            "Algorithm": "MD5",
+                            "HashSumValue": "99f5d8e7feea860116b8e513f9ad9576"
+                        },
+                        "FileSize": "7408706"
+                    },
+                    "IsProvidedInDelivery": "false"
+                },
+                "IsClip": "false",
+                "ClipDetails": {
+                    "TechnicalResourceDetailsReference": "T1P",
+                    "ClipType": "Preview",
+                    "Timing": {
+                        "StartPoint": "48000",
+                        "EndPoint": "78000",
+                        "DurationUsed": "P0DT0H0M30.000S"
+                    },
+                    "ExpressionType": "Instructive"
+                }
+            }
+        },
+        "A2": {
+            "T2": {
+                "TechnicalResourceDetailsReference": "T2",
+                "DeliveryFile": {
+                    "Type": "AudioFile",
+                    "AudioCodecType": "MP3",
+                    "BitRate": {
+                        "@UnitOfMeasure": "kbps",
+                        "#text": "320"
+                    },
+                    "NumberOfChannels": "2",
+                    "SamplingRate": {
+                        "@UnitOfMeasure": "kHz",
+                        "#text": "44.1"
+                    },
+                    "BitsPerSample": "16",
+                    "File": {
+                        "URI": "https://mgsrv-aws.smecde.com/rd/2c23d2b42/20122/489573.20122.mp3?oauth_consumer_key=kuc&tag=e6bcff9e8856623894e132a6c8c5c153&oauth_timestamp=1738313720&oauth_signature=hP%2BVNwvuTXpfk%2Bsb5SC2D9%2BqW%2FA%3D",
+                        "HashSum": {
+                            "Algorithm": "MD5",
+                            "HashSumValue": "e6bcff9e8856623894e132a6c8c5c153"
+                        },
+                        "FileSize": "9996912"
+                    },
+                    "IsProvidedInDelivery": "false"
+                },
+                "IsClip": "false",
+                "ClipDetails": {
+                    "TechnicalResourceDetailsReference": "T2P",
+                    "ClipType": "Preview",
+                    "Timing": {
+                        "StartPoint": "48000",
+                        "EndPoint": "78000",
+                        "DurationUsed": "P0DT0H0M30.000S"
+                    },
+                    "ExpressionType": "Instructive"
+                }
+            }
+        },
+        "A3": {
+            "T3": {
+                "TechnicalResourceDetailsReference": "T3",
+                "DeliveryFile": {
+                    "Type": "AudioFile",
+                    "AudioCodecType": "MP3",
+                    "BitRate": {
+                        "@UnitOfMeasure": "kbps",
+                        "#text": "320"
+                    },
+                    "NumberOfChannels": "2",
+                    "SamplingRate": {
+                        "@UnitOfMeasure": "kHz",
+                        "#text": "44.1"
+                    },
+                    "BitsPerSample": "16",
+                    "File": {
+                        "URI": "https://mgsrv-aws.smecde.com/rd/6ffcd2b42/20122/489575.20122.mp3?oauth_consumer_key=kuc&tag=ef974b72a89ea1b6d017524169828ca8&oauth_timestamp=1738313720&oauth_signature=PXUeexg6o1Ln%2FPljRIA5aGvAIe0%3D",
+                        "HashSum": {
+                            "Algorithm": "MD5",
+                            "HashSumValue": "ef974b72a89ea1b6d017524169828ca8"
+                        },
+                        "FileSize": "10961354"
+                    },
+                    "IsProvidedInDelivery": "false"
+                },
+                "IsClip": "false",
+                "ClipDetails": {
+                    "TechnicalResourceDetailsReference": "T3P",
+                    "ClipType": "Preview",
+                    "Timing": {
+                        "StartPoint": "48000",
+                        "EndPoint": "78000",
+                        "DurationUsed": "P0DT0H0M30.000S"
+                    },
+                    "ExpressionType": "Instructive"
+                }
+            }
+        },
+        "A4": {
+            "T4": {
+                "TechnicalResourceDetailsReference": "T4",
+                "DeliveryFile": {
+                    "Type": "AudioFile",
+                    "AudioCodecType": "MP3",
+                    "BitRate": {
+                        "@UnitOfMeasure": "kbps",
+                        "#text": "320"
+                    },
+                    "NumberOfChannels": "2",
+                    "SamplingRate": {
+                        "@UnitOfMeasure": "kHz",
+                        "#text": "44.1"
+                    },
+                    "BitsPerSample": "16",
+                    "File": {
+                        "URI": "https://mgsrv-aws.smecde.com/rd/a2d6e2b42/20122/489577.20122.mp3?oauth_consumer_key=kuc&tag=6d61982e8fea1f7eb40a46ffd48a38e5&oauth_timestamp=1738313720&oauth_signature=2muvRNNpMUJktVoLheEpJpx96IQ%3D",
+                        "HashSum": {
+                            "Algorithm": "MD5",
+                            "HashSumValue": "6d61982e8fea1f7eb40a46ffd48a38e5"
+                        },
+                        "FileSize": "8819314"
+                    },
+                    "IsProvidedInDelivery": "false"
+                },
+                "IsClip": "false",
+                "ClipDetails": {
+                    "TechnicalResourceDetailsReference": "T4P",
+                    "ClipType": "Preview",
+                    "Timing": {
+                        "StartPoint": "48000",
+                        "EndPoint": "78000",
+                        "DurationUsed": "P0DT0H0M30.000S"
+                    },
+                    "ExpressionType": "Instructive"
+                }
+            }
+        },
+        "A5": {
+            "T5": {
+                "TechnicalResourceDetailsReference": "T5",
+                "DeliveryFile": {
+                    "Type": "AudioFile",
+                    "AudioCodecType": "MP3",
+                    "BitRate": {
+                        "@UnitOfMeasure": "kbps",
+                        "#text": "320"
+                    },
+                    "NumberOfChannels": "2",
+                    "SamplingRate": {
+                        "@UnitOfMeasure": "kHz",
+                        "#text": "44.1"
+                    },
+                    "BitsPerSample": "16",
+                    "File": {
+                        "URI": "https://mgsrv-aws.smecde.com/rd/e5a0f2b42/20122/489579.20122.mp3?oauth_consumer_key=kuc&tag=b2a9928c68fe9a92659146f611d860fe&oauth_timestamp=1738313720&oauth_signature=i3OsVYFjQ6tDomE75s%2F3jc6Tj2M%3D",
+                        "HashSum": {
+                            "Algorithm": "MD5",
+                            "HashSumValue": "b2a9928c68fe9a92659146f611d860fe"
+                        },
+                        "FileSize": "5419223"
+                    },
+                    "IsProvidedInDelivery": "false"
+                },
+                "IsClip": "false",
+                "ClipDetails": {
+                    "TechnicalResourceDetailsReference": "T5P",
+                    "ClipType": "Preview",
+                    "Timing": {
+                        "StartPoint": "48000",
+                        "EndPoint": "78000",
+                        "DurationUsed": "P0DT0H0M30.000S"
+                    },
+                    "ExpressionType": "Instructive"
+                }
+            }
+        },
+        "A6": {
+            "T6": {
+                "TechnicalResourceDetailsReference": "T6",
+                "DeliveryFile": {
+                    "Type": "AudioFile",
+                    "AudioCodecType": "MP3",
+                    "BitRate": {
+                        "@UnitOfMeasure": "kbps",
+                        "#text": "320"
+                    },
+                    "NumberOfChannels": "2",
+                    "SamplingRate": {
+                        "@UnitOfMeasure": "kHz",
+                        "#text": "44.1"
+                    },
+                    "BitsPerSample": "16",
+                    "File": {
+                        "URI": "https://mgsrv-aws.smecde.com/rd/297af2b42/20122/489581.20122.mp3?oauth_consumer_key=kuc&tag=96b1cb1cc5ea0bb2954a9b31f1928fd1&oauth_timestamp=1738313720&oauth_signature=eIKnM0WCfS8qduLIDoBy5BTD7OA%3D",
+                        "HashSum": {
+                            "Algorithm": "MD5",
+                            "HashSumValue": "96b1cb1cc5ea0bb2954a9b31f1928fd1"
+                        },
+                        "FileSize": "10968670"
+                    },
+                    "IsProvidedInDelivery": "false"
+                },
+                "IsClip": "false",
+                "ClipDetails": {
+                    "TechnicalResourceDetailsReference": "T6P",
+                    "ClipType": "Preview",
+                    "Timing": {
+                        "StartPoint": "48000",
+                        "EndPoint": "78000",
+                        "DurationUsed": "P0DT0H0M30.000S"
+                    },
+                    "ExpressionType": "Instructive"
+                }
+            }
+        },
+        "A7": {
+            "T7": {
+                "TechnicalResourceDetailsReference": "T7",
+                "DeliveryFile": {
+                    "Type": "AudioFile",
+                    "AudioCodecType": "MP3",
+                    "BitRate": {
+                        "@UnitOfMeasure": "kbps",
+                        "#text": "320"
+                    },
+                    "NumberOfChannels": "2",
+                    "SamplingRate": {
+                        "@UnitOfMeasure": "kHz",
+                        "#text": "44.1"
+                    },
+                    "BitsPerSample": "16",
+                    "File": {
+                        "URI": "https://mgsrv-aws.smecde.com/rd/6c4403b42/20122/489583.20122.mp3?oauth_consumer_key=kuc&tag=de0a0440bb4ddae686852fd4f799e58c&oauth_timestamp=1738313720&oauth_signature=Rg7sHvs2Hy74hasF1xwyP2SZnl0%3D",
+                        "HashSum": {
+                            "Algorithm": "MD5",
+                            "HashSumValue": "de0a0440bb4ddae686852fd4f799e58c"
+                        },
+                        "FileSize": "10967627"
+                    },
+                    "IsProvidedInDelivery": "false"
+                },
+                "IsClip": "false",
+                "ClipDetails": {
+                    "TechnicalResourceDetailsReference": "T7P",
+                    "ClipType": "Preview",
+                    "Timing": {
+                        "StartPoint": "48000",
+                        "EndPoint": "78000",
+                        "DurationUsed": "P0DT0H0M30.000S"
+                    },
+                    "ExpressionType": "Instructive"
+                }
+            }
+        },
+        "A8": {
+            "T8": {
+                "TechnicalResourceDetailsReference": "T8",
+                "DeliveryFile": {
+                    "Type": "AudioFile",
+                    "AudioCodecType": "MP3",
+                    "BitRate": {
+                        "@UnitOfMeasure": "kbps",
+                        "#text": "320"
+                    },
+                    "NumberOfChannels": "2",
+                    "SamplingRate": {
+                        "@UnitOfMeasure": "kHz",
+                        "#text": "44.1"
+                    },
+                    "BitsPerSample": "16",
+                    "File": {
+                        "URI": "https://mgsrv-aws.smecde.com/rd/af1e03b42/20122/489585.20122.mp3?oauth_consumer_key=kuc&tag=13f6f396a79846b1aafeddb4e6369612&oauth_timestamp=1738313720&oauth_signature=tY8nd3gM%2FzgUe3pWqjMAOArj8UA%3D",
+                        "HashSum": {
+                            "Algorithm": "MD5",
+                            "HashSumValue": "13f6f396a79846b1aafeddb4e6369612"
+                        },
+                        "FileSize": "12131643"
+                    },
+                    "IsProvidedInDelivery": "false"
+                },
+                "IsClip": "false",
+                "ClipDetails": {
+                    "TechnicalResourceDetailsReference": "T8P",
+                    "ClipType": "Preview",
+                    "Timing": {
+                        "StartPoint": "48000",
+                        "EndPoint": "78000",
+                        "DurationUsed": "P0DT0H0M30.000S"
+                    },
+                    "ExpressionType": "Instructive"
+                }
+            }
+        },
+        "A9": {
+            "T9": {
+                "TechnicalResourceDetailsReference": "T9",
+                "DeliveryFile": {
+                    "Type": "AudioFile",
+                    "AudioCodecType": "MP3",
+                    "BitRate": {
+                        "@UnitOfMeasure": "kbps",
+                        "#text": "320"
+                    },
+                    "NumberOfChannels": "2",
+                    "SamplingRate": {
+                        "@UnitOfMeasure": "kHz",
+                        "#text": "44.1"
+                    },
+                    "BitsPerSample": "16",
+                    "File": {
+                        "URI": "https://mgsrv-aws.smecde.com/rd/e2f713b42/20122/489587.20122.mp3?oauth_consumer_key=kuc&tag=e456f8c0b2d583001122110074fc6271&oauth_timestamp=1738313720&oauth_signature=%2Bttw0OAjzI4O9ooORm3%2FqYeoULk%3D",
+                        "HashSum": {
+                            "Algorithm": "MD5",
+                            "HashSumValue": "e456f8c0b2d583001122110074fc6271"
+                        },
+                        "FileSize": "12470192"
+                    },
+                    "IsProvidedInDelivery": "false"
+                },
+                "IsClip": "false",
+                "ClipDetails": {
+                    "TechnicalResourceDetailsReference": "T9P",
+                    "ClipType": "Preview",
+                    "Timing": {
+                        "StartPoint": "48000",
+                        "EndPoint": "78000",
+                        "DurationUsed": "P0DT0H0M30.000S"
+                    },
+                    "ExpressionType": "Instructive"
+                }
+            }
+        }
+    },
+    "display_artist_value": {
+        "A1": {
+            "P_ARTIST_2990300": {
+                "sequence_number": "1",
+                "artist_party_reference": "P_ARTIST_2990300",
+                "name": {
+                    "default": "Aerosmith",
+                    "ja-Jpan": "Aerosmith",
+                    "ja-Kana": "エアロスミス",
+                    "zh-Hant": "史密斯飛船合唱團"
+                },
+                "display_role": "MainArtist",
+                "artistic_roles": []
+            }
+        },
+        "A2": {
+            "P_ARTIST_2990300": {
+                "sequence_number": "1",
+                "artist_party_reference": "P_ARTIST_2990300",
+                "name": {
+                    "default": "Aerosmith",
+                    "ja-Jpan": "Aerosmith",
+                    "ja-Kana": "エアロスミス",
+                    "zh-Hant": "史密斯飛船合唱團"
+                },
+                "display_role": "MainArtist",
+                "artistic_roles": []
+            }
+        },
+        "A3": {
+            "P_ARTIST_2990300": {
+                "sequence_number": "1",
+                "artist_party_reference": "P_ARTIST_2990300",
+                "name": {
+                    "default": "Aerosmith",
+                    "ja-Jpan": "Aerosmith",
+                    "ja-Kana": "エアロスミス",
+                    "zh-Hant": "史密斯飛船合唱團"
+                },
+                "display_role": "MainArtist",
+                "artistic_roles": [
+                    "AssociatedPerformer"
+                ]
+            }
+        },
+        "A4": {
+            "P_ARTIST_2990300": {
+                "sequence_number": "1",
+                "artist_party_reference": "P_ARTIST_2990300",
+                "name": {
+                    "default": "Aerosmith",
+                    "ja-Jpan": "Aerosmith",
+                    "ja-Kana": "エアロスミス",
+                    "zh-Hant": "史密斯飛船合唱團"
+                },
+                "display_role": "MainArtist",
+                "artistic_roles": []
+            }
+        },
+        "A5": {
+            "P_ARTIST_2990300": {
+                "sequence_number": "1",
+                "artist_party_reference": "P_ARTIST_2990300",
+                "name": {
+                    "default": "Aerosmith",
+                    "ja-Jpan": "Aerosmith",
+                    "ja-Kana": "エアロスミス",
+                    "zh-Hant": "史密斯飛船合唱團"
+                },
+                "display_role": "MainArtist",
+                "artistic_roles": []
+            }
+        },
+        "A6": {
+            "P_ARTIST_2990300": {
+                "sequence_number": "1",
+                "artist_party_reference": "P_ARTIST_2990300",
+                "name": {
+                    "default": "Aerosmith",
+                    "ja-Jpan": "Aerosmith",
+                    "ja-Kana": "エアロスミス",
+                    "zh-Hant": "史密斯飛船合唱團"
+                },
+                "display_role": "MainArtist",
+                "artistic_roles": [
+                    "AssociatedPerformer"
+                ]
+            }
+        },
+        "A7": {
+            "P_ARTIST_2990300": {
+                "sequence_number": "1",
+                "artist_party_reference": "P_ARTIST_2990300",
+                "name": {
+                    "default": "Aerosmith",
+                    "ja-Jpan": "Aerosmith",
+                    "ja-Kana": "エアロスミス",
+                    "zh-Hant": "史密斯飛船合唱團"
+                },
+                "display_role": "MainArtist",
+                "artistic_roles": []
+            }
+        },
+        "A8": {
+            "P_ARTIST_2990300": {
+                "sequence_number": "1",
+                "artist_party_reference": "P_ARTIST_2990300",
+                "name": {
+                    "default": "Aerosmith",
+                    "ja-Jpan": "Aerosmith",
+                    "ja-Kana": "エアロスミス",
+                    "zh-Hant": "史密斯飛船合唱團"
+                },
+                "display_role": "MainArtist",
+                "artistic_roles": []
+            }
+        },
+        "A9": {
+            "P_ARTIST_2990300": {
+                "sequence_number": "1",
+                "artist_party_reference": "P_ARTIST_2990300",
+                "name": {
+                    "default": "Aerosmith",
+                    "ja-Jpan": "Aerosmith",
+                    "ja-Kana": "エアロスミス",
+                    "zh-Hant": "史密斯飛船合唱團"
+                },
+                "display_role": "MainArtist",
+                "artistic_roles": [
+                    "AssociatedPerformer"
+                ]
+            }
+        }
+    },
+    "contributors_value": {
+        "A1": {
+            "P_ARTIST_2730203": {
+                "sequence_number": "1",
+                "party_reference": "P_ARTIST_2730203",
+                "name": {
+                    "default": "Steven Tyler",
+                    "ja-Jpan": "Steven Tyler",
+                    "ja-Kana": "スティーヴンタイラー",
+                    "zh-Hant": "史提芬泰勒"
+                },
+                "roles": [
+                    "Harmonica",
+                    "Keyboards",
+                    "Percussion",
+                    "Vocal",
+                    "Composer",
+                    "Lyricist"
+                ]
+            },
+            "P_ARTIST_2762254": {
+                "sequence_number": "2",
+                "party_reference": "P_ARTIST_2762254",
+                "name": {
+                    "default": "Joe Perry",
+                    "ja-Jpan": "ジョー・ペリー",
+                    "ja-Kana": "ジョーペリー",
+                    "zh-Hant": "喬派瑞"
+                },
+                "roles": [
+                    "Acoustic Guitar",
+                    "Background Vocal",
+                    "Guitar",
+                    "Percussion",
+                    "Slide Guitar",
+                    "Composer",
+                    "Lyricist"
+                ]
+            },
+            "P_ARTIST_351662": {
+                "sequence_number": "3",
+                "party_reference": "P_ARTIST_351662",
+                "name": {
+                    "default": "Michael Mainieri"
+                },
+                "roles": [
+                    "Conductor",
+                    "Orchestrator"
+                ]
+            },
+            "P_ARTIST_137673": {
+                "sequence_number": "4",
+                "party_reference": "P_ARTIST_137673",
+                "name": {
+                    "default": "Brad Whitford"
+                },
+                "roles": [
+                    "Guitar"
+                ]
+            },
+            "P_ARTIST_162292": {
+                "sequence_number": "5",
+                "party_reference": "P_ARTIST_162292",
+                "name": {
+                    "default": "Joey Kramer"
+                },
+                "roles": [
+                    "Drums",
+                    "Percussion"
+                ]
+            },
+            "P_ARTIST_17865": {
+                "sequence_number": "6",
+                "party_reference": "P_ARTIST_17865",
+                "name": {
+                    "default": "Tom Hamilton"
+                },
+                "roles": [
+                    "Bass"
+                ]
+            },
+            "P_ARTIST_42945": {
+                "sequence_number": "7",
+                "party_reference": "P_ARTIST_42945",
+                "name": {
+                    "default": "Jack Douglas"
+                },
+                "roles": [
+                    "Arranger",
+                    "Producer"
+                ]
+            },
+            "P_ARTIST_170704": {
+                "sequence_number": "8",
+                "party_reference": "P_ARTIST_170704",
+                "name": {
+                    "default": "Jay Messina"
+                },
+                "roles": [
+                    "Engineer"
+                ]
+            },
+            "P_ARTIST_241048": {
+                "sequence_number": "9",
+                "party_reference": "P_ARTIST_241048",
+                "name": {
+                    "default": "Rod O'Brien"
+                },
+                "roles": [
+                    "Assistant Engineer"
+                ]
+            },
+            "P_ARTIST_87022": {
+                "sequence_number": "10",
+                "party_reference": "P_ARTIST_87022",
+                "name": {
+                    "default": "Corky Stasiak"
+                },
+                "roles": [
+                    "Assistant Engineer"
+                ]
+            },
+            "P_ARTIST_87023": {
+                "sequence_number": "11",
+                "party_reference": "P_ARTIST_87023",
+                "name": {
+                    "default": "Dave Thoener"
+                },
+                "roles": [
+                    "Assistant Engineer"
+                ]
+            },
+            "P_ARTIST_9252": {
+                "sequence_number": "12",
+                "party_reference": "P_ARTIST_9252",
+                "name": {
+                    "default": "Doug Sax"
+                },
+                "roles": [
+                    "Mastering Engineer"
+                ]
+            }
+        },
+        "A2": {
+            "P_ARTIST_2730203": {
+                "sequence_number": "1",
+                "party_reference": "P_ARTIST_2730203",
+                "name": {
+                    "default": "Steven Tyler",
+                    "ja-Jpan": "Steven Tyler",
+                    "ja-Kana": "スティーヴンタイラー",
+                    "zh-Hant": "史提芬泰勒"
+                },
+                "roles": [
+                    "Harmonica",
+                    "Keyboards",
+                    "Percussion",
+                    "Vocal",
+                    "Composer",
+                    "Lyricist"
+                ]
+            },
+            "P_ARTIST_2762254": {
+                "sequence_number": "2",
+                "party_reference": "P_ARTIST_2762254",
+                "name": {
+                    "default": "Joe Perry",
+                    "ja-Jpan": "ジョー・ペリー",
+                    "ja-Kana": "ジョーペリー",
+                    "zh-Hant": "喬派瑞"
+                },
+                "roles": [
+                    "Acoustic Guitar",
+                    "Background Vocal",
+                    "Guitar",
+                    "Percussion",
+                    "Slide Guitar"
+                ]
+            },
+            "P_ARTIST_17865": {
+                "sequence_number": "3",
+                "party_reference": "P_ARTIST_17865",
+                "name": {
+                    "default": "Tom Hamilton"
+                },
+                "roles": [
+                    "Guitar",
+                    "Composer",
+                    "Lyricist"
+                ]
+            },
+            "P_ARTIST_351662": {
+                "sequence_number": "4",
+                "party_reference": "P_ARTIST_351662",
+                "name": {
+                    "default": "Michael Mainieri"
+                },
+                "roles": [
+                    "Conductor",
+                    "Orchestrator"
+                ]
+            },
+            "P_ARTIST_137673": {
+                "sequence_number": "5",
+                "party_reference": "P_ARTIST_137673",
+                "name": {
+                    "default": "Brad Whitford"
+                },
+                "roles": [
+                    "Guitar"
+                ]
+            },
+            "P_ARTIST_42945": {
+                "sequence_number": "6",
+                "party_reference": "P_ARTIST_42945",
+                "name": {
+                    "default": "Jack Douglas"
+                },
+                "roles": [
+                    "Arranger",
+                    "Producer"
+                ]
+            },
+            "P_ARTIST_162292": {
+                "sequence_number": "7",
+                "party_reference": "P_ARTIST_162292",
+                "name": {
+                    "default": "Joey Kramer"
+                },
+                "roles": [
+                    "Drums",
+                    "Percussion"
+                ]
+            },
+            "P_ARTIST_170704": {
+                "sequence_number": "8",
+                "party_reference": "P_ARTIST_170704",
+                "name": {
+                    "default": "Jay Messina"
+                },
+                "roles": [
+                    "Engineer"
+                ]
+            },
+            "P_ARTIST_241048": {
+                "sequence_number": "9",
+                "party_reference": "P_ARTIST_241048",
+                "name": {
+                    "default": "Rod O'Brien"
+                },
+                "roles": [
+                    "Assistant Engineer"
+                ]
+            },
+            "P_ARTIST_87022": {
+                "sequence_number": "10",
+                "party_reference": "P_ARTIST_87022",
+                "name": {
+                    "default": "Corky Stasiak"
+                },
+                "roles": [
+                    "Assistant Engineer"
+                ]
+            },
+            "P_ARTIST_87023": {
+                "sequence_number": "11",
+                "party_reference": "P_ARTIST_87023",
+                "name": {
+                    "default": "Dave Thoener"
+                },
+                "roles": [
+                    "Assistant Engineer"
+                ]
+            },
+            "P_ARTIST_9252": {
+                "sequence_number": "12",
+                "party_reference": "P_ARTIST_9252",
+                "name": {
+                    "default": "Doug Sax"
+                },
+                "roles": [
+                    "Mastering Engineer"
+                ]
+            }
+        },
+        "A3": {
+            "P_ARTIST_2730203": {
+                "sequence_number": "1",
+                "party_reference": "P_ARTIST_2730203",
+                "name": {
+                    "default": "Steven Tyler",
+                    "ja-Jpan": "Steven Tyler",
+                    "ja-Kana": "スティーヴンタイラー",
+                    "zh-Hant": "史提芬泰勒"
+                },
+                "roles": [
+                    "Harmonica",
+                    "Keyboards",
+                    "Percussion",
+                    "Vocal",
+                    "Arranger",
+                    "Composer",
+                    "Lyricist"
+                ]
+            },
+            "P_ARTIST_2762254": {
+                "sequence_number": "2",
+                "party_reference": "P_ARTIST_2762254",
+                "name": {
+                    "default": "Joe Perry",
+                    "ja-Jpan": "ジョー・ペリー",
+                    "ja-Kana": "ジョーペリー",
+                    "zh-Hant": "喬派瑞"
+                },
+                "roles": [
+                    "Acoustic Guitar",
+                    "Background Vocal",
+                    "Guitar",
+                    "Percussion",
+                    "Slide Guitar"
+                ]
+            },
+            "P_ARTIST_351662": {
+                "sequence_number": "3",
+                "party_reference": "P_ARTIST_351662",
+                "name": {
+                    "default": "Michael Mainieri"
+                },
+                "roles": [
+                    "Conductor",
+                    "Orchestrator"
+                ]
+            },
+            "P_ARTIST_137673": {
+                "sequence_number": "4",
+                "party_reference": "P_ARTIST_137673",
+                "name": {
+                    "default": "Brad Whitford"
+                },
+                "roles": [
+                    "Guitar"
+                ]
+            },
+            "P_ARTIST_162292": {
+                "sequence_number": "5",
+                "party_reference": "P_ARTIST_162292",
+                "name": {
+                    "default": "Joey Kramer"
+                },
+                "roles": [
+                    "Drums",
+                    "Percussion"
+                ]
+            },
+            "P_ARTIST_17865": {
+                "sequence_number": "6",
+                "party_reference": "P_ARTIST_17865",
+                "name": {
+                    "default": "Tom Hamilton"
+                },
+                "roles": [
+                    "Bass"
+                ]
+            },
+            "P_ARTIST_42945": {
+                "sequence_number": "7",
+                "party_reference": "P_ARTIST_42945",
+                "name": {
+                    "default": "Jack Douglas"
+                },
+                "roles": [
+                    "Producer"
+                ]
+            },
+            "P_ARTIST_170704": {
+                "sequence_number": "8",
+                "party_reference": "P_ARTIST_170704",
+                "name": {
+                    "default": "Jay Messina"
+                },
+                "roles": [
+                    "Engineer"
+                ]
+            },
+            "P_ARTIST_241048": {
+                "sequence_number": "9",
+                "party_reference": "P_ARTIST_241048",
+                "name": {
+                    "default": "Rod O'Brien"
+                },
+                "roles": [
+                    "Assistant Engineer"
+                ]
+            },
+            "P_ARTIST_87022": {
+                "sequence_number": "10",
+                "party_reference": "P_ARTIST_87022",
+                "name": {
+                    "default": "Corky Stasiak"
+                },
+                "roles": [
+                    "Assistant Engineer"
+                ]
+            },
+            "P_ARTIST_87023": {
+                "sequence_number": "11",
+                "party_reference": "P_ARTIST_87023",
+                "name": {
+                    "default": "Dave Thoener"
+                },
+                "roles": [
+                    "Assistant Engineer"
+                ]
+            },
+            "P_ARTIST_9252": {
+                "sequence_number": "12",
+                "party_reference": "P_ARTIST_9252",
+                "name": {
+                    "default": "Doug Sax"
+                },
+                "roles": [
+                    "Mastering Engineer"
+                ]
+            }
+        },
+        "A4": {
+            "P_ARTIST_2730203": {
+                "sequence_number": "1",
+                "party_reference": "P_ARTIST_2730203",
+                "name": {
+                    "default": "Steven Tyler",
+                    "ja-Jpan": "Steven Tyler",
+                    "ja-Kana": "スティーヴンタイラー",
+                    "zh-Hant": "史提芬泰勒"
+                },
+                "roles": [
+                    "Harmonica",
+                    "Keyboards",
+                    "Percussion",
+                    "Vocal",
+                    "Composer",
+                    "Lyricist"
+                ]
+            },
+            "P_ARTIST_2762254": {
+                "sequence_number": "2",
+                "party_reference": "P_ARTIST_2762254",
+                "name": {
+                    "default": "Joe Perry",
+                    "ja-Jpan": "ジョー・ペリー",
+                    "ja-Kana": "ジョーペリー",
+                    "zh-Hant": "喬派瑞"
+                },
+                "roles": [
+                    "Acoustic Guitar",
+                    "Background Vocal",
+                    "Guitar",
+                    "Percussion",
+                    "Slide Guitar",
+                    "Composer",
+                    "Lyricist"
+                ]
+            },
+            "P_ARTIST_137673": {
+                "sequence_number": "3",
+                "party_reference": "P_ARTIST_137673",
+                "name": {
+                    "default": "Brad Whitford"
+                },
+                "roles": [
+                    "Guitar"
+                ]
+            },
+            "P_ARTIST_42945": {
+                "sequence_number": "4",
+                "party_reference": "P_ARTIST_42945",
+                "name": {
+                    "default": "Jack Douglas"
+                },
+                "roles": [
+                    "Arranger",
+                    "Producer"
+                ]
+            },
+            "P_ARTIST_162292": {
+                "sequence_number": "5",
+                "party_reference": "P_ARTIST_162292",
+                "name": {
+                    "default": "Joey Kramer"
+                },
+                "roles": [
+                    "Drums",
+                    "Percussion"
+                ]
+            },
+            "P_ARTIST_17865": {
+                "sequence_number": "6",
+                "party_reference": "P_ARTIST_17865",
+                "name": {
+                    "default": "Tom Hamilton"
+                },
+                "roles": [
+                    "Bass"
+                ]
+            },
+            "P_ARTIST_170704": {
+                "sequence_number": "7",
+                "party_reference": "P_ARTIST_170704",
+                "name": {
+                    "default": "Jay Messina"
+                },
+                "roles": [
+                    "Engineer"
+                ]
+            },
+            "P_ARTIST_241048": {
+                "sequence_number": "8",
+                "party_reference": "P_ARTIST_241048",
+                "name": {
+                    "default": "Rod O'Brien"
+                },
+                "roles": [
+                    "Assistant Engineer"
+                ]
+            },
+            "P_ARTIST_87022": {
+                "sequence_number": "9",
+                "party_reference": "P_ARTIST_87022",
+                "name": {
+                    "default": "Corky Stasiak"
+                },
+                "roles": [
+                    "Assistant Engineer"
+                ]
+            },
+            "P_ARTIST_87023": {
+                "sequence_number": "10",
+                "party_reference": "P_ARTIST_87023",
+                "name": {
+                    "default": "Dave Thoener"
+                },
+                "roles": [
+                    "Assistant Engineer"
+                ]
+            },
+            "P_ARTIST_9252": {
+                "sequence_number": "11",
+                "party_reference": "P_ARTIST_9252",
+                "name": {
+                    "default": "Doug Sax"
+                },
+                "roles": [
+                    "Mastering Engineer"
+                ]
+            }
+        },
+        "A5": {
+            "P_ARTIST_2730203": {
+                "sequence_number": "1",
+                "party_reference": "P_ARTIST_2730203",
+                "name": {
+                    "default": "Steven Tyler",
+                    "ja-Jpan": "Steven Tyler",
+                    "ja-Kana": "スティーヴンタイラー",
+                    "zh-Hant": "史提芬泰勒"
+                },
+                "roles": [
+                    "Harmonica",
+                    "Keyboards",
+                    "Percussion",
+                    "Vocal"
+                ]
+            },
+            "P_ARTIST_115900": {
+                "sequence_number": "2",
+                "party_reference": "P_ARTIST_115900",
+                "name": {
+                    "default": "Fred Weismantel"
+                },
+                "roles": [
+                    "Composer",
+                    "Lyricist"
+                ]
+            },
+            "P_ARTIST_2762254": {
+                "sequence_number": "3",
+                "party_reference": "P_ARTIST_2762254",
+                "name": {
+                    "default": "Joe Perry",
+                    "ja-Jpan": "ジョー・ペリー",
+                    "ja-Kana": "ジョーペリー",
+                    "zh-Hant": "喬派瑞"
+                },
+                "roles": [
+                    "Acoustic Guitar",
+                    "Background Vocal",
+                    "Guitar",
+                    "Percussion",
+                    "Slide Guitar"
+                ]
+            },
+            "P_ARTIST_137673": {
+                "sequence_number": "4",
+                "party_reference": "P_ARTIST_137673",
+                "name": {
+                    "default": "Brad Whitford"
+                },
+                "roles": [
+                    "Guitar"
+                ]
+            },
+            "P_ARTIST_162292": {
+                "sequence_number": "5",
+                "party_reference": "P_ARTIST_162292",
+                "name": {
+                    "default": "Joey Kramer"
+                },
+                "roles": [
+                    "Drums",
+                    "Percussion"
+                ]
+            },
+            "P_ARTIST_42945": {
+                "sequence_number": "6",
+                "party_reference": "P_ARTIST_42945",
+                "name": {
+                    "default": "Jack Douglas"
+                },
+                "roles": [
+                    "Arranger",
+                    "Producer"
+                ]
+            },
+            "P_ARTIST_240611": {
+                "sequence_number": "7",
+                "party_reference": "P_ARTIST_240611",
+                "name": {
+                    "default": "Scott Cushnie"
+                },
+                "roles": [
+                    "Piano"
+                ]
+            },
+            "P_ARTIST_17865": {
+                "sequence_number": "8",
+                "party_reference": "P_ARTIST_17865",
+                "name": {
+                    "default": "Tom Hamilton"
+                },
+                "roles": [
+                    "Bass"
+                ]
+            },
+            "P_ARTIST_170704": {
+                "sequence_number": "9",
+                "party_reference": "P_ARTIST_170704",
+                "name": {
+                    "default": "Jay Messina"
+                },
+                "roles": [
+                    "Engineer"
+                ]
+            },
+            "P_ARTIST_241048": {
+                "sequence_number": "10",
+                "party_reference": "P_ARTIST_241048",
+                "name": {
+                    "default": "Rod O'Brien"
+                },
+                "roles": [
+                    "Assistant Engineer"
+                ]
+            },
+            "P_ARTIST_87022": {
+                "sequence_number": "11",
+                "party_reference": "P_ARTIST_87022",
+                "name": {
+                    "default": "Corky Stasiak"
+                },
+                "roles": [
+                    "Assistant Engineer"
+                ]
+            },
+            "P_ARTIST_87023": {
+                "sequence_number": "12",
+                "party_reference": "P_ARTIST_87023",
+                "name": {
+                    "default": "Dave Thoener"
+                },
+                "roles": [
+                    "Assistant Engineer"
+                ]
+            },
+            "P_ARTIST_9252": {
+                "sequence_number": "13",
+                "party_reference": "P_ARTIST_9252",
+                "name": {
+                    "default": "Doug Sax"
+                },
+                "roles": [
+                    "Mastering Engineer"
+                ]
+            }
+        },
+        "A6": {
+            "P_ARTIST_2730203": {
+                "sequence_number": "1",
+                "party_reference": "P_ARTIST_2730203",
+                "name": {
+                    "default": "Steven Tyler",
+                    "ja-Jpan": "Steven Tyler",
+                    "ja-Kana": "スティーヴンタイラー",
+                    "zh-Hant": "史提芬泰勒"
+                },
+                "roles": [
+                    "Harmonica",
+                    "Keyboards",
+                    "Percussion",
+                    "Vocal",
+                    "Composer",
+                    "Lyricist"
+                ]
+            },
+            "P_ARTIST_2762254": {
+                "sequence_number": "2",
+                "party_reference": "P_ARTIST_2762254",
+                "name": {
+                    "default": "Joe Perry",
+                    "ja-Jpan": "ジョー・ペリー",
+                    "ja-Kana": "ジョーペリー",
+                    "zh-Hant": "喬派瑞"
+                },
+                "roles": [
+                    "Acoustic Guitar",
+                    "Background Vocal",
+                    "Guitar",
+                    "Percussion",
+                    "Slide Guitar"
+                ]
+            },
+            "P_ARTIST_17865": {
+                "sequence_number": "3",
+                "party_reference": "P_ARTIST_17865",
+                "name": {
+                    "default": "Tom Hamilton"
+                },
+                "roles": [
+                    "Bass",
+                    "Composer",
+                    "Lyricist"
+                ]
+            },
+            "P_ARTIST_137673": {
+                "sequence_number": "4",
+                "party_reference": "P_ARTIST_137673",
+                "name": {
+                    "default": "Brad Whitford"
+                },
+                "roles": [
+                    "Guitar"
+                ]
+            },
+            "P_ARTIST_162292": {
+                "sequence_number": "5",
+                "party_reference": "P_ARTIST_162292",
+                "name": {
+                    "default": "Joey Kramer"
+                },
+                "roles": [
+                    "Drums",
+                    "Percussion"
+                ]
+            },
+            "P_ARTIST_170704": {
+                "sequence_number": "6",
+                "party_reference": "P_ARTIST_170704",
+                "name": {
+                    "default": "Jay Messina"
+                },
+                "roles": [
+                    "Marimba",
+                    "Engineer"
+                ]
+            },
+            "P_ARTIST_42945": {
+                "sequence_number": "7",
+                "party_reference": "P_ARTIST_42945",
+                "name": {
+                    "default": "Jack Douglas"
+                },
+                "roles": [
+                    "Producer"
+                ]
+            },
+            "P_ARTIST_241048": {
+                "sequence_number": "8",
+                "party_reference": "P_ARTIST_241048",
+                "name": {
+                    "default": "Rod O'Brien"
+                },
+                "roles": [
+                    "Assistant Engineer"
+                ]
+            },
+            "P_ARTIST_87022": {
+                "sequence_number": "9",
+                "party_reference": "P_ARTIST_87022",
+                "name": {
+                    "default": "Corky Stasiak"
+                },
+                "roles": [
+                    "Assistant Engineer"
+                ]
+            },
+            "P_ARTIST_87023": {
+                "sequence_number": "10",
+                "party_reference": "P_ARTIST_87023",
+                "name": {
+                    "default": "Dave Thoener"
+                },
+                "roles": [
+                    "Assistant Engineer"
+                ]
+            },
+            "P_ARTIST_9252": {
+                "sequence_number": "11",
+                "party_reference": "P_ARTIST_9252",
+                "name": {
+                    "default": "Doug Sax"
+                },
+                "roles": [
+                    "Mastering Engineer"
+                ]
+            }
+        },
+        "A7": {
+            "P_ARTIST_2730203": {
+                "sequence_number": "1",
+                "party_reference": "P_ARTIST_2730203",
+                "name": {
+                    "default": "Steven Tyler",
+                    "ja-Jpan": "Steven Tyler",
+                    "ja-Kana": "スティーヴンタイラー",
+                    "zh-Hant": "史提芬泰勒"
+                },
+                "roles": [
+                    "Harmonica",
+                    "Keyboards",
+                    "Percussion",
+                    "Vocal",
+                    "Composer",
+                    "Lyricist"
+                ]
+            },
+            "P_ARTIST_2762254": {
+                "sequence_number": "2",
+                "party_reference": "P_ARTIST_2762254",
+                "name": {
+                    "default": "Joe Perry",
+                    "ja-Jpan": "ジョー・ペリー",
+                    "ja-Kana": "ジョーペリー",
+                    "zh-Hant": "喬派瑞"
+                },
+                "roles": [
+                    "Acoustic Guitar",
+                    "Background Vocal",
+                    "Guitar",
+                    "Percussion",
+                    "Slide Guitar",
+                    "Composer",
+                    "Lyricist"
+                ]
+            },
+            "P_ARTIST_137673": {
+                "sequence_number": "3",
+                "party_reference": "P_ARTIST_137673",
+                "name": {
+                    "default": "Brad Whitford"
+                },
+                "roles": [
+                    "Guitar"
+                ]
+            },
+            "P_ARTIST_162292": {
+                "sequence_number": "4",
+                "party_reference": "P_ARTIST_162292",
+                "name": {
+                    "default": "Joey Kramer"
+                },
+                "roles": [
+                    "Drums",
+                    "Percussion"
+                ]
+            },
+            "P_ARTIST_240611": {
+                "sequence_number": "5",
+                "party_reference": "P_ARTIST_240611",
+                "name": {
+                    "default": "Scott Cushnie"
+                },
+                "roles": [
+                    "Piano"
+                ]
+            },
+            "P_ARTIST_17865": {
+                "sequence_number": "6",
+                "party_reference": "P_ARTIST_17865",
+                "name": {
+                    "default": "Tom Hamilton"
+                },
+                "roles": [
+                    "Bass"
+                ]
+            },
+            "P_ARTIST_42945": {
+                "sequence_number": "7",
+                "party_reference": "P_ARTIST_42945",
+                "name": {
+                    "default": "Jack Douglas"
+                },
+                "roles": [
+                    "Arranger",
+                    "Producer"
+                ]
+            },
+            "P_ARTIST_170704": {
+                "sequence_number": "8",
+                "party_reference": "P_ARTIST_170704",
+                "name": {
+                    "default": "Jay Messina"
+                },
+                "roles": [
+                    "Engineer"
+                ]
+            },
+            "P_ARTIST_241048": {
+                "sequence_number": "9",
+                "party_reference": "P_ARTIST_241048",
+                "name": {
+                    "default": "Rod O'Brien"
+                },
+                "roles": [
+                    "Assistant Engineer"
+                ]
+            },
+            "P_ARTIST_87022": {
+                "sequence_number": "10",
+                "party_reference": "P_ARTIST_87022",
+                "name": {
+                    "default": "Corky Stasiak"
+                },
+                "roles": [
+                    "Assistant Engineer"
+                ]
+            },
+            "P_ARTIST_87023": {
+                "sequence_number": "11",
+                "party_reference": "P_ARTIST_87023",
+                "name": {
+                    "default": "Dave Thoener"
+                },
+                "roles": [
+                    "Assistant Engineer"
+                ]
+            },
+            "P_ARTIST_9252": {
+                "sequence_number": "12",
+                "party_reference": "P_ARTIST_9252",
+                "name": {
+                    "default": "Doug Sax"
+                },
+                "roles": [
+                    "Mastering Engineer"
+                ]
+            }
+        },
+        "A8": {
+            "P_ARTIST_2730203": {
+                "sequence_number": "1",
+                "party_reference": "P_ARTIST_2730203",
+                "name": {
+                    "default": "Steven Tyler",
+                    "ja-Jpan": "Steven Tyler",
+                    "ja-Kana": "スティーヴンタイラー",
+                    "zh-Hant": "史提芬泰勒"
+                },
+                "roles": [
+                    "Harmonica",
+                    "Keyboards",
+                    "Percussion",
+                    "Vocal",
+                    "Composer",
+                    "Lyricist"
+                ]
+            },
+            "P_ARTIST_2762254": {
+                "sequence_number": "2",
+                "party_reference": "P_ARTIST_2762254",
+                "name": {
+                    "default": "Joe Perry",
+                    "ja-Jpan": "ジョー・ペリー",
+                    "ja-Kana": "ジョーペリー",
+                    "zh-Hant": "喬派瑞"
+                },
+                "roles": [
+                    "Acoustic Guitar",
+                    "Background Vocal",
+                    "Guitar",
+                    "Percussion",
+                    "Slide Guitar"
+                ]
+            },
+            "P_ARTIST_137673": {
+                "sequence_number": "4",
+                "party_reference": "P_ARTIST_137673",
+                "name": {
+                    "default": "Brad Whitford"
+                },
+                "roles": [
+                    "Composer",
+                    "Lyricist"
+                ]
+            },
+            "P_ARTIST_162292": {
+                "sequence_number": "5",
+                "party_reference": "P_ARTIST_162292",
+                "name": {
+                    "default": "Joey Kramer"
+                },
+                "roles": [
+                    "Drums",
+                    "Percussion"
+                ]
+            },
+            "P_ARTIST_17865": {
+                "sequence_number": "6",
+                "party_reference": "P_ARTIST_17865",
+                "name": {
+                    "default": "Tom Hamilton"
+                },
+                "roles": [
+                    "Bass"
+                ]
+            },
+            "P_ARTIST_42945": {
+                "sequence_number": "7",
+                "party_reference": "P_ARTIST_42945",
+                "name": {
+                    "default": "Jack Douglas"
+                },
+                "roles": [
+                    "Arranger",
+                    "Producer"
+                ]
+            },
+            "P_ARTIST_170704": {
+                "sequence_number": "8",
+                "party_reference": "P_ARTIST_170704",
+                "name": {
+                    "default": "Jay Messina"
+                },
+                "roles": [
+                    "Engineer"
+                ]
+            },
+            "P_ARTIST_241048": {
+                "sequence_number": "9",
+                "party_reference": "P_ARTIST_241048",
+                "name": {
+                    "default": "Rod O'Brien"
+                },
+                "roles": [
+                    "Assistant Engineer"
+                ]
+            },
+            "P_ARTIST_87022": {
+                "sequence_number": "10",
+                "party_reference": "P_ARTIST_87022",
+                "name": {
+                    "default": "Corky Stasiak"
+                },
+                "roles": [
+                    "Assistant Engineer"
+                ]
+            },
+            "P_ARTIST_87023": {
+                "sequence_number": "11",
+                "party_reference": "P_ARTIST_87023",
+                "name": {
+                    "default": "Dave Thoener"
+                },
+                "roles": [
+                    "Assistant Engineer"
+                ]
+            },
+            "P_ARTIST_9252": {
+                "sequence_number": "12",
+                "party_reference": "P_ARTIST_9252",
+                "name": {
+                    "default": "Doug Sax"
+                },
+                "roles": [
+                    "Mastering Engineer"
+                ]
+            }
+        },
+        "A9": {
+            "P_ARTIST_2730203": {
+                "sequence_number": "1",
+                "party_reference": "P_ARTIST_2730203",
+                "name": {
+                    "default": "Steven Tyler",
+                    "ja-Jpan": "Steven Tyler",
+                    "ja-Kana": "スティーヴンタイラー",
+                    "zh-Hant": "史提芬泰勒"
+                },
+                "roles": [
+                    "Harmonica",
+                    "Keyboards",
+                    "Percussion",
+                    "Vocal",
+                    "Arranger",
+                    "Composer",
+                    "Lyricist"
+                ]
+            },
+            "P_ARTIST_2636683": {
+                "sequence_number": "2",
+                "party_reference": "P_ARTIST_2636683",
+                "name": {
+                    "default": "Don Solomon"
+                },
+                "roles": [
+                    "Composer",
+                    "Lyricist"
+                ]
+            },
+            "P_ARTIST_2762254": {
+                "sequence_number": "3",
+                "party_reference": "P_ARTIST_2762254",
+                "name": {
+                    "default": "Joe Perry",
+                    "ja-Jpan": "ジョー・ペリー",
+                    "ja-Kana": "ジョーペリー",
+                    "zh-Hant": "喬派瑞"
+                },
+                "roles": [
+                    "Acoustic Guitar",
+                    "Background Vocal",
+                    "Guitar",
+                    "Percussion",
+                    "Slide Guitar"
+                ]
+            },
+            "P_ARTIST_137673": {
+                "sequence_number": "4",
+                "party_reference": "P_ARTIST_137673",
+                "name": {
+                    "default": "Brad Whitford"
+                },
+                "roles": [
+                    "Guitar"
+                ]
+            },
+            "P_ARTIST_351662": {
+                "sequence_number": "5",
+                "party_reference": "P_ARTIST_351662",
+                "name": {
+                    "default": "Michael Mainieri"
+                },
+                "roles": [
+                    "Conductor",
+                    "Orchestrator"
+                ]
+            },
+            "P_ARTIST_162292": {
+                "sequence_number": "6",
+                "party_reference": "P_ARTIST_162292",
+                "name": {
+                    "default": "Joey Kramer"
+                },
+                "roles": [
+                    "Drums",
+                    "Percussion"
+                ]
+            },
+            "P_ARTIST_17865": {
+                "sequence_number": "7",
+                "party_reference": "P_ARTIST_17865",
+                "name": {
+                    "default": "Tom Hamilton"
+                },
+                "roles": [
+                    "Bass"
+                ]
+            },
+            "P_ARTIST_42945": {
+                "sequence_number": "8",
+                "party_reference": "P_ARTIST_42945",
+                "name": {
+                    "default": "Jack Douglas"
+                },
+                "roles": [
+                    "Producer"
+                ]
+            },
+            "P_ARTIST_170704": {
+                "sequence_number": "9",
+                "party_reference": "P_ARTIST_170704",
+                "name": {
+                    "default": "Jay Messina"
+                },
+                "roles": [
+                    "Engineer"
+                ]
+            },
+            "P_ARTIST_241048": {
+                "sequence_number": "10",
+                "party_reference": "P_ARTIST_241048",
+                "name": {
+                    "default": "Rod O'Brien"
+                },
+                "roles": [
+                    "Assistant Engineer"
+                ]
+            },
+            "P_ARTIST_87022": {
+                "sequence_number": "11",
+                "party_reference": "P_ARTIST_87022",
+                "name": {
+                    "default": "Corky Stasiak"
+                },
+                "roles": [
+                    "Assistant Engineer"
+                ]
+            },
+            "P_ARTIST_87023": {
+                "sequence_number": "12",
+                "party_reference": "P_ARTIST_87023",
+                "name": {
+                    "default": "Dave Thoener"
+                },
+                "roles": [
+                    "Assistant Engineer"
+                ]
+            },
+            "P_ARTIST_9252": {
+                "sequence_number": "13",
+                "party_reference": "P_ARTIST_9252",
+                "name": {
+                    "default": "Doug Sax"
+                },
+                "roles": [
+                    "Mastering Engineer"
+                ]
+            }
+        }
+    },
+    "sound_recording_value": {
+        "A1": {
+            "ResourceReference": "A1",
+            "Type": "MusicalWorkSoundRecording",
+            "ISRC": "USSM19906478",
+            "PLineYear": "1975",
+            "PLineText": "(P) 1975 Columbia Records, a division of Sony Music Entertainment",
+            "Title": "Toys In The Attic",
+            "TitleText": "Toys In The Attic",
+            "DisplayArtistName": "Aerosmith",
+            "Duration": "PT0H3M5S",
+            "ParentalWarningType": "ExplicitContentEdited",
+            "LanguageOfPerformance": "en",
+            "IsClip": "false",
+            "ClipDetails": {
+                "TechnicalResourceDetailsReference": "T1P",
+                "ClipType": "Preview",
+                "Timing": {
+                    "StartPoint": "48000",
+                    "EndPoint": "78000",
+                    "DurationUsed": "P0DT0H0M30.000S"
+                },
+                "ExpressionType": "Instructive"
+            }
+        },
+        "A2": {
+            "ResourceReference": "A2",
+            "Type": "MusicalWorkSoundRecording",
+            "ISRC": "USSM19906479",
+            "PLineYear": "1975",
+            "PLineText": "(P) 1975 Columbia Records, a division of Sony Music Entertainment",
+            "Title": "Uncle Salty",
+            "TitleText": "Uncle Salty",
+            "DisplayArtistName": "Aerosmith",
+            "Duration": "PT0H4M10S",
+            "ParentalWarningType": "ExplicitContentEdited",
+            "LanguageOfPerformance": "en",
+            "IsClip": "false",
+            "ClipDetails": {
+                "TechnicalResourceDetailsReference": "T2P",
+                "ClipType": "Preview",
+                "Timing": {
+                    "StartPoint": "48000",
+                    "EndPoint": "78000",
+                    "DurationUsed": "P0DT0H0M30.000S"
+                },
+                "ExpressionType": "Instructive"
+            }
+        },
+        "A3": {
+            "ResourceReference": "A3",
+            "Type": "MusicalWorkSoundRecording",
+            "ISRC": "USSM19906480",
+            "PLineYear": "1975",
+            "PLineText": "(P) 1975 Columbia Records, a division of Sony Music Entertainment",
+            "Title": "Adam's Apple",
+            "TitleText": "Adam's Apple",
+            "DisplayArtistName": "Aerosmith",
+            "Duration": "PT0H4M34S",
+            "ParentalWarningType": "ExplicitContentEdited",
+            "LanguageOfPerformance": "en",
+            "IsClip": "false",
+            "ClipDetails": {
+                "TechnicalResourceDetailsReference": "T3P",
+                "ClipType": "Preview",
+                "Timing": {
+                    "StartPoint": "48000",
+                    "EndPoint": "78000",
+                    "DurationUsed": "P0DT0H0M30.000S"
+                },
+                "ExpressionType": "Instructive"
+            }
+        },
+        "A4": {
+            "ResourceReference": "A4",
+            "Type": "MusicalWorkSoundRecording",
+            "ISRC": "USSM19906481",
+            "PLineYear": "1975",
+            "PLineText": "(P) 1975 Columbia Records, a division of Sony Music Entertainment",
+            "Title": "Walk This Way",
+            "TitleText": "Walk This Way",
+            "DisplayArtistName": "Aerosmith",
+            "Duration": "PT0H3M40S",
+            "ParentalWarningType": "ExplicitContentEdited",
+            "LanguageOfPerformance": "en",
+            "IsClip": "false",
+            "ClipDetails": {
+                "TechnicalResourceDetailsReference": "T4P",
+                "ClipType": "Preview",
+                "Timing": {
+                    "StartPoint": "48000",
+                    "EndPoint": "78000",
+                    "DurationUsed": "P0DT0H0M30.000S"
+                },
+                "ExpressionType": "Instructive"
+            }
+        },
+        "A5": {
+            "ResourceReference": "A5",
+            "Type": "MusicalWorkSoundRecording",
+            "ISRC": "USSM17500314",
+            "PLineYear": "1975",
+            "PLineText": "(P) 1975 Columbia Records, a division of Sony Music Entertainment",
+            "Title": "Big Ten Inch Record",
+            "TitleText": "Big Ten Inch Record",
+            "DisplayArtistName": "Aerosmith",
+            "Duration": "PT0H2M16S",
+            "ParentalWarningType": "ExplicitContentEdited",
+            "LanguageOfPerformance": "en",
+            "IsClip": "false",
+            "ClipDetails": {
+                "TechnicalResourceDetailsReference": "T5P",
+                "ClipType": "Preview",
+                "Timing": {
+                    "StartPoint": "48000",
+                    "EndPoint": "78000",
+                    "DurationUsed": "P0DT0H0M30.000S"
+                },
+                "ExpressionType": "Instructive"
+            }
+        },
+        "A6": {
+            "ResourceReference": "A6",
+            "Type": "MusicalWorkSoundRecording",
+            "ISRC": "USSM19906482",
+            "PLineYear": "1975",
+            "PLineText": "(P) 1975 Columbia Records, a division of Sony Music Entertainment",
+            "Title": "Sweet Emotion",
+            "TitleText": "Sweet Emotion",
+            "DisplayArtistName": "Aerosmith",
+            "Duration": "PT0H4M34S",
+            "ParentalWarningType": "ExplicitContentEdited",
+            "LanguageOfPerformance": "en",
+            "IsClip": "false",
+            "ClipDetails": {
+                "TechnicalResourceDetailsReference": "T6P",
+                "ClipType": "Preview",
+                "Timing": {
+                    "StartPoint": "48000",
+                    "EndPoint": "78000",
+                    "DurationUsed": "P0DT0H0M30.000S"
+                },
+                "ExpressionType": "Instructive"
+            }
+        },
+        "A7": {
+            "ResourceReference": "A7",
+            "Type": "MusicalWorkSoundRecording",
+            "ISRC": "USSM19906483",
+            "PLineYear": "1975",
+            "PLineText": "(P) 1975 Columbia Records, a division of Sony Music Entertainment",
+            "Title": "No More No More",
+            "TitleText": "No More No More",
+            "DisplayArtistName": "Aerosmith",
+            "Duration": "PT0H4M34S",
+            "ParentalWarningType": "ExplicitContentEdited",
+            "LanguageOfPerformance": "en",
+            "IsClip": "false",
+            "ClipDetails": {
+                "TechnicalResourceDetailsReference": "T7P",
+                "ClipType": "Preview",
+                "Timing": {
+                    "StartPoint": "48000",
+                    "EndPoint": "78000",
+                    "DurationUsed": "P0DT0H0M30.000S"
+                },
+                "ExpressionType": "Instructive"
+            }
+        },
+        "A8": {
+            "ResourceReference": "A8",
+            "Type": "MusicalWorkSoundRecording",
+            "ISRC": "USSM19906484",
+            "PLineYear": "1975",
+            "PLineText": "(P) 1975 Columbia Records, a division of Sony Music Entertainment",
+            "Title": "Round And Round",
+            "TitleText": "Round And Round",
+            "DisplayArtistName": "Aerosmith",
+            "Duration": "PT0H5M3S",
+            "ParentalWarningType": "ExplicitContentEdited",
+            "LanguageOfPerformance": "en",
+            "IsClip": "false",
+            "ClipDetails": {
+                "TechnicalResourceDetailsReference": "T8P",
+                "ClipType": "Preview",
+                "Timing": {
+                    "StartPoint": "48000",
+                    "EndPoint": "78000",
+                    "DurationUsed": "P0DT0H0M30.000S"
+                },
+                "ExpressionType": "Instructive"
+            }
+        },
+        "A9": {
+            "ResourceReference": "A9",
+            "Type": "MusicalWorkSoundRecording",
+            "ISRC": "USSM19906485",
+            "PLineYear": "1975",
+            "PLineText": "(P) 1975 Columbia Records, a division of Sony Music Entertainment",
+            "Title": "You See Me Crying",
+            "TitleText": "You See Me Crying",
+            "DisplayArtistName": "Aerosmith",
+            "Duration": "PT0H5M12S",
+            "ParentalWarningType": "ExplicitContentEdited",
+            "LanguageOfPerformance": "en",
+            "IsClip": "false",
+            "ClipDetails": {
+                "TechnicalResourceDetailsReference": "T9P",
+                "ClipType": "Preview",
+                "Timing": {
+                    "StartPoint": "48000",
+                    "EndPoint": "78000",
+                    "DurationUsed": "P0DT0H0M30.000S"
+                },
+                "ExpressionType": "Instructive"
+            }
+        }
+    },
+    "release_value": {
+        "R0": {
+            "title": {
+                "en": "Toys In The Attic",
+                "zh-Hant": "閣樓裡的玩具",
+                "default": "Toys In The Attic"
+            },
+            "artist": "Aerosmith",
+            "year": "1975",
+            "genre": "Pop",
+            "duration": "PT0H37M8S",
+            "original_release_date": "2011-08-26",
+            "track_references": [
+                "A1",
+                "A2",
+                "A3",
+                "A4",
+                "A5",
+                "A6",
+                "A7",
+                "A8",
+                "A9"
+            ]
+        }
+    },
+    "track_release_reference_value": {
+        "R1": [
+            "A1"
+        ],
+        "R2": [
+            "A2"
+        ],
+        "R3": [
+            "A3"
+        ],
+        "R4": [
+            "A4"
+        ],
+        "R5": [
+            "A5"
+        ],
+        "R6": [
+            "A6"
+        ],
+        "R7": [
+            "A7"
+        ],
+        "R8": [
+            "A8"
+        ],
+        "R9": [
+            "A9"
+        ]
+    },
+    "track_release_value": {
+        "R1": {
+            "resource_reference": "A1",
+            "isrc": "USSM19906478",
+            "isrc_namespace": "ISRC",
+            "grid": "A10328E0001154441B",
+            "label": "P_LABEL_COLUMBIA",
+            "genre": "Pop"
+        },
+        "R2": {
+            "resource_reference": "A2",
+            "isrc": "USSM19906479",
+            "isrc_namespace": "ISRC",
+            "grid": "A10328E00011544429",
+            "label": "P_LABEL_COLUMBIA",
+            "genre": "Pop"
+        },
+        "R3": {
+            "resource_reference": "A3",
+            "isrc": "USSM19906480",
+            "isrc_namespace": "ISRC",
+            "grid": "A10328E00011544437",
+            "label": "P_LABEL_COLUMBIA",
+            "genre": "Pop"
+        },
+        "R4": {
+            "resource_reference": "A4",
+            "isrc": "USSM19906481",
+            "isrc_namespace": "ISRC",
+            "grid": "A10328E00011544445",
+            "label": "P_LABEL_COLUMBIA",
+            "genre": "Pop"
+        },
+        "R5": {
+            "resource_reference": "A5",
+            "isrc": "USSM17500314",
+            "isrc_namespace": "ISRC",
+            "grid": "A10328E00011544453",
+            "label": "P_LABEL_COLUMBIA",
+            "genre": "Pop"
+        },
+        "R6": {
+            "resource_reference": "A6",
+            "isrc": "USSM19906482",
+            "isrc_namespace": "ISRC",
+            "grid": "A10328E00011544461",
+            "label": "P_LABEL_COLUMBIA",
+            "genre": "Pop"
+        },
+        "R7": {
+            "resource_reference": "A7",
+            "isrc": "USSM19906483",
+            "isrc_namespace": "ISRC",
+            "grid": "A10328E00011544470",
+            "label": "P_LABEL_COLUMBIA",
+            "genre": "Pop"
+        },
+        "R8": {
+            "resource_reference": "A8",
+            "isrc": "USSM19906484",
+            "isrc_namespace": "ISRC",
+            "grid": "A10328E0001154448Y",
+            "label": "P_LABEL_COLUMBIA",
+            "genre": "Pop"
+        },
+        "R9": {
+            "resource_reference": "A9",
+            "isrc": "USSM19906485",
+            "isrc_namespace": "ISRC",
+            "grid": "A10328E0001154449W",
+            "label": "P_LABEL_COLUMBIA",
+            "genre": "Pop"
+        }
+    }
+}

@@ -474,7 +474,7 @@
                     <Year>1983</Year>
                     <PLineText>(P) 1983 Epic Records, a division of Sony Music Entertainment</PLineText>
                 </PLine>
-                <TechnicalDetails>
+                <TechnicalDetails> <!-- de este tag solo saca nodo TechnicalResourceDetailsReference -->
                     <TechnicalResourceDetailsReference>T3</TechnicalResourceDetailsReference>
                     <DeliveryFile>
                         <Type>AudioFile</Type>
@@ -516,7 +516,7 @@
                 <DisplayArtistRole>MainArtist</DisplayArtistRole>
                 <ArtisticRole>AssociatedPerformer</ArtisticRole>
             </DisplayArtist>
-            <Contributor SequenceNumber="1">
+            <Contributor SequenceNumber="1"> <!-- de este tag solo saca nodo ContributorPartyReference en una lista -->
                 <ContributorPartyReference>P_ARTIST_64160</ContributorPartyReference>
                 <Role>Composer</Role>
                 <Role>Lyricist</Role>

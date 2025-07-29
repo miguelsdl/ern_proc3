@@ -6,6 +6,7 @@
         <entryData>
           <resourceRoots>
             <path value="file://$PROJECT_DIR$/src3" />
+            <path value="file://$PROJECT_DIR$/new/processor_ern" />
           </resourceRoots>
         </entryData>
       </entry>

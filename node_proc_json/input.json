@@ -1,0 +1,2683 @@
+{
+    "ernm:NewReleaseMessage": {
+        "@AvsVersionId": "5",
+        "@LanguageAndScriptCode": "en",
+        "@xsi:schemaLocation": "http://ddex.net/xml/ern/43 http://ddex.net/xml/ern/43/release-notification.xsd",
+        "@xmlns:ernm": "http://ddex.net/xml/ern/43",
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "MessageHeader": {
+            "MessageThreadId": "G010000935334X_KUC",
+            "MessageId": "332932436",
+            "MessageSender": {
+                "PartyId": "PADPIDA2007040502I",
+                "PartyName": {
+                    "FullName": "Sony Music Entertainment"
+                }
+            },
+            "MessageRecipient": {
+                "PartyId": "PADPIDA2012073006T",
+                "PartyName": {
+                    "FullName": "KuackMedia 4.3 SD"
+                }
+            },
+            "MessageCreatedDateTime": "2024-10-23T08:55:20.656Z",
+            "MessageControlType": "TestMessage"
+        },
+        "PartyList": {
+            "Party": [
+                {
+                    "PartyReference": "P_SME_SENDER",
+                    "PartyName": {
+                        "FullName": "Sony Music Entertainment"
+                    },
+                    "PartyId": {
+                        "DPID": "PADPIDA2007040502I"
+                    }
+                },
+                {
+                    "PartyReference": "P_ARTIST_9252",
+                    "PartyName": {
+                        "FullName": "Doug Sax"
+                    }
+                },
+                {
+                    "PartyReference": "P_ARTIST_17865",
+                    "PartyName": {
+                        "FullName": "Tom Hamilton"
+                    }
+                },
+                {
+                    "PartyReference": "P_ARTIST_42945",
+                    "PartyName": {
+                        "FullName": "Jack Douglas"
+                    }
+                },
+                {
+                    "PartyReference": "P_ARTIST_87022",
+                    "PartyName": {
+                        "FullName": "Corky Stasiak"
+                    }
+                },
+                {
+                    "PartyReference": "P_ARTIST_87023",
+                    "PartyName": {
+                        "FullName": "Dave Thoener"
+                    }
+                },
+                {
+                    "PartyReference": "P_ARTIST_115900",
+                    "PartyName": {
+                        "FullName": "Fred Weismantel"
+                    }
+                },
+                {
+                    "PartyReference": "P_ARTIST_137673",
+                    "PartyName": {
+                        "FullName": "Brad Whitford"
+                    }
+                },
+                {
+                    "PartyReference": "P_ARTIST_162292",
+                    "PartyName": {
+                        "FullName": "Joey Kramer"
+                    }
+                },
+                {
+                    "PartyReference": "P_ARTIST_170704",
+                    "PartyName": {
+                        "FullName": "Jay Messina"
+                    }
+                },
+                {
+                    "PartyReference": "P_ARTIST_240611",
+                    "PartyName": {
+                        "FullName": "Scott Cushnie"
+                    }
+                },
+                {
+                    "PartyReference": "P_ARTIST_241048",
+                    "PartyName": {
+                        "FullName": "Rod O'Brien"
+                    }
+                },
+                {
+                    "PartyReference": "P_ARTIST_351662",
+                    "PartyName": {
+                        "FullName": "Michael Mainieri"
+                    }
+                },
+                {
+                    "PartyReference": "P_ARTIST_2636683",
+                    "PartyName": {
+                        "FullName": "Don Solomon"
+                    }
+                },
+                {
+                    "PartyReference": "P_ARTIST_2730203",
+                    "PartyName": [
+                        {
+                            "FullName": "Steven Tyler"
+                        },
+                        {
+                            "@LanguageAndScriptCode": "ja-Jpan",
+                            "FullName": "Steven Tyler"
+                        },
+                        {
+                            "@LanguageAndScriptCode": "ja-Kana",
+                            "FullName": "スティーヴンタイラー"
+                        },
+                        {
+                            "@LanguageAndScriptCode": "zh-Hant",
+                            "FullName": "史提芬泰勒"
+                        }
+                    ]
+                },
+                {
+                    "PartyReference": "P_ARTIST_2762254",
+                    "PartyName": [
+                        {
+                            "FullName": "Joe Perry"
+                        },
+                        {
+                            "@LanguageAndScriptCode": "ja-Jpan",
+                            "FullName": "ジョー・ペリー"
+                        },
+                        {
+                            "@LanguageAndScriptCode": "ja-Kana",
+                            "FullName": "ジョーペリー"
+                        },
+                        {
+                            "@LanguageAndScriptCode": "zh-Hant",
+                            "FullName": "喬派瑞"
+                        }
+                    ]
+                },
+                {
+                    "PartyReference": "P_ARTIST_2990300",
+                    "PartyName": [
+                        {
+                            "FullName": "Aerosmith"
+                        },
+                        {
+                            "@LanguageAndScriptCode": "ja-Jpan",
+                            "FullName": "Aerosmith"
+                        },
+                        {
+                            "@LanguageAndScriptCode": "ja-Kana",
+                            "FullName": "エアロスミス"
+                        },
+                        {
+                            "@LanguageAndScriptCode": "zh-Hant",
+                            "FullName": "史密斯飛船合唱團"
+                        }
+                    ]
+                },
+                {
+                    "PartyReference": "P_LABEL_COLUMBIA",
+                    "PartyName": {
+                        "FullName": "Columbia"
+                    }
+                }
+            ]
+        },
+        "ResourceList": {
+            "SoundRecording": [
+                {
+                    "ResourceReference": "A1",
+                    "Type": "MusicalWorkSoundRecording",
+                    "SoundRecordingEdition": {
+                        "Type": "NonImmersiveEdition",
+                        "ResourceId": {
+                            "ISRC": "USSM19906478"
+                        },
+                        "PLine": {
+                            "Year": "1975",
+                            "PLineText": "(P) 1975 Columbia Records, a division of Sony Music Entertainment"
+                        },
+                        "TechnicalDetails": {
+                            "TechnicalResourceDetailsReference": "T1",
+                            "DeliveryFile": {
+                                "Type": "AudioFile",
+                                "AudioCodecType": "MP3",
+                                "BitRate": {
+                                    "@UnitOfMeasure": "kbps",
+                                    "#text": "320"
+                                },
+                                "NumberOfChannels": "2",
+                                "SamplingRate": {
+                                    "@UnitOfMeasure": "kHz",
+                                    "#text": "44.1"
+                                },
+                                "BitsPerSample": "16",
+                                "File": {
+                                    "URI": "https://mgsrv-aws.smecde.com/rd/e859c2b42/20122/489571.20122.mp3?oauth_consumer_key=kuc&tag=99f5d8e7feea860116b8e513f9ad9576&oauth_timestamp=1738313720&oauth_signature=16uFoEf9%2BrUmF7yqUpn6EhBcqcA%3D",
+                                    "HashSum": {
+                                        "Algorithm": "MD5",
+                                        "HashSumValue": "99f5d8e7feea860116b8e513f9ad9576"
+                                    },
+                                    "FileSize": "7408706"
+                                },
+                                "IsProvidedInDelivery": "false"
+                            },
+                            "IsClip": "false",
+                            "ClipDetails": {
+                                "TechnicalResourceDetailsReference": "T1P",
+                                "ClipType": "Preview",
+                                "Timing": {
+                                    "StartPoint": "48000",
+                                    "EndPoint": "78000",
+                                    "DurationUsed": "P0DT0H0M30.000S"
+                                },
+                                "ExpressionType": "Instructive"
+                            }
+                        }
+                    },
+                    "DisplayTitleText": {
+                        "@LanguageAndScriptCode": "en",
+                        "#text": "Toys In The Attic"
+                    },
+                    "DisplayTitle": {
+                        "@LanguageAndScriptCode": "en",
+                        "TitleText": "Toys In The Attic"
+                    },
+                    "DisplayArtistName": "Aerosmith",
+                    "DisplayArtist": {
+                        "@SequenceNumber": "1",
+                        "ArtistPartyReference": "P_ARTIST_2990300",
+                        "DisplayArtistRole": "MainArtist",
+                        "ArtisticRole": [
+                            "AssociatedPerformer",
+                            "Arranger"
+                        ]
+                    },
+                    "Contributor": [
+                        {
+                            "@SequenceNumber": "1",
+                            "ContributorPartyReference": "P_ARTIST_2730203",
+                            "Role": [
+                                {
+                                    "@Namespace": "DPID:PADPIDA2007040502I",
+                                    "@UserDefinedValue": "Harmonica",
+                                    "#text": "UserDefined"
+                                },
+                                {
+                                    "@Namespace": "DPID:PADPIDA2007040502I",
+                                    "@UserDefinedValue": "Keyboards",
+                                    "#text": "UserDefined"
+                                },
+                                {
+                                    "@Namespace": "DPID:PADPIDA2007040502I",
+                                    "@UserDefinedValue": "Percussion",
+                                    "#text": "UserDefined"
+                                },
+                                {
+                                    "@Namespace": "DPID:PADPIDA2007040502I",
+                                    "@UserDefinedValue": "Vocal",
+                                    "#text": "UserDefined"
+                                },
+                                "Composer",
+                                "Lyricist"
+                            ]
+                        },
+                        {
+                            "@SequenceNumber": "2",
+                            "ContributorPartyReference": "P_ARTIST_2762254",
+                            "Role": [
+                                {
+                                    "@Namespace": "DPID:PADPIDA2007040502I",
+                                    "@UserDefinedValue": "Acoustic Guitar",
+                                    "#text": "UserDefined"
+                                },
+                                {
+                                    "@Namespace": "DPID:PADPIDA2007040502I",
+                                    "@UserDefinedValue": "Background Vocal",
+                                    "#text": "UserDefined"
+                                },
+                                {
+                                    "@Namespace": "DPID:PADPIDA2007040502I",
+                                    "@UserDefinedValue": "Guitar",
+                                    "#text": "UserDefined"
+                                },
+                                {
+                                    "@Namespace": "DPID:PADPIDA2007040502I",
+                                    "@UserDefinedValue": "Percussion",
+                                    "#text": "UserDefined"
+                                },
+                                {
+                                    "@Namespace": "DPID:PADPIDA2007040502I",
+                                    "@UserDefinedValue": "Slide Guitar",
+                                    "#text": "UserDefined"
+                                },
+                                "Composer",
+                                "Lyricist"
+                            ]
+                        },
+                        {
+                            "@SequenceNumber": "3",
+                            "ContributorPartyReference": "P_ARTIST_351662",
+                            "Role": [
+                                "Conductor",
+                                {
+                                    "@Namespace": "DPID:PADPIDA2007040502I",
+                                    "@UserDefinedValue": "Orchestrator",
+                                    "#text": "UserDefined"
+                                }
+                            ]
+                        },
+                        {
+                            "@SequenceNumber": "4",
+                            "ContributorPartyReference": "P_ARTIST_137673",
+                            "Role": {
+                                "@Namespace": "DPID:PADPIDA2007040502I",
+                                "@UserDefinedValue": "Guitar",
+                                "#text": "UserDefined"
+                            }
+                        },
+                        {
+                            "@SequenceNumber": "5",
+                            "ContributorPartyReference": "P_ARTIST_162292",
+                            "Role": [
+                                {
+                                    "@Namespace": "DPID:PADPIDA2007040502I",
+                                    "@UserDefinedValue": "Drums",
+                                    "#text": "UserDefined"
+                                },
+                                {
+                                    "@Namespace": "DPID:PADPIDA2007040502I",
+                                    "@UserDefinedValue": "Percussion",
+                                    "#text": "UserDefined"
+                                }
+                            ]
+                        },
+                        {
+                            "@SequenceNumber": "6",
+                            "ContributorPartyReference": "P_ARTIST_17865",
+                            "Role": {
+                                "@Namespace": "DPID:PADPIDA2007040502I",
+                                "@UserDefinedValue": "Bass",
+                                "#text": "UserDefined"
+                            }
+                        },
+                        {
+                            "@SequenceNumber": "7",
+                            "ContributorPartyReference": "P_ARTIST_42945",
+                            "Role": [
+                                "Arranger",
+                                {
+                                    "@Namespace": "DPID:PADPIDA2007040502I",
+                                    "@UserDefinedValue": "Producer",
+                                    "#text": "UserDefined"
+                                }
+                            ]
+                        },
+                        {
+                            "@SequenceNumber": "8",
+                            "ContributorPartyReference": "P_ARTIST_170704",
+                            "Role": "Engineer"
+                        },
+                        {
+                            "@SequenceNumber": "9",
+                            "ContributorPartyReference": "P_ARTIST_241048",
+                            "Role": {
+                                "@Namespace": "DPID:PADPIDA2007040502I",
+                                "@UserDefinedValue": "Assistant Engineer",
+                                "#text": "UserDefined"
+                            }
+                        },
+                        {
+                            "@SequenceNumber": "10",
+                            "ContributorPartyReference": "P_ARTIST_87022",
+                            "Role": {
+                                "@Namespace": "DPID:PADPIDA2007040502I",
+                                "@UserDefinedValue": "Assistant Engineer",
+                                "#text": "UserDefined"
+                            }
+                        },
+                        {
+                            "@SequenceNumber": "11",
+                            "ContributorPartyReference": "P_ARTIST_87023",
+                            "Role": {
+                                "@Namespace": "DPID:PADPIDA2007040502I",
+                                "@UserDefinedValue": "Assistant Engineer",
+                                "#text": "UserDefined"
+                            }
+                        },
+                        {
+                            "@SequenceNumber": "12",
+                            "ContributorPartyReference": "P_ARTIST_9252",
+                            "Role": {
+                                "@Namespace": "DPID:PADPIDA2007040502I",
+                                "@UserDefinedValue": "Mastering Engineer",
+                                "#text": "UserDefined"
+                            }
+                        }
+                    ],
+                    "Duration": "PT0H3M5S",
+                    "ParentalWarningType": "ExplicitContentEdited",
+                    "LanguageOfPerformance": "en"
+                },
+                {
+                    "ResourceReference": "A2",
+                    "Type": "MusicalWorkSoundRecording",
+                    "SoundRecordingEdition": {
+                        "Type": "NonImmersiveEdition",
+                        "ResourceId": {
+                            "ISRC": "USSM19906479"
+                        },
+                        "PLine": {
+                            "Year": "1975",
+                            "PLineText": "(P) 1975 Columbia Records, a division of Sony Music Entertainment"
+                        },
+                        "TechnicalDetails": {
+                            "TechnicalResourceDetailsReference": "T2",
+                            "DeliveryFile": {
+                                "Type": "AudioFile",
+                                "AudioCodecType": "MP3",
+                                "BitRate": {
+                                    "@UnitOfMeasure": "kbps",
+                                    "#text": "320"
+                                },
+                                "NumberOfChannels": "2",
+                                "SamplingRate": {
+                                    "@UnitOfMeasure": "kHz",
+                                    "#text": "44.1"
+                                },
+                                "BitsPerSample": "16",
+                                "File": {
+                                    "URI": "https://mgsrv-aws.smecde.com/rd/2c23d2b42/20122/489573.20122.mp3?oauth_consumer_key=kuc&tag=e6bcff9e8856623894e132a6c8c5c153&oauth_timestamp=1738313720&oauth_signature=hP%2BVNwvuTXpfk%2Bsb5SC2D9%2BqW%2FA%3D",
+                                    "HashSum": {
+                                        "Algorithm": "MD5",
+                                        "HashSumValue": "e6bcff9e8856623894e132a6c8c5c153"
+                                    },
+                                    "FileSize": "9996912"
+                                },
+                                "IsProvidedInDelivery": "false"
+                            },
+                            "IsClip": "false",
+                            "ClipDetails": {
+                                "TechnicalResourceDetailsReference": "T2P",
+                                "ClipType": "Preview",
+                                "Timing": {
+                                    "StartPoint": "48000",
+                                    "EndPoint": "78000",
+                                    "DurationUsed": "P0DT0H0M30.000S"
+                                },
+                                "ExpressionType": "Instructive"
+                            }
+                        }
+                    },
+                    "DisplayTitleText": {
+                        "@LanguageAndScriptCode": "en",
+                        "#text": "Uncle Salty"
+                    },
+                    "DisplayTitle": {
+                        "@LanguageAndScriptCode": "en",
+                        "TitleText": "Uncle Salty"
+                    },
+                    "DisplayArtistName": "Aerosmith",
+                    "DisplayArtist": {
+                        "@SequenceNumber": "1",
+                        "ArtistPartyReference": "P_ARTIST_2990300",
+                        "DisplayArtistRole": "MainArtist",
+                        "ArtisticRole": [
+                            "AssociatedPerformer",
+                            "Arranger"
+                        ]
+                    },
+                    "Contributor": [
+                        {
+                            "@SequenceNumber": "1",
+                            "ContributorPartyReference": "P_ARTIST_2730203",
+                            "Role": [
+                                {
+                                    "@Namespace": "DPID:PADPIDA2007040502I",
+                                    "@UserDefinedValue": "Harmonica",
+                                    "#text": "UserDefined"
+                                },
+                                {
+                                    "@Namespace": "DPID:PADPIDA2007040502I",
+                                    "@UserDefinedValue": "Keyboards",
+                                    "#text": "UserDefined"
+                                },
+                                {
+                                    "@Namespace": "DPID:PADPIDA2007040502I",
+                                    "@UserDefinedValue": "Percussion",
+                                    "#text": "UserDefined"
+                                },
+                                {
+                                    "@Namespace": "DPID:PADPIDA2007040502I",
+                                    "@UserDefinedValue": "Vocal",
+                                    "#text": "UserDefined"
+                                },
+                                "Composer",
+                                "Lyricist"
+                            ]
+                        },
+                        {
+                            "@SequenceNumber": "2",
+                            "ContributorPartyReference": "P_ARTIST_2762254",
+                            "Role": [
+                                {
+                                    "@Namespace": "DPID:PADPIDA2007040502I",
+                                    "@UserDefinedValue": "Acoustic Guitar",
+                                    "#text": "UserDefined"
+                                },
+                                {
+                                    "@Namespace": "DPID:PADPIDA2007040502I",
+                                    "@UserDefinedValue": "Background Vocal",
+                                    "#text": "UserDefined"
+                                },
+                                {
+                                    "@Namespace": "DPID:PADPIDA2007040502I",
+                                    "@UserDefinedValue": "Guitar",
+                                    "#text": "UserDefined"
+                                },
+                                {
+                                    "@Namespace": "DPID:PADPIDA2007040502I",
+                                    "@UserDefinedValue": "Percussion",
+                                    "#text": "UserDefined"
+                                },
+                                {
+                                    "@Namespace": "DPID:PADPIDA2007040502I",
+                                    "@UserDefinedValue": "Slide Guitar",
+                                    "#text": "UserDefined"
+                                }
+                            ]
+                        },
+                        {
+                            "@SequenceNumber": "3",
+                            "ContributorPartyReference": "P_ARTIST_17865",
+                            "Role": [
+                                {
+                                    "@Namespace": "DPID:PADPIDA2007040502I",
+                                    "@UserDefinedValue": "Guitar",
+                                    "#text": "UserDefined"
+                                },
+                                "Composer",
+                                "Lyricist"
+                            ]
+                        },
+                        {
+                            "@SequenceNumber": "4",
+                            "ContributorPartyReference": "P_ARTIST_351662",
+                            "Role": [
+                                "Conductor",
+                                {
+                                    "@Namespace": "DPID:PADPIDA2007040502I",
+                                    "@UserDefinedValue": "Orchestrator",
+                                    "#text": "UserDefined"
+                                }
+                            ]
+                        },
+                        {
+                            "@SequenceNumber": "5",
+                            "ContributorPartyReference": "P_ARTIST_137673",
+                            "Role": {
+                                "@Namespace": "DPID:PADPIDA2007040502I",
+                                "@UserDefinedValue": "Guitar",
+                                "#text": "UserDefined"
+                            }
+                        },
+                        {
+                            "@SequenceNumber": "6",
+                            "ContributorPartyReference": "P_ARTIST_42945",
+                            "Role": [
+                                "Arranger",
+                                {
+                                    "@Namespace": "DPID:PADPIDA2007040502I",
+                                    "@UserDefinedValue": "Producer",
+                                    "#text": "UserDefined"
+                                }
+                            ]
+                        },
+                        {
+                            "@SequenceNumber": "7",
+                            "ContributorPartyReference": "P_ARTIST_162292",
+                            "Role": [
+                                {
+                                    "@Namespace": "DPID:PADPIDA2007040502I",
+                                    "@UserDefinedValue": "Drums",
+                                    "#text": "UserDefined"
+                                },
+                                {
+                                    "@Namespace": "DPID:PADPIDA2007040502I",
+                                    "@UserDefinedValue": "Percussion",
+                                    "#text": "UserDefined"
+                                }
+                            ]
+                        },
+                        {
+                            "@SequenceNumber": "8",
+                            "ContributorPartyReference": "P_ARTIST_170704",
+                            "Role": "Engineer"
+                        },
+                        {
+                            "@SequenceNumber": "9",
+                            "ContributorPartyReference": "P_ARTIST_241048",
+                            "Role": {
+                                "@Namespace": "DPID:PADPIDA2007040502I",
+                                "@UserDefinedValue": "Assistant Engineer",
+                                "#text": "UserDefined"
+                            }
+                        },
+                        {
+                            "@SequenceNumber": "10",
+                            "ContributorPartyReference": "P_ARTIST_87022",
+                            "Role": {
+                                "@Namespace": "DPID:PADPIDA2007040502I",
+                                "@UserDefinedValue": "Assistant Engineer",
+                                "#text": "UserDefined"
+                            }
+                        },
+                        {
+                            "@SequenceNumber": "11",
+                            "ContributorPartyReference": "P_ARTIST_87023",
+                            "Role": {
+                                "@Namespace": "DPID:PADPIDA2007040502I",
+                                "@UserDefinedValue": "Assistant Engineer",
+                                "#text": "UserDefined"
+                            }
+                        },
+                        {
+                            "@SequenceNumber": "12",
+                            "ContributorPartyReference": "P_ARTIST_9252",
+                            "Role": {
+                                "@Namespace": "DPID:PADPIDA2007040502I",
+                                "@UserDefinedValue": "Mastering Engineer",
+                                "#text": "UserDefined"
+                            }
+                        }
+                    ],
+                    "Duration": "PT0H4M10S",
+                    "ParentalWarningType": "ExplicitContentEdited",
+                    "LanguageOfPerformance": "en"
+                },
+                {
+                    "ResourceReference": "A3",
+                    "Type": "MusicalWorkSoundRecording",
+                    "SoundRecordingEdition": {
+                        "Type": "NonImmersiveEdition",
+                        "ResourceId": {
+                            "ISRC": "USSM19906480"
+                        },
+                        "PLine": {
+                            "Year": "1975",
+                            "PLineText": "(P) 1975 Columbia Records, a division of Sony Music Entertainment"
+                        },
+                        "TechnicalDetails": {
+                            "TechnicalResourceDetailsReference": "T3",
+                            "DeliveryFile": {
+                                "Type": "AudioFile",
+                                "AudioCodecType": "MP3",
+                                "BitRate": {
+                                    "@UnitOfMeasure": "kbps",
+                                    "#text": "320"
+                                },
+                                "NumberOfChannels": "2",
+                                "SamplingRate": {
+                                    "@UnitOfMeasure": "kHz",
+                                    "#text": "44.1"
+                                },
+                                "BitsPerSample": "16",
+                                "File": {
+                                    "URI": "https://mgsrv-aws.smecde.com/rd/6ffcd2b42/20122/489575.20122.mp3?oauth_consumer_key=kuc&tag=ef974b72a89ea1b6d017524169828ca8&oauth_timestamp=1738313720&oauth_signature=PXUeexg6o1Ln%2FPljRIA5aGvAIe0%3D",
+                                    "HashSum": {
+                                        "Algorithm": "MD5",
+                                        "HashSumValue": "ef974b72a89ea1b6d017524169828ca8"
+                                    },
+                                    "FileSize": "10961354"
+                                },
+                                "IsProvidedInDelivery": "false"
+                            },
+                            "IsClip": "false",
+                            "ClipDetails": {
+                                "TechnicalResourceDetailsReference": "T3P",
+                                "ClipType": "Preview",
+                                "Timing": {
+                                    "StartPoint": "48000",
+                                    "EndPoint": "78000",
+                                    "DurationUsed": "P0DT0H0M30.000S"
+                                },
+                                "ExpressionType": "Instructive"
+                            }
+                        }
+                    },
+                    "DisplayTitleText": {
+                        "@LanguageAndScriptCode": "en",
+                        "#text": "Adam's Apple"
+                    },
+                    "DisplayTitle": {
+                        "@LanguageAndScriptCode": "en",
+                        "TitleText": "Adam's Apple"
+                    },
+                    "DisplayArtistName": "Aerosmith",
+                    "DisplayArtist": {
+                        "@SequenceNumber": "1",
+                        "ArtistPartyReference": "P_ARTIST_2990300",
+                        "DisplayArtistRole": "MainArtist",
+                        "ArtisticRole": "AssociatedPerformer"
+                    },
+                    "Contributor": [
+                        {
+                            "@SequenceNumber": "1",
+                            "ContributorPartyReference": "P_ARTIST_2730203",
+                            "Role": [
+                                {
+                                    "@Namespace": "DPID:PADPIDA2007040502I",
+                                    "@UserDefinedValue": "Harmonica",
+                                    "#text": "UserDefined"
+                                },
+                                {
+                                    "@Namespace": "DPID:PADPIDA2007040502I",
+                                    "@UserDefinedValue": "Keyboards",
+                                    "#text": "UserDefined"
+                                },
+                                {
+                                    "@Namespace": "DPID:PADPIDA2007040502I",
+                                    "@UserDefinedValue": "Percussion",
+                                    "#text": "UserDefined"
+                                },
+                                {
+                                    "@Namespace": "DPID:PADPIDA2007040502I",
+                                    "@UserDefinedValue": "Vocal",
+                                    "#text": "UserDefined"
+                                },
+                                "Arranger",
+                                "Composer",
+                                "Lyricist"
+                            ]
+                        },
+                        {
+                            "@SequenceNumber": "2",
+                            "ContributorPartyReference": "P_ARTIST_2762254",
+                            "Role": [
+                                {
+                                    "@Namespace": "DPID:PADPIDA2007040502I",
+                                    "@UserDefinedValue": "Acoustic Guitar",
+                                    "#text": "UserDefined"
+                                },
+                                {
+                                    "@Namespace": "DPID:PADPIDA2007040502I",
+                                    "@UserDefinedValue": "Background Vocal",
+                                    "#text": "UserDefined"
+                                },
+                                {
+                                    "@Namespace": "DPID:PADPIDA2007040502I",
+                                    "@UserDefinedValue": "Guitar",
+                                    "#text": "UserDefined"
+                                },
+                                {
+                                    "@Namespace": "DPID:PADPIDA2007040502I",
+                                    "@UserDefinedValue": "Percussion",
+                                    "#text": "UserDefined"
+                                },
+                                {
+                                    "@Namespace": "DPID:PADPIDA2007040502I",
+                                    "@UserDefinedValue": "Slide Guitar",
+                                    "#text": "UserDefined"
+                                }
+                            ]
+                        },
+                        {
+                            "@SequenceNumber": "3",
+                            "ContributorPartyReference": "P_ARTIST_351662",
+                            "Role": [
+                                "Conductor",
+                                {
+                                    "@Namespace": "DPID:PADPIDA2007040502I",
+                                    "@UserDefinedValue": "Orchestrator",
+                                    "#text": "UserDefined"
+                                }
+                            ]
+                        },
+                        {
+                            "@SequenceNumber": "4",
+                            "ContributorPartyReference": "P_ARTIST_137673",
+                            "Role": {
+                                "@Namespace": "DPID:PADPIDA2007040502I",
+                                "@UserDefinedValue": "Guitar",
+                                "#text": "UserDefined"
+                            }
+                        },
+                        {
+                            "@SequenceNumber": "5",
+                            "ContributorPartyReference": "P_ARTIST_162292",
+                            "Role": [
+                                {
+                                    "@Namespace": "DPID:PADPIDA2007040502I",
+                                    "@UserDefinedValue": "Drums",
+                                    "#text": "UserDefined"
+                                },
+                                {
+                                    "@Namespace": "DPID:PADPIDA2007040502I",
+                                    "@UserDefinedValue": "Percussion",
+                                    "#text": "UserDefined"
+                                }
+                            ]
+                        },
+                        {
+                            "@SequenceNumber": "6",
+                            "ContributorPartyReference": "P_ARTIST_17865",
+                            "Role": {
+                                "@Namespace": "DPID:PADPIDA2007040502I",
+                                "@UserDefinedValue": "Bass",
+                                "#text": "UserDefined"
+                            }
+                        },
+                        {
+                            "@SequenceNumber": "7",
+                            "ContributorPartyReference": "P_ARTIST_42945",
+                            "Role": {
+                                "@Namespace": "DPID:PADPIDA2007040502I",
+                                "@UserDefinedValue": "Producer",
+                                "#text": "UserDefined"
+                            }
+                        },
+                        {
+                            "@SequenceNumber": "8",
+                            "ContributorPartyReference": "P_ARTIST_170704",
+                            "Role": "Engineer"
+                        },
+                        {
+                            "@SequenceNumber": "9",
+                            "ContributorPartyReference": "P_ARTIST_241048",
+                            "Role": {
+                                "@Namespace": "DPID:PADPIDA2007040502I",
+                                "@UserDefinedValue": "Assistant Engineer",
+                                "#text": "UserDefined"
+                            }
+                        },
+                        {
+                            "@SequenceNumber": "10",
+                            "ContributorPartyReference": "P_ARTIST_87022",
+                            "Role": {
+                                "@Namespace": "DPID:PADPIDA2007040502I",
+                                "@UserDefinedValue": "Assistant Engineer",
+                                "#text": "UserDefined"
+                            }
+                        },
+                        {
+                            "@SequenceNumber": "11",
+                            "ContributorPartyReference": "P_ARTIST_87023",
+                            "Role": {
+                                "@Namespace": "DPID:PADPIDA2007040502I",
+                                "@UserDefinedValue": "Assistant Engineer",
+                                "#text": "UserDefined"
+                            }
+                        },
+                        {
+                            "@SequenceNumber": "12",
+                            "ContributorPartyReference": "P_ARTIST_9252",
+                            "Role": {
+                                "@Namespace": "DPID:PADPIDA2007040502I",
+                                "@UserDefinedValue": "Mastering Engineer",
+                                "#text": "UserDefined"
+                            }
+                        }
+                    ],
+                    "Duration": "PT0H4M34S",
+                    "ParentalWarningType": "ExplicitContentEdited",
+                    "LanguageOfPerformance": "en"
+                },
+                {
+                    "ResourceReference": "A4",
+                    "Type": "MusicalWorkSoundRecording",
+                    "SoundRecordingEdition": {
+                        "Type": "NonImmersiveEdition",
+                        "ResourceId": {
+                            "ISRC": "USSM19906481"
+                        },
+                        "PLine": {
+                            "Year": "1975",
+                            "PLineText": "(P) 1975 Columbia Records, a division of Sony Music Entertainment"
+                        },
+                        "TechnicalDetails": {
+                            "TechnicalResourceDetailsReference": "T4",
+                            "DeliveryFile": {
+                                "Type": "AudioFile",
+                                "AudioCodecType": "MP3",
+                                "BitRate": {
+                                    "@UnitOfMeasure": "kbps",
+                                    "#text": "320"
+                                },
+                                "NumberOfChannels": "2",
+                                "SamplingRate": {
+                                    "@UnitOfMeasure": "kHz",
+                                    "#text": "44.1"
+                                },
+                                "BitsPerSample": "16",
+                                "File": {
+                                    "URI": "https://mgsrv-aws.smecde.com/rd/a2d6e2b42/20122/489577.20122.mp3?oauth_consumer_key=kuc&tag=6d61982e8fea1f7eb40a46ffd48a38e5&oauth_timestamp=1738313720&oauth_signature=2muvRNNpMUJktVoLheEpJpx96IQ%3D",
+                                    "HashSum": {
+                                        "Algorithm": "MD5",
+                                        "HashSumValue": "6d61982e8fea1f7eb40a46ffd48a38e5"
+                                    },
+                                    "FileSize": "8819314"
+                                },
+                                "IsProvidedInDelivery": "false"
+                            },
+                            "IsClip": "false",
+                            "ClipDetails": {
+                                "TechnicalResourceDetailsReference": "T4P",
+                                "ClipType": "Preview",
+                                "Timing": {
+                                    "StartPoint": "48000",
+                                    "EndPoint": "78000",
+                                    "DurationUsed": "P0DT0H0M30.000S"
+                                },
+                                "ExpressionType": "Instructive"
+                            }
+                        }
+                    },
+                    "DisplayTitleText": {
+                        "@LanguageAndScriptCode": "en",
+                        "#text": "Walk This Way"
+                    },
+                    "DisplayTitle": {
+                        "@LanguageAndScriptCode": "en",
+                        "TitleText": "Walk This Way"
+                    },
+                    "DisplayArtistName": "Aerosmith",
+                    "DisplayArtist": {
+                        "@SequenceNumber": "1",
+                        "ArtistPartyReference": "P_ARTIST_2990300",
+                        "DisplayArtistRole": "MainArtist",
+                        "ArtisticRole": [
+                            "AssociatedPerformer",
+                            "Arranger"
+                        ]
+                    },
+                    "Contributor": [
+                        {
+                            "@SequenceNumber": "1",
+                            "ContributorPartyReference": "P_ARTIST_2730203",
+                            "Role": [
+                                {
+                                    "@Namespace": "DPID:PADPIDA2007040502I",
+                                    "@UserDefinedValue": "Harmonica",
+                                    "#text": "UserDefined"
+                                },
+                                {
+                                    "@Namespace": "DPID:PADPIDA2007040502I",
+                                    "@UserDefinedValue": "Keyboards",
+                                    "#text": "UserDefined"
+                                },
+                                {
+                                    "@Namespace": "DPID:PADPIDA2007040502I",
+                                    "@UserDefinedValue": "Percussion",
+                                    "#text": "UserDefined"
+                                },
+                                {
+                                    "@Namespace": "DPID:PADPIDA2007040502I",
+                                    "@UserDefinedValue": "Vocal",
+                                    "#text": "UserDefined"
+                                },
+                                "Composer",
+                                "Lyricist"
+                            ]
+                        },
+                        {
+                            "@SequenceNumber": "2",
+                            "ContributorPartyReference": "P_ARTIST_2762254",
+                            "Role": [
+                                {
+                                    "@Namespace": "DPID:PADPIDA2007040502I",
+                                    "@UserDefinedValue": "Acoustic Guitar",
+                                    "#text": "UserDefined"
+                                },
+                                {
+                                    "@Namespace": "DPID:PADPIDA2007040502I",
+                                    "@UserDefinedValue": "Background Vocal",
+                                    "#text": "UserDefined"
+                                },
+                                {
+                                    "@Namespace": "DPID:PADPIDA2007040502I",
+                                    "@UserDefinedValue": "Guitar",
+                                    "#text": "UserDefined"
+                                },
+                                {
+                                    "@Namespace": "DPID:PADPIDA2007040502I",
+                                    "@UserDefinedValue": "Percussion",
+                                    "#text": "UserDefined"
+                                },
+                                {
+                                    "@Namespace": "DPID:PADPIDA2007040502I",
+                                    "@UserDefinedValue": "Slide Guitar",
+                                    "#text": "UserDefined"
+                                },
+                                "Composer",
+                                "Lyricist"
+                            ]
+                        },
+                        {
+                            "@SequenceNumber": "3",
+                            "ContributorPartyReference": "P_ARTIST_137673",
+                            "Role": {
+                                "@Namespace": "DPID:PADPIDA2007040502I",
+                                "@UserDefinedValue": "Guitar",
+                                "#text": "UserDefined"
+                            }
+                        },
+                        {
+                            "@SequenceNumber": "4",
+                            "ContributorPartyReference": "P_ARTIST_42945",
+                            "Role": [
+                                "Arranger",
+                                {
+                                    "@Namespace": "DPID:PADPIDA2007040502I",
+                                    "@UserDefinedValue": "Producer",
+                                    "#text": "UserDefined"
+                                }
+                            ]
+                        },
+                        {
+                            "@SequenceNumber": "5",
+                            "ContributorPartyReference": "P_ARTIST_162292",
+                            "Role": [
+                                {
+                                    "@Namespace": "DPID:PADPIDA2007040502I",
+                                    "@UserDefinedValue": "Drums",
+                                    "#text": "UserDefined"
+                                },
+                                {
+                                    "@Namespace": "DPID:PADPIDA2007040502I",
+                                    "@UserDefinedValue": "Percussion",
+                                    "#text": "UserDefined"
+                                }
+                            ]
+                        },
+                        {
+                            "@SequenceNumber": "6",
+                            "ContributorPartyReference": "P_ARTIST_17865",
+                            "Role": {
+                                "@Namespace": "DPID:PADPIDA2007040502I",
+                                "@UserDefinedValue": "Bass",
+                                "#text": "UserDefined"
+                            }
+                        },
+                        {
+                            "@SequenceNumber": "7",
+                            "ContributorPartyReference": "P_ARTIST_170704",
+                            "Role": "Engineer"
+                        },
+                        {
+                            "@SequenceNumber": "8",
+                            "ContributorPartyReference": "P_ARTIST_241048",
+                            "Role": {
+                                "@Namespace": "DPID:PADPIDA2007040502I",
+                                "@UserDefinedValue": "Assistant Engineer",
+                                "#text": "UserDefined"
+                            }
+                        },
+                        {
+                            "@SequenceNumber": "9",
+                            "ContributorPartyReference": "P_ARTIST_87022",
+                            "Role": {
+                                "@Namespace": "DPID:PADPIDA2007040502I",
+                                "@UserDefinedValue": "Assistant Engineer",
+                                "#text": "UserDefined"
+                            }
+                        },
+                        {
+                            "@SequenceNumber": "10",
+                            "ContributorPartyReference": "P_ARTIST_87023",
+                            "Role": {
+                                "@Namespace": "DPID:PADPIDA2007040502I",
+                                "@UserDefinedValue": "Assistant Engineer",
+                                "#text": "UserDefined"
+                            }
+                        },
+                        {
+                            "@SequenceNumber": "11",
+                            "ContributorPartyReference": "P_ARTIST_9252",
+                            "Role": {
+                                "@Namespace": "DPID:PADPIDA2007040502I",
+                                "@UserDefinedValue": "Mastering Engineer",
+                                "#text": "UserDefined"
+                            }
+                        }
+                    ],
+                    "Duration": "PT0H3M40S",
+                    "ParentalWarningType": "ExplicitContentEdited",
+                    "LanguageOfPerformance": "en"
+                },
+                {
+                    "ResourceReference": "A5",
+                    "Type": "MusicalWorkSoundRecording",
+                    "SoundRecordingEdition": {
+                        "Type": "NonImmersiveEdition",
+                        "ResourceId": {
+                            "ISRC": "USSM17500314"
+                        },
+                        "PLine": {
+                            "Year": "1975",
+                            "PLineText": "(P) 1975 Columbia Records, a division of Sony Music Entertainment"
+                        },
+                        "TechnicalDetails": {
+                            "TechnicalResourceDetailsReference": "T5",
+                            "DeliveryFile": {
+                                "Type": "AudioFile",
+                                "AudioCodecType": "MP3",
+                                "BitRate": {
+                                    "@UnitOfMeasure": "kbps",
+                                    "#text": "320"
+                                },
+                                "NumberOfChannels": "2",
+                                "SamplingRate": {
+                                    "@UnitOfMeasure": "kHz",
+                                    "#text": "44.1"
+                                },
+                                "BitsPerSample": "16",
+                                "File": {
+                                    "URI": "https://mgsrv-aws.smecde.com/rd/e5a0f2b42/20122/489579.20122.mp3?oauth_consumer_key=kuc&tag=b2a9928c68fe9a92659146f611d860fe&oauth_timestamp=1738313720&oauth_signature=i3OsVYFjQ6tDomE75s%2F3jc6Tj2M%3D",
+                                    "HashSum": {
+                                        "Algorithm": "MD5",
+                                        "HashSumValue": "b2a9928c68fe9a92659146f611d860fe"
+                                    },
+                                    "FileSize": "5419223"
+                                },
+                                "IsProvidedInDelivery": "false"
+                            },
+                            "IsClip": "false",
+                            "ClipDetails": {
+                                "TechnicalResourceDetailsReference": "T5P",
+                                "ClipType": "Preview",
+                                "Timing": {
+                                    "StartPoint": "48000",
+                                    "EndPoint": "78000",
+                                    "DurationUsed": "P0DT0H0M30.000S"
+                                },
+                                "ExpressionType": "Instructive"
+                            }
+                        }
+                    },
+                    "DisplayTitleText": {
+                        "@LanguageAndScriptCode": "en",
+                        "#text": "Big Ten Inch Record"
+                    },
+                    "DisplayTitle": {
+                        "@LanguageAndScriptCode": "en",
+                        "TitleText": "Big Ten Inch Record"
+                    },
+                    "DisplayArtistName": "Aerosmith",
+                    "DisplayArtist": {
+                        "@SequenceNumber": "1",
+                        "ArtistPartyReference": "P_ARTIST_2990300",
+                        "DisplayArtistRole": "MainArtist",
+                        "ArtisticRole": [
+                            "AssociatedPerformer",
+                            "Arranger"
+                        ]
+                    },
+                    "Contributor": [
+                        {
+                            "@SequenceNumber": "1",
+                            "ContributorPartyReference": "P_ARTIST_2730203",
+                            "Role": [
+                                {
+                                    "@Namespace": "DPID:PADPIDA2007040502I",
+                                    "@UserDefinedValue": "Harmonica",
+                                    "#text": "UserDefined"
+                                },
+                                {
+                                    "@Namespace": "DPID:PADPIDA2007040502I",
+                                    "@UserDefinedValue": "Keyboards",
+                                    "#text": "UserDefined"
+                                },
+                                {
+                                    "@Namespace": "DPID:PADPIDA2007040502I",
+                                    "@UserDefinedValue": "Percussion",
+                                    "#text": "UserDefined"
+                                },
+                                {
+                                    "@Namespace": "DPID:PADPIDA2007040502I",
+                                    "@UserDefinedValue": "Vocal",
+                                    "#text": "UserDefined"
+                                }
+                            ]
+                        },
+                        {
+                            "@SequenceNumber": "2",
+                            "ContributorPartyReference": "P_ARTIST_115900",
+                            "Role": [
+                                "Composer",
+                                "Lyricist"
+                            ]
+                        },
+                        {
+                            "@SequenceNumber": "3",
+                            "ContributorPartyReference": "P_ARTIST_2762254",
+                            "Role": [
+                                {
+                                    "@Namespace": "DPID:PADPIDA2007040502I",
+                                    "@UserDefinedValue": "Acoustic Guitar",
+                                    "#text": "UserDefined"
+                                },
+                                {
+                                    "@Namespace": "DPID:PADPIDA2007040502I",
+                                    "@UserDefinedValue": "Background Vocal",
+                                    "#text": "UserDefined"
+                                },
+                                {
+                                    "@Namespace": "DPID:PADPIDA2007040502I",
+                                    "@UserDefinedValue": "Guitar",
+                                    "#text": "UserDefined"
+                                },
+                                {
+                                    "@Namespace": "DPID:PADPIDA2007040502I",
+                                    "@UserDefinedValue": "Percussion",
+                                    "#text": "UserDefined"
+                                },
+                                {
+                                    "@Namespace": "DPID:PADPIDA2007040502I",
+                                    "@UserDefinedValue": "Slide Guitar",
+                                    "#text": "UserDefined"
+                                }
+                            ]
+                        },
+                        {
+                            "@SequenceNumber": "4",
+                            "ContributorPartyReference": "P_ARTIST_137673",
+                            "Role": {
+                                "@Namespace": "DPID:PADPIDA2007040502I",
+                                "@UserDefinedValue": "Guitar",
+                                "#text": "UserDefined"
+                            }
+                        },
+                        {
+                            "@SequenceNumber": "5",
+                            "ContributorPartyReference": "P_ARTIST_162292",
+                            "Role": [
+                                {
+                                    "@Namespace": "DPID:PADPIDA2007040502I",
+                                    "@UserDefinedValue": "Drums",
+                                    "#text": "UserDefined"
+                                },
+                                {
+                                    "@Namespace": "DPID:PADPIDA2007040502I",
+                                    "@UserDefinedValue": "Percussion",
+                                    "#text": "UserDefined"
+                                }
+                            ]
+                        },
+                        {
+                            "@SequenceNumber": "6",
+                            "ContributorPartyReference": "P_ARTIST_42945",
+                            "Role": [
+                                "Arranger",
+                                {
+                                    "@Namespace": "DPID:PADPIDA2007040502I",
+                                    "@UserDefinedValue": "Producer",
+                                    "#text": "UserDefined"
+                                }
+                            ]
+                        },
+                        {
+                            "@SequenceNumber": "7",
+                            "ContributorPartyReference": "P_ARTIST_240611",
+                            "Role": {
+                                "@Namespace": "DPID:PADPIDA2007040502I",
+                                "@UserDefinedValue": "Piano",
+                                "#text": "UserDefined"
+                            }
+                        },
+                        {
+                            "@SequenceNumber": "8",
+                            "ContributorPartyReference": "P_ARTIST_17865",
+                            "Role": {
+                                "@Namespace": "DPID:PADPIDA2007040502I",
+                                "@UserDefinedValue": "Bass",
+                                "#text": "UserDefined"
+                            }
+                        },
+                        {
+                            "@SequenceNumber": "9",
+                            "ContributorPartyReference": "P_ARTIST_170704",
+                            "Role": "Engineer"
+                        },
+                        {
+                            "@SequenceNumber": "10",
+                            "ContributorPartyReference": "P_ARTIST_241048",
+                            "Role": {
+                                "@Namespace": "DPID:PADPIDA2007040502I",
+                                "@UserDefinedValue": "Assistant Engineer",
+                                "#text": "UserDefined"
+                            }
+                        },
+                        {
+                            "@SequenceNumber": "11",
+                            "ContributorPartyReference": "P_ARTIST_87022",
+                            "Role": {
+                                "@Namespace": "DPID:PADPIDA2007040502I",
+                                "@UserDefinedValue": "Assistant Engineer",
+                                "#text": "UserDefined"
+                            }
+                        },
+                        {
+                            "@SequenceNumber": "12",
+                            "ContributorPartyReference": "P_ARTIST_87023",
+                            "Role": {
+                                "@Namespace": "DPID:PADPIDA2007040502I",
+                                "@UserDefinedValue": "Assistant Engineer",
+                                "#text": "UserDefined"
+                            }
+                        },
+                        {
+                            "@SequenceNumber": "13",
+                            "ContributorPartyReference": "P_ARTIST_9252",
+                            "Role": {
+                                "@Namespace": "DPID:PADPIDA2007040502I",
+                                "@UserDefinedValue": "Mastering Engineer",
+                                "#text": "UserDefined"
+                            }
+                        }
+                    ],
+                    "Duration": "PT0H2M16S",
+                    "ParentalWarningType": "ExplicitContentEdited",
+                    "LanguageOfPerformance": "en"
+                },
+                {
+                    "ResourceReference": "A6",
+                    "Type": "MusicalWorkSoundRecording",
+                    "SoundRecordingEdition": {
+                        "Type": "NonImmersiveEdition",
+                        "ResourceId": {
+                            "ISRC": "USSM19906482"
+                        },
+                        "PLine": {
+                            "Year": "1975",
+                            "PLineText": "(P) 1975 Columbia Records, a division of Sony Music Entertainment"
+                        },
+                        "TechnicalDetails": {
+                            "TechnicalResourceDetailsReference": "T6",
+                            "DeliveryFile": {
+                                "Type": "AudioFile",
+                                "AudioCodecType": "MP3",
+                                "BitRate": {
+                                    "@UnitOfMeasure": "kbps",
+                                    "#text": "320"
+                                },
+                                "NumberOfChannels": "2",
+                                "SamplingRate": {
+                                    "@UnitOfMeasure": "kHz",
+                                    "#text": "44.1"
+                                },
+                                "BitsPerSample": "16",
+                                "File": {
+                                    "URI": "https://mgsrv-aws.smecde.com/rd/297af2b42/20122/489581.20122.mp3?oauth_consumer_key=kuc&tag=96b1cb1cc5ea0bb2954a9b31f1928fd1&oauth_timestamp=1738313720&oauth_signature=eIKnM0WCfS8qduLIDoBy5BTD7OA%3D",
+                                    "HashSum": {
+                                        "Algorithm": "MD5",
+                                        "HashSumValue": "96b1cb1cc5ea0bb2954a9b31f1928fd1"
+                                    },
+                                    "FileSize": "10968670"
+                                },
+                                "IsProvidedInDelivery": "false"
+                            },
+                            "IsClip": "false",
+                            "ClipDetails": {
+                                "TechnicalResourceDetailsReference": "T6P",
+                                "ClipType": "Preview",
+                                "Timing": {
+                                    "StartPoint": "48000",
+                                    "EndPoint": "78000",
+                                    "DurationUsed": "P0DT0H0M30.000S"
+                                },
+                                "ExpressionType": "Instructive"
+                            }
+                        }
+                    },
+                    "DisplayTitleText": {
+                        "@LanguageAndScriptCode": "en",
+                        "#text": "Sweet Emotion"
+                    },
+                    "DisplayTitle": {
+                        "@LanguageAndScriptCode": "en",
+                        "TitleText": "Sweet Emotion"
+                    },
+                    "DisplayArtistName": "Aerosmith",
+                    "DisplayArtist": {
+                        "@SequenceNumber": "1",
+                        "ArtistPartyReference": "P_ARTIST_2990300",
+                        "DisplayArtistRole": "MainArtist",
+                        "ArtisticRole": "AssociatedPerformer"
+                    },
+                    "Contributor": [
+                        {
+                            "@SequenceNumber": "1",
+                            "ContributorPartyReference": "P_ARTIST_2730203",
+                            "Role": [
+                                {
+                                    "@Namespace": "DPID:PADPIDA2007040502I",
+                                    "@UserDefinedValue": "Harmonica",
+                                    "#text": "UserDefined"
+                                },
+                                {
+                                    "@Namespace": "DPID:PADPIDA2007040502I",
+                                    "@UserDefinedValue": "Keyboards",
+                                    "#text": "UserDefined"
+                                },
+                                {
+                                    "@Namespace": "DPID:PADPIDA2007040502I",
+                                    "@UserDefinedValue": "Percussion",
+                                    "#text": "UserDefined"
+                                },
+                                {
+                                    "@Namespace": "DPID:PADPIDA2007040502I",
+                                    "@UserDefinedValue": "Vocal",
+                                    "#text": "UserDefined"
+                                },
+                                "Composer",
+                                "Lyricist"
+                            ]
+                        },
+                        {
+                            "@SequenceNumber": "2",
+                            "ContributorPartyReference": "P_ARTIST_2762254",
+                            "Role": [
+                                {
+                                    "@Namespace": "DPID:PADPIDA2007040502I",
+                                    "@UserDefinedValue": "Acoustic Guitar",
+                                    "#text": "UserDefined"
+                                },
+                                {
+                                    "@Namespace": "DPID:PADPIDA2007040502I",
+                                    "@UserDefinedValue": "Background Vocal",
+                                    "#text": "UserDefined"
+                                },
+                                {
+                                    "@Namespace": "DPID:PADPIDA2007040502I",
+                                    "@UserDefinedValue": "Guitar",
+                                    "#text": "UserDefined"
+                                },
+                                {
+                                    "@Namespace": "DPID:PADPIDA2007040502I",
+                                    "@UserDefinedValue": "Percussion",
+                                    "#text": "UserDefined"
+                                },
+                                {
+                                    "@Namespace": "DPID:PADPIDA2007040502I",
+                                    "@UserDefinedValue": "Slide Guitar",
+                                    "#text": "UserDefined"
+                                }
+                            ]
+                        },
+                        {
+                            "@SequenceNumber": "3",
+                            "ContributorPartyReference": "P_ARTIST_17865",
+                            "Role": [
+                                {
+                                    "@Namespace": "DPID:PADPIDA2007040502I",
+                                    "@UserDefinedValue": "Bass",
+                                    "#text": "UserDefined"
+                                },
+                                "Composer",
+                                "Lyricist"
+                            ]
+                        },
+                        {
+                            "@SequenceNumber": "4",
+                            "ContributorPartyReference": "P_ARTIST_137673",
+                            "Role": {
+                                "@Namespace": "DPID:PADPIDA2007040502I",
+                                "@UserDefinedValue": "Guitar",
+                                "#text": "UserDefined"
+                            }
+                        },
+                        {
+                            "@SequenceNumber": "5",
+                            "ContributorPartyReference": "P_ARTIST_162292",
+                            "Role": [
+                                {
+                                    "@Namespace": "DPID:PADPIDA2007040502I",
+                                    "@UserDefinedValue": "Drums",
+                                    "#text": "UserDefined"
+                                },
+                                {
+                                    "@Namespace": "DPID:PADPIDA2007040502I",
+                                    "@UserDefinedValue": "Percussion",
+                                    "#text": "UserDefined"
+                                }
+                            ]
+                        },
+                        {
+                            "@SequenceNumber": "6",
+                            "ContributorPartyReference": "P_ARTIST_170704",
+                            "Role": [
+                                {
+                                    "@Namespace": "DPID:PADPIDA2007040502I",
+                                    "@UserDefinedValue": "Marimba",
+                                    "#text": "UserDefined"
+                                },
+                                "Engineer"
+                            ]
+                        },
+                        {
+                            "@SequenceNumber": "7",
+                            "ContributorPartyReference": "P_ARTIST_42945",
+                            "Role": {
+                                "@Namespace": "DPID:PADPIDA2007040502I",
+                                "@UserDefinedValue": "Producer",
+                                "#text": "UserDefined"
+                            }
+                        },
+                        {
+                            "@SequenceNumber": "8",
+                            "ContributorPartyReference": "P_ARTIST_241048",
+                            "Role": {
+                                "@Namespace": "DPID:PADPIDA2007040502I",
+                                "@UserDefinedValue": "Assistant Engineer",
+                                "#text": "UserDefined"
+                            }
+                        },
+                        {
+                            "@SequenceNumber": "9",
+                            "ContributorPartyReference": "P_ARTIST_87022",
+                            "Role": {
+                                "@Namespace": "DPID:PADPIDA2007040502I",
+                                "@UserDefinedValue": "Assistant Engineer",
+                                "#text": "UserDefined"
+                            }
+                        },
+                        {
+                            "@SequenceNumber": "10",
+                            "ContributorPartyReference": "P_ARTIST_87023",
+                            "Role": {
+                                "@Namespace": "DPID:PADPIDA2007040502I",
+                                "@UserDefinedValue": "Assistant Engineer",
+                                "#text": "UserDefined"
+                            }
+                        },
+                        {
+                            "@SequenceNumber": "11",
+                            "ContributorPartyReference": "P_ARTIST_9252",
+                            "Role": {
+                                "@Namespace": "DPID:PADPIDA2007040502I",
+                                "@UserDefinedValue": "Mastering Engineer",
+                                "#text": "UserDefined"
+                            }
+                        }
+                    ],
+                    "Duration": "PT0H4M34S",
+                    "ParentalWarningType": "ExplicitContentEdited",
+                    "LanguageOfPerformance": "en"
+                },
+                {
+                    "ResourceReference": "A7",
+                    "Type": "MusicalWorkSoundRecording",
+                    "SoundRecordingEdition": {
+                        "Type": "NonImmersiveEdition",
+                        "ResourceId": {
+                            "ISRC": "USSM19906483"
+                        },
+                        "PLine": {
+                            "Year": "1975",
+                            "PLineText": "(P) 1975 Columbia Records, a division of Sony Music Entertainment"
+                        },
+                        "TechnicalDetails": {
+                            "TechnicalResourceDetailsReference": "T7",
+                            "DeliveryFile": {
+                                "Type": "AudioFile",
+                                "AudioCodecType": "MP3",
+                                "BitRate": {
+                                    "@UnitOfMeasure": "kbps",
+                                    "#text": "320"
+                                },
+                                "NumberOfChannels": "2",
+                                "SamplingRate": {
+                                    "@UnitOfMeasure": "kHz",
+                                    "#text": "44.1"
+                                },
+                                "BitsPerSample": "16",
+                                "File": {
+                                    "URI": "https://mgsrv-aws.smecde.com/rd/6c4403b42/20122/489583.20122.mp3?oauth_consumer_key=kuc&tag=de0a0440bb4ddae686852fd4f799e58c&oauth_timestamp=1738313720&oauth_signature=Rg7sHvs2Hy74hasF1xwyP2SZnl0%3D",
+                                    "HashSum": {
+                                        "Algorithm": "MD5",
+                                        "HashSumValue": "de0a0440bb4ddae686852fd4f799e58c"
+                                    },
+                                    "FileSize": "10967627"
+                                },
+                                "IsProvidedInDelivery": "false"
+                            },
+                            "IsClip": "false",
+                            "ClipDetails": {
+                                "TechnicalResourceDetailsReference": "T7P",
+                                "ClipType": "Preview",
+                                "Timing": {
+                                    "StartPoint": "48000",
+                                    "EndPoint": "78000",
+                                    "DurationUsed": "P0DT0H0M30.000S"
+                                },
+                                "ExpressionType": "Instructive"
+                            }
+                        }
+                    },
+                    "DisplayTitleText": {
+                        "@LanguageAndScriptCode": "en",
+                        "#text": "No More No More"
+                    },
+                    "DisplayTitle": {
+                        "@LanguageAndScriptCode": "en",
+                        "TitleText": "No More No More"
+                    },
+                    "DisplayArtistName": "Aerosmith",
+                    "DisplayArtist": {
+                        "@SequenceNumber": "1",
+                        "ArtistPartyReference": "P_ARTIST_2990300",
+                        "DisplayArtistRole": "MainArtist",
+                        "ArtisticRole": [
+                            "AssociatedPerformer",
+                            "Arranger"
+                        ]
+                    },
+                    "Contributor": [
+                        {
+                            "@SequenceNumber": "1",
+                            "ContributorPartyReference": "P_ARTIST_2730203",
+                            "Role": [
+                                {
+                                    "@Namespace": "DPID:PADPIDA2007040502I",
+                                    "@UserDefinedValue": "Harmonica",
+                                    "#text": "UserDefined"
+                                },
+                                {
+                                    "@Namespace": "DPID:PADPIDA2007040502I",
+                                    "@UserDefinedValue": "Keyboards",
+                                    "#text": "UserDefined"
+                                },
+                                {
+                                    "@Namespace": "DPID:PADPIDA2007040502I",
+                                    "@UserDefinedValue": "Percussion",
+                                    "#text": "UserDefined"
+                                },
+                                {
+                                    "@Namespace": "DPID:PADPIDA2007040502I",
+                                    "@UserDefinedValue": "Vocal",
+                                    "#text": "UserDefined"
+                                },
+                                "Composer",
+                                "Lyricist"
+                            ]
+                        },
+                        {
+                            "@SequenceNumber": "2",
+                            "ContributorPartyReference": "P_ARTIST_2762254",
+                            "Role": [
+                                {
+                                    "@Namespace": "DPID:PADPIDA2007040502I",
+                                    "@UserDefinedValue": "Acoustic Guitar",
+                                    "#text": "UserDefined"
+                                },
+                                {
+                                    "@Namespace": "DPID:PADPIDA2007040502I",
+                                    "@UserDefinedValue": "Background Vocal",
+                                    "#text": "UserDefined"
+                                },
+                                {
+                                    "@Namespace": "DPID:PADPIDA2007040502I",
+                                    "@UserDefinedValue": "Guitar",
+                                    "#text": "UserDefined"
+                                },
+                                {
+                                    "@Namespace": "DPID:PADPIDA2007040502I",
+                                    "@UserDefinedValue": "Percussion",
+                                    "#text": "UserDefined"
+                                },
+                                {
+                                    "@Namespace": "DPID:PADPIDA2007040502I",
+                                    "@UserDefinedValue": "Slide Guitar",
+                                    "#text": "UserDefined"
+                                },
+                                "Composer",
+                                "Lyricist"
+                            ]
+                        },
+                        {
+                            "@SequenceNumber": "3",
+                            "ContributorPartyReference": "P_ARTIST_137673",
+                            "Role": {
+                                "@Namespace": "DPID:PADPIDA2007040502I",
+                                "@UserDefinedValue": "Guitar",
+                                "#text": "UserDefined"
+                            }
+                        },
+                        {
+                            "@SequenceNumber": "4",
+                            "ContributorPartyReference": "P_ARTIST_162292",
+                            "Role": [
+                                {
+                                    "@Namespace": "DPID:PADPIDA2007040502I",
+                                    "@UserDefinedValue": "Drums",
+                                    "#text": "UserDefined"
+                                },
+                                {
+                                    "@Namespace": "DPID:PADPIDA2007040502I",
+                                    "@UserDefinedValue": "Percussion",
+                                    "#text": "UserDefined"
+                                }
+                            ]
+                        },
+                        {
+                            "@SequenceNumber": "5",
+                            "ContributorPartyReference": "P_ARTIST_240611",
+                            "Role": {
+                                "@Namespace": "DPID:PADPIDA2007040502I",
+                                "@UserDefinedValue": "Piano",
+                                "#text": "UserDefined"
+                            }
+                        },
+                        {
+                            "@SequenceNumber": "6",
+                            "ContributorPartyReference": "P_ARTIST_17865",
+                            "Role": {
+                                "@Namespace": "DPID:PADPIDA2007040502I",
+                                "@UserDefinedValue": "Bass",
+                                "#text": "UserDefined"
+                            }
+                        },
+                        {
+                            "@SequenceNumber": "7",
+                            "ContributorPartyReference": "P_ARTIST_42945",
+                            "Role": [
+                                "Arranger",
+                                {
+                                    "@Namespace": "DPID:PADPIDA2007040502I",
+                                    "@UserDefinedValue": "Producer",
+                                    "#text": "UserDefined"
+                                }
+                            ]
+                        },
+                        {
+                            "@SequenceNumber": "8",
+                            "ContributorPartyReference": "P_ARTIST_170704",
+                            "Role": "Engineer"
+                        },
+                        {
+                            "@SequenceNumber": "9",
+                            "ContributorPartyReference": "P_ARTIST_241048",
+                            "Role": {
+                                "@Namespace": "DPID:PADPIDA2007040502I",
+                                "@UserDefinedValue": "Assistant Engineer",
+                                "#text": "UserDefined"
+                            }
+                        },
+                        {
+                            "@SequenceNumber": "10",
+                            "ContributorPartyReference": "P_ARTIST_87022",
+                            "Role": {
+                                "@Namespace": "DPID:PADPIDA2007040502I",
+                                "@UserDefinedValue": "Assistant Engineer",
+                                "#text": "UserDefined"
+                            }
+                        },
+                        {
+                            "@SequenceNumber": "11",
+                            "ContributorPartyReference": "P_ARTIST_87023",
+                            "Role": {
+                                "@Namespace": "DPID:PADPIDA2007040502I",
+                                "@UserDefinedValue": "Assistant Engineer",
+                                "#text": "UserDefined"
+                            }
+                        },
+                        {
+                            "@SequenceNumber": "12",
+                            "ContributorPartyReference": "P_ARTIST_9252",
+                            "Role": {
+                                "@Namespace": "DPID:PADPIDA2007040502I",
+                                "@UserDefinedValue": "Mastering Engineer",
+                                "#text": "UserDefined"
+                            }
+                        }
+                    ],
+                    "Duration": "PT0H4M34S",
+                    "ParentalWarningType": "ExplicitContentEdited",
+                    "LanguageOfPerformance": "en"
+                },
+                {
+                    "ResourceReference": "A8",
+                    "Type": "MusicalWorkSoundRecording",
+                    "SoundRecordingEdition": {
+                        "Type": "NonImmersiveEdition",
+                        "ResourceId": {
+                            "ISRC": "USSM19906484"
+                        },
+                        "PLine": {
+                            "Year": "1975",
+                            "PLineText": "(P) 1975 Columbia Records, a division of Sony Music Entertainment"
+                        },
+                        "TechnicalDetails": {
+                            "TechnicalResourceDetailsReference": "T8",
+                            "DeliveryFile": {
+                                "Type": "AudioFile",
+                                "AudioCodecType": "MP3",
+                                "BitRate": {
+                                    "@UnitOfMeasure": "kbps",
+                                    "#text": "320"
+                                },
+                                "NumberOfChannels": "2",
+                                "SamplingRate": {
+                                    "@UnitOfMeasure": "kHz",
+                                    "#text": "44.1"
+                                },
+                                "BitsPerSample": "16",
+                                "File": {
+                                    "URI": "https://mgsrv-aws.smecde.com/rd/af1e03b42/20122/489585.20122.mp3?oauth_consumer_key=kuc&tag=13f6f396a79846b1aafeddb4e6369612&oauth_timestamp=1738313720&oauth_signature=tY8nd3gM%2FzgUe3pWqjMAOArj8UA%3D",
+                                    "HashSum": {
+                                        "Algorithm": "MD5",
+                                        "HashSumValue": "13f6f396a79846b1aafeddb4e6369612"
+                                    },
+                                    "FileSize": "12131643"
+                                },
+                                "IsProvidedInDelivery": "false"
+                            },
+                            "IsClip": "false",
+                            "ClipDetails": {
+                                "TechnicalResourceDetailsReference": "T8P",
+                                "ClipType": "Preview",
+                                "Timing": {
+                                    "StartPoint": "48000",
+                                    "EndPoint": "78000",
+                                    "DurationUsed": "P0DT0H0M30.000S"
+                                },
+                                "ExpressionType": "Instructive"
+                            }
+                        }
+                    },
+                    "DisplayTitleText": {
+                        "@LanguageAndScriptCode": "en",
+                        "#text": "Round And Round"
+                    },
+                    "DisplayTitle": {
+                        "@LanguageAndScriptCode": "en",
+                        "TitleText": "Round And Round"
+                    },
+                    "DisplayArtistName": "Aerosmith",
+                    "DisplayArtist": {
+                        "@SequenceNumber": "1",
+                        "ArtistPartyReference": "P_ARTIST_2990300",
+                        "DisplayArtistRole": "MainArtist",
+                        "ArtisticRole": [
+                            "AssociatedPerformer",
+                            "Arranger"
+                        ]
+                    },
+                    "Contributor": [
+                        {
+                            "@SequenceNumber": "1",
+                            "ContributorPartyReference": "P_ARTIST_2730203",
+                            "Role": [
+                                {
+                                    "@Namespace": "DPID:PADPIDA2007040502I",
+                                    "@UserDefinedValue": "Harmonica",
+                                    "#text": "UserDefined"
+                                },
+                                {
+                                    "@Namespace": "DPID:PADPIDA2007040502I",
+                                    "@UserDefinedValue": "Keyboards",
+                                    "#text": "UserDefined"
+                                },
+                                {
+                                    "@Namespace": "DPID:PADPIDA2007040502I",
+                                    "@UserDefinedValue": "Percussion",
+                                    "#text": "UserDefined"
+                                },
+                                {
+                                    "@Namespace": "DPID:PADPIDA2007040502I",
+                                    "@UserDefinedValue": "Vocal",
+                                    "#text": "UserDefined"
+                                },
+                                "Composer",
+                                "Lyricist"
+                            ]
+                        },
+                        {
+                            "@SequenceNumber": "2",
+                            "ContributorPartyReference": "P_ARTIST_2762254",
+                            "Role": [
+                                {
+                                    "@Namespace": "DPID:PADPIDA2007040502I",
+                                    "@UserDefinedValue": "Acoustic Guitar",
+                                    "#text": "UserDefined"
+                                },
+                                {
+                                    "@Namespace": "DPID:PADPIDA2007040502I",
+                                    "@UserDefinedValue": "Background Vocal",
+                                    "#text": "UserDefined"
+                                },
+                                {
+                                    "@Namespace": "DPID:PADPIDA2007040502I",
+                                    "@UserDefinedValue": "Guitar",
+                                    "#text": "UserDefined"
+                                },
+                                {
+                                    "@Namespace": "DPID:PADPIDA2007040502I",
+                                    "@UserDefinedValue": "Percussion",
+                                    "#text": "UserDefined"
+                                },
+                                {
+                                    "@Namespace": "DPID:PADPIDA2007040502I",
+                                    "@UserDefinedValue": "Slide Guitar",
+                                    "#text": "UserDefined"
+                                }
+                            ]
+                        },
+                        {
+                            "@SequenceNumber": "3",
+                            "ContributorPartyReference": "P_ARTIST_137673",
+                            "Role": {
+                                "@Namespace": "DPID:PADPIDA2007040502I",
+                                "@UserDefinedValue": "Guitar",
+                                "#text": "UserDefined"
+                            }
+                        },
+                        {
+                            "@SequenceNumber": "4",
+                            "ContributorPartyReference": "P_ARTIST_137673",
+                            "Role": [
+                                "Composer",
+                                "Lyricist"
+                            ]
+                        },
+                        {
+                            "@SequenceNumber": "5",
+                            "ContributorPartyReference": "P_ARTIST_162292",
+                            "Role": [
+                                {
+                                    "@Namespace": "DPID:PADPIDA2007040502I",
+                                    "@UserDefinedValue": "Drums",
+                                    "#text": "UserDefined"
+                                },
+                                {
+                                    "@Namespace": "DPID:PADPIDA2007040502I",
+                                    "@UserDefinedValue": "Percussion",
+                                    "#text": "UserDefined"
+                                }
+                            ]
+                        },
+                        {
+                            "@SequenceNumber": "6",
+                            "ContributorPartyReference": "P_ARTIST_17865",
+                            "Role": {
+                                "@Namespace": "DPID:PADPIDA2007040502I",
+                                "@UserDefinedValue": "Bass",
+                                "#text": "UserDefined"
+                            }
+                        },
+                        {
+                            "@SequenceNumber": "7",
+                            "ContributorPartyReference": "P_ARTIST_42945",
+                            "Role": [
+                                "Arranger",
+                                {
+                                    "@Namespace": "DPID:PADPIDA2007040502I",
+                                    "@UserDefinedValue": "Producer",
+                                    "#text": "UserDefined"
+                                }
+                            ]
+                        },
+                        {
+                            "@SequenceNumber": "8",
+                            "ContributorPartyReference": "P_ARTIST_170704",
+                            "Role": "Engineer"
+                        },
+                        {
+                            "@SequenceNumber": "9",
+                            "ContributorPartyReference": "P_ARTIST_241048",
+                            "Role": {
+                                "@Namespace": "DPID:PADPIDA2007040502I",
+                                "@UserDefinedValue": "Assistant Engineer",
+                                "#text": "UserDefined"
+                            }
+                        },
+                        {
+                            "@SequenceNumber": "10",
+                            "ContributorPartyReference": "P_ARTIST_87022",
+                            "Role": {
+                                "@Namespace": "DPID:PADPIDA2007040502I",
+                                "@UserDefinedValue": "Assistant Engineer",
+                                "#text": "UserDefined"
+                            }
+                        },
+                        {
+                            "@SequenceNumber": "11",
+                            "ContributorPartyReference": "P_ARTIST_87023",
+                            "Role": {
+                                "@Namespace": "DPID:PADPIDA2007040502I",
+                                "@UserDefinedValue": "Assistant Engineer",
+                                "#text": "UserDefined"
+                            }
+                        },
+                        {
+                            "@SequenceNumber": "12",
+                            "ContributorPartyReference": "P_ARTIST_9252",
+                            "Role": {
+                                "@Namespace": "DPID:PADPIDA2007040502I",
+                                "@UserDefinedValue": "Mastering Engineer",
+                                "#text": "UserDefined"
+                            }
+                        }
+                    ],
+                    "Duration": "PT0H5M3S",
+                    "ParentalWarningType": "ExplicitContentEdited",
+                    "LanguageOfPerformance": "en"
+                },
+                {
+                    "ResourceReference": "A9",
+                    "Type": "MusicalWorkSoundRecording",
+                    "SoundRecordingEdition": {
+                        "Type": "NonImmersiveEdition",
+                        "ResourceId": {
+                            "ISRC": "USSM19906485"
+                        },
+                        "PLine": {
+                            "Year": "1975",
+                            "PLineText": "(P) 1975 Columbia Records, a division of Sony Music Entertainment"
+                        },
+                        "TechnicalDetails": {
+                            "TechnicalResourceDetailsReference": "T9",
+                            "DeliveryFile": {
+                                "Type": "AudioFile",
+                                "AudioCodecType": "MP3",
+                                "BitRate": {
+                                    "@UnitOfMeasure": "kbps",
+                                    "#text": "320"
+                                },
+                                "NumberOfChannels": "2",
+                                "SamplingRate": {
+                                    "@UnitOfMeasure": "kHz",
+                                    "#text": "44.1"
+                                },
+                                "BitsPerSample": "16",
+                                "File": {
+                                    "URI": "https://mgsrv-aws.smecde.com/rd/e2f713b42/20122/489587.20122.mp3?oauth_consumer_key=kuc&tag=e456f8c0b2d583001122110074fc6271&oauth_timestamp=1738313720&oauth_signature=%2Bttw0OAjzI4O9ooORm3%2FqYeoULk%3D",
+                                    "HashSum": {
+                                        "Algorithm": "MD5",
+                                        "HashSumValue": "e456f8c0b2d583001122110074fc6271"
+                                    },
+                                    "FileSize": "12470192"
+                                },
+                                "IsProvidedInDelivery": "false"
+                            },
+                            "IsClip": "false",
+                            "ClipDetails": {
+                                "TechnicalResourceDetailsReference": "T9P",
+                                "ClipType": "Preview",
+                                "Timing": {
+                                    "StartPoint": "48000",
+                                    "EndPoint": "78000",
+                                    "DurationUsed": "P0DT0H0M30.000S"
+                                },
+                                "ExpressionType": "Instructive"
+                            }
+                        }
+                    },
+                    "DisplayTitleText": {
+                        "@LanguageAndScriptCode": "en",
+                        "#text": "You See Me Crying"
+                    },
+                    "DisplayTitle": {
+                        "@LanguageAndScriptCode": "en",
+                        "TitleText": "You See Me Crying"
+                    },
+                    "DisplayArtistName": "Aerosmith",
+                    "DisplayArtist": {
+                        "@SequenceNumber": "1",
+                        "ArtistPartyReference": "P_ARTIST_2990300",
+                        "DisplayArtistRole": "MainArtist",
+                        "ArtisticRole": "AssociatedPerformer"
+                    },
+                    "Contributor": [
+                        {
+                            "@SequenceNumber": "1",
+                            "ContributorPartyReference": "P_ARTIST_2730203",
+                            "Role": [
+                                {
+                                    "@Namespace": "DPID:PADPIDA2007040502I",
+                                    "@UserDefinedValue": "Harmonica",
+                                    "#text": "UserDefined"
+                                },
+                                {
+                                    "@Namespace": "DPID:PADPIDA2007040502I",
+                                    "@UserDefinedValue": "Keyboards",
+                                    "#text": "UserDefined"
+                                },
+                                {
+                                    "@Namespace": "DPID:PADPIDA2007040502I",
+                                    "@UserDefinedValue": "Percussion",
+                                    "#text": "UserDefined"
+                                },
+                                {
+                                    "@Namespace": "DPID:PADPIDA2007040502I",
+                                    "@UserDefinedValue": "Vocal",
+                                    "#text": "UserDefined"
+                                },
+                                "Arranger",
+                                "Composer",
+                                "Lyricist"
+                            ]
+                        },
+                        {
+                            "@SequenceNumber": "2",
+                            "ContributorPartyReference": "P_ARTIST_2636683",
+                            "Role": [
+                                "Composer",
+                                "Lyricist"
+                            ]
+                        },
+                        {
+                            "@SequenceNumber": "3",
+                            "ContributorPartyReference": "P_ARTIST_2762254",
+                            "Role": [
+                                {
+                                    "@Namespace": "DPID:PADPIDA2007040502I",
+                                    "@UserDefinedValue": "Acoustic Guitar",
+                                    "#text": "UserDefined"
+                                },
+                                {
+                                    "@Namespace": "DPID:PADPIDA2007040502I",
+                                    "@UserDefinedValue": "Background Vocal",
+                                    "#text": "UserDefined"
+                                },
+                                {
+                                    "@Namespace": "DPID:PADPIDA2007040502I",
+                                    "@UserDefinedValue": "Guitar",
+                                    "#text": "UserDefined"
+                                },
+                                {
+                                    "@Namespace": "DPID:PADPIDA2007040502I",
+                                    "@UserDefinedValue": "Percussion",
+                                    "#text": "UserDefined"
+                                },
+                                {
+                                    "@Namespace": "DPID:PADPIDA2007040502I",
+                                    "@UserDefinedValue": "Slide Guitar",
+                                    "#text": "UserDefined"
+                                }
+                            ]
+                        },
+                        {
+                            "@SequenceNumber": "4",
+                            "ContributorPartyReference": "P_ARTIST_137673",
+                            "Role": {
+                                "@Namespace": "DPID:PADPIDA2007040502I",
+                                "@UserDefinedValue": "Guitar",
+                                "#text": "UserDefined"
+                            }
+                        },
+                        {
+                            "@SequenceNumber": "5",
+                            "ContributorPartyReference": "P_ARTIST_351662",
+                            "Role": [
+                                "Conductor",
+                                {
+                                    "@Namespace": "DPID:PADPIDA2007040502I",
+                                    "@UserDefinedValue": "Orchestrator",
+                                    "#text": "UserDefined"
+                                }
+                            ]
+                        },
+                        {
+                            "@SequenceNumber": "6",
+                            "ContributorPartyReference": "P_ARTIST_162292",
+                            "Role": [
+                                {
+                                    "@Namespace": "DPID:PADPIDA2007040502I",
+                                    "@UserDefinedValue": "Drums",
+                                    "#text": "UserDefined"
+                                },
+                                {
+                                    "@Namespace": "DPID:PADPIDA2007040502I",
+                                    "@UserDefinedValue": "Percussion",
+                                    "#text": "UserDefined"
+                                }
+                            ]
+                        },
+                        {
+                            "@SequenceNumber": "7",
+                            "ContributorPartyReference": "P_ARTIST_17865",
+                            "Role": {
+                                "@Namespace": "DPID:PADPIDA2007040502I",
+                                "@UserDefinedValue": "Bass",
+                                "#text": "UserDefined"
+                            }
+                        },
+                        {
+                            "@SequenceNumber": "8",
+                            "ContributorPartyReference": "P_ARTIST_42945",
+                            "Role": {
+                                "@Namespace": "DPID:PADPIDA2007040502I",
+                                "@UserDefinedValue": "Producer",
+                                "#text": "UserDefined"
+                            }
+                        },
+                        {
+                            "@SequenceNumber": "9",
+                            "ContributorPartyReference": "P_ARTIST_170704",
+                            "Role": "Engineer"
+                        },
+                        {
+                            "@SequenceNumber": "10",
+                            "ContributorPartyReference": "P_ARTIST_241048",
+                            "Role": {
+                                "@Namespace": "DPID:PADPIDA2007040502I",
+                                "@UserDefinedValue": "Assistant Engineer",
+                                "#text": "UserDefined"
+                            }
+                        },
+                        {
+                            "@SequenceNumber": "11",
+                            "ContributorPartyReference": "P_ARTIST_87022",
+                            "Role": {
+                                "@Namespace": "DPID:PADPIDA2007040502I",
+                                "@UserDefinedValue": "Assistant Engineer",
+                                "#text": "UserDefined"
+                            }
+                        },
+                        {
+                            "@SequenceNumber": "12",
+                            "ContributorPartyReference": "P_ARTIST_87023",
+                            "Role": {
+                                "@Namespace": "DPID:PADPIDA2007040502I",
+                                "@UserDefinedValue": "Assistant Engineer",
+                                "#text": "UserDefined"
+                            }
+                        },
+                        {
+                            "@SequenceNumber": "13",
+                            "ContributorPartyReference": "P_ARTIST_9252",
+                            "Role": {
+                                "@Namespace": "DPID:PADPIDA2007040502I",
+                                "@UserDefinedValue": "Mastering Engineer",
+                                "#text": "UserDefined"
+                            }
+                        }
+                    ],
+                    "Duration": "PT0H5M12S",
+                    "ParentalWarningType": "ExplicitContentEdited",
+                    "LanguageOfPerformance": "en"
+                }
+            ],
+            "Image": {
+                "ResourceReference": "A10",
+                "Type": "FrontCoverImage",
+                "ResourceId": {
+                    "ProprietaryId": {
+                        "@Namespace": "DPID:PADPIDA2007040502I",
+                        "#text": "G010000935334X"
+                    }
+                },
+                "FirstPublicationDate": {
+                    "FulfillmentDate": "2011-08-26"
+                },
+                "TechnicalDetails": {
+                    "TechnicalResourceDetailsReference": "T10",
+                    "ImageCodecType": "JPEG",
+                    "ImageHeight": "1400",
+                    "ImageWidth": "1400",
+                    "ImageResolution": "300",
+                    "File": {
+                        "URI": "https://mgsrv-aws.smecde.com/rd/000/000/498/697/20126/498697.20126.jpg?oauth_consumer_key=kuc&tag=61502e30c11931d5e8e6d0a8d0a991fa&oauth_timestamp=1738313720&oauth_signature=Z9DwUJUpTORCEBzq4NZ4hYcsLUg%3D",
+                        "HashSum": {
+                            "Algorithm": "MD5",
+                            "HashSumValue": "61502e30c11931d5e8e6d0a8d0a991fa"
+                        },
+                        "FileSize": "1976737"
+                    },
+                    "IsProvidedInDelivery": "false"
+                }
+            }
+        },
+        "ReleaseList": {
+            "Release": {
+                "ReleaseReference": "R0",
+                "ReleaseType": "Album",
+                "ReleaseId": {
+                    "GRid": "A10301A0000935334X",
+                    "ICPN": "074645736228",
+                    "CatalogNumber": {
+                        "@Namespace": "DPID:PADPIDA2007040502I",
+                        "#text": "G010000935334X"
+                    }
+                },
+                "DisplayTitleText": {
+                    "@LanguageAndScriptCode": "en",
+                    "#text": "Toys In The Attic"
+                },
+                "DisplayTitle": [
+                    {
+                        "@LanguageAndScriptCode": "en",
+                        "TitleText": "Toys In The Attic"
+                    },
+                    {
+                        "@LanguageAndScriptCode": "zh-Hant",
+                        "TitleText": "閣樓裡的玩具"
+                    }
+                ],
+                "DisplayArtistName": "Aerosmith",
+                "DisplayArtist": {
+                    "@SequenceNumber": "1",
+                    "ArtistPartyReference": "P_ARTIST_2990300",
+                    "DisplayArtistRole": "MainArtist"
+                },
+                "ReleaseLabelReference": {
+                    "@LabelType": "DisplayLabel",
+                    "#text": "P_LABEL_COLUMBIA"
+                },
+                "PLine": {
+                    "Year": "1975",
+                    "PLineText": "(P) 1975 Columbia Records, a division of Sony Music Entertainment"
+                },
+                "Duration": "PT0H37M8S",
+                "Genre": {
+                    "@ApplicableTerritoryCode": "Worldwide",
+                    "GenreText": "Pop"
+                },
+                "OriginalReleaseDate": "2011-08-26",
+                "ParentalWarningType": "NotExplicit",
+                "ResourceGroup": {
+                    "AdditionalTitle": {
+                        "@TitleType": "GroupingTitle",
+                        "TitleText": "Disc 1"
+                    },
+                    "SequenceNumber": "1",
+                    "ResourceGroupContentItem": [
+                        {
+                            "SequenceNumber": "1",
+                            "ReleaseResourceReference": "A1"
+                        },
+                        {
+                            "SequenceNumber": "2",
+                            "ReleaseResourceReference": "A2"
+                        },
+                        {
+                            "SequenceNumber": "3",
+                            "ReleaseResourceReference": "A3"
+                        },
+                        {
+                            "SequenceNumber": "4",
+                            "ReleaseResourceReference": "A4"
+                        },
+                        {
+                            "SequenceNumber": "5",
+                            "ReleaseResourceReference": "A5"
+                        },
+                        {
+                            "SequenceNumber": "6",
+                            "ReleaseResourceReference": "A6"
+                        },
+                        {
+                            "SequenceNumber": "7",
+                            "ReleaseResourceReference": "A7"
+                        },
+                        {
+                            "SequenceNumber": "8",
+                            "ReleaseResourceReference": "A8"
+                        },
+                        {
+                            "SequenceNumber": "9",
+                            "ReleaseResourceReference": "A9"
+                        }
+                    ],
+                    "LinkedReleaseResourceReference": {
+                        "@LinkDescription": "CoverArt",
+                        "#text": "A10"
+                    }
+                }
+            },
+            "TrackRelease": [
+                {
+                    "ReleaseReference": "R1",
+                    "ReleaseId": {
+                        "GRid": "A10328E0001154441B",
+                        "ProprietaryId": {
+                            "@Namespace": "ISRC",
+                            "#text": "USSM19906478"
+                        }
+                    },
+                    "ReleaseResourceReference": "A1",
+                    "ReleaseLabelReference": {
+                        "@LabelType": "DisplayLabel",
+                        "#text": "P_LABEL_COLUMBIA"
+                    },
+                    "Genre": {
+                        "@ApplicableTerritoryCode": "Worldwide",
+                        "GenreText": "Pop"
+                    }
+                },
+                {
+                    "ReleaseReference": "R2",
+                    "ReleaseId": {
+                        "GRid": "A10328E00011544429",
+                        "ProprietaryId": {
+                            "@Namespace": "ISRC",
+                            "#text": "USSM19906479"
+                        }
+                    },
+                    "ReleaseResourceReference": "A2",
+                    "ReleaseLabelReference": {
+                        "@LabelType": "DisplayLabel",
+                        "#text": "P_LABEL_COLUMBIA"
+                    },
+                    "Genre": {
+                        "@ApplicableTerritoryCode": "Worldwide",
+                        "GenreText": "Pop"
+                    }
+                },
+                {
+                    "ReleaseReference": "R3",
+                    "ReleaseId": {
+                        "GRid": "A10328E00011544437",
+                        "ProprietaryId": {
+                            "@Namespace": "ISRC",
+                            "#text": "USSM19906480"
+                        }
+                    },
+                    "ReleaseResourceReference": "A3",
+                    "ReleaseLabelReference": {
+                        "@LabelType": "DisplayLabel",
+                        "#text": "P_LABEL_COLUMBIA"
+                    },
+                    "Genre": {
+                        "@ApplicableTerritoryCode": "Worldwide",
+                        "GenreText": "Pop"
+                    }
+                },
+                {
+                    "ReleaseReference": "R4",
+                    "ReleaseId": {
+                        "GRid": "A10328E00011544445",
+                        "ProprietaryId": {
+                            "@Namespace": "ISRC",
+                            "#text": "USSM19906481"
+                        }
+                    },
+                    "ReleaseResourceReference": "A4",
+                    "ReleaseLabelReference": {
+                        "@LabelType": "DisplayLabel",
+                        "#text": "P_LABEL_COLUMBIA"
+                    },
+                    "Genre": {
+                        "@ApplicableTerritoryCode": "Worldwide",
+                        "GenreText": "Pop"
+                    }
+                },
+                {
+                    "ReleaseReference": "R5",
+                    "ReleaseId": {
+                        "GRid": "A10328E00011544453",
+                        "ProprietaryId": {
+                            "@Namespace": "ISRC",
+                            "#text": "USSM17500314"
+                        }
+                    },
+                    "ReleaseResourceReference": "A5",
+                    "ReleaseLabelReference": {
+                        "@LabelType": "DisplayLabel",
+                        "#text": "P_LABEL_COLUMBIA"
+                    },
+                    "Genre": {
+                        "@ApplicableTerritoryCode": "Worldwide",
+                        "GenreText": "Pop"
+                    }
+                },
+                {
+                    "ReleaseReference": "R6",
+                    "ReleaseId": {
+                        "GRid": "A10328E00011544461",
+                        "ProprietaryId": {
+                            "@Namespace": "ISRC",
+                            "#text": "USSM19906482"
+                        }
+                    },
+                    "ReleaseResourceReference": "A6",
+                    "ReleaseLabelReference": {
+                        "@LabelType": "DisplayLabel",
+                        "#text": "P_LABEL_COLUMBIA"
+                    },
+                    "Genre": {
+                        "@ApplicableTerritoryCode": "Worldwide",
+                        "GenreText": "Pop"
+                    }
+                },
+                {
+                    "ReleaseReference": "R7",
+                    "ReleaseId": {
+                        "GRid": "A10328E00011544470",
+                        "ProprietaryId": {
+                            "@Namespace": "ISRC",
+                            "#text": "USSM19906483"
+                        }
+                    },
+                    "ReleaseResourceReference": "A7",
+                    "ReleaseLabelReference": {
+                        "@LabelType": "DisplayLabel",
+                        "#text": "P_LABEL_COLUMBIA"
+                    },
+                    "Genre": {
+                        "@ApplicableTerritoryCode": "Worldwide",
+                        "GenreText": "Pop"
+                    }
+                },
+                {
+                    "ReleaseReference": "R8",
+                    "ReleaseId": {
+                        "GRid": "A10328E0001154448Y",
+                        "ProprietaryId": {
+                            "@Namespace": "ISRC",
+                            "#text": "USSM19906484"
+                        }
+                    },
+                    "ReleaseResourceReference": "A8",
+                    "ReleaseLabelReference": {
+                        "@LabelType": "DisplayLabel",
+                        "#text": "P_LABEL_COLUMBIA"
+                    },
+                    "Genre": {
+                        "@ApplicableTerritoryCode": "Worldwide",
+                        "GenreText": "Pop"
+                    }
+                },
+                {
+                    "ReleaseReference": "R9",
+                    "ReleaseId": {
+                        "GRid": "A10328E0001154449W",
+                        "ProprietaryId": {
+                            "@Namespace": "ISRC",
+                            "#text": "USSM19906485"
+                        }
+                    },
+                    "ReleaseResourceReference": "A9",
+                    "ReleaseLabelReference": {
+                        "@LabelType": "DisplayLabel",
+                        "#text": "P_LABEL_COLUMBIA"
+                    },
+                    "Genre": {
+                        "@ApplicableTerritoryCode": "Worldwide",
+                        "GenreText": "Pop"
+                    }
+                }
+            ]
+        },
+        "DealList": {
+            "ReleaseDeal": {
+                "DealReleaseReference": [
+                    "R1",
+                    "R2",
+                    "R3",
+                    "R4",
+                    "R5",
+                    "R6",
+                    "R7",
+                    "R8",
+                    "R9"
+                ],
+                "Deal": [
+                    {
+                        "DealTerms": {
+                            "TerritoryCode": [
+                                "AG",
+                                "AI",
+                                "AW",
+                                "BB",
+                                "BM",
+                                "BO",
+                                "BQ",
+                                "BR",
+                                "BZ",
+                                "CL",
+                                "CO",
+                                "CR",
+                                "CW",
+                                "DM",
+                                "DO",
+                                "EC",
+                                "ES",
+                                "GD",
+                                "GF",
+                                "GP",
+                                "GY",
+                                "HT",
+                                "JM",
+                                "KN",
+                                "KY",
+                                "LC",
+                                "MQ",
+                                "MS",
+                                "PA",
+                                "PE",
+                                "SR",
+                                "SV",
+                                "TC",
+                                "TT",
+                                "VC",
+                                "VG",
+                                "VU",
+                                "ZM"
+                            ],
+                            "ValidityPeriod": {
+                                "StartDateTime": "2011-08-26T00:00:00"
+                            },
+                            "CommercialModelType": "SubscriptionModel",
+                            "UseType": [
+                                "ConditionalDownload",
+                                "NonInteractiveStream",
+                                "OnDemandStream"
+                            ]
+                        }
+                    },
+                    {
+                        "DealTerms": {
+                            "TerritoryCode": [
+                                "AG",
+                                "AI",
+                                "AW",
+                                "BB",
+                                "BM",
+                                "BO",
+                                "BQ",
+                                "BR",
+                                "BZ",
+                                "CL",
+                                "CO",
+                                "CR",
+                                "CW",
+                                "DM",
+                                "DO",
+                                "EC",
+                                "ES",
+                                "GD",
+                                "GF",
+                                "GP",
+                                "GY",
+                                "HT",
+                                "JM",
+                                "KN",
+                                "KY",
+                                "LC",
+                                "MQ",
+                                "MS",
+                                "PA",
+                                "PE",
+                                "SR",
+                                "SV",
+                                "TC",
+                                "TT",
+                                "VC",
+                                "VG",
+                                "VU",
+                                "ZM"
+                            ],
+                            "ValidityPeriod": {
+                                "StartDateTime": "2011-08-26T00:00:00"
+                            },
+                            "CommercialModelType": "AdvertisementSupportedModel",
+                            "UseType": [
+                                "NonInteractiveStream",
+                                "OnDemandStream"
+                            ]
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

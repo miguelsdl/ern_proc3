@@ -1,0 +1,1224 @@
+{
+  "ernm:NewReleaseMessage": {
+    "@xmlns:ernm": "http://ddex.net/xml/ern/42",
+    "@LanguageAndScriptCode": "en",
+    "@ReleaseProfileVersionId": "Audio",
+    "@ReleaseProfileVariantVersionId": "Classical",
+    "@xmlns:avs": "http://ddex.net/xml/avs/avs",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:schemaLocation": "http://ddex.net/xml/ern/42 http://ddex.net/xml/ern/42/release-notification.xsd",
+    "MessageHeader": {
+      "MessageThreadId": "1",
+      "MessageId": "1",
+      "MessageSender": {
+        "PartyId": "PADPIDA67890",
+        "PartyName": {
+          "FullName": "TestLabel"
+        }
+      },
+      "MessageRecipient": {
+        "PartyId": "PADPIDA12345",
+        "PartyName": {
+          "FullName": "Testpartner"
+        }
+      },
+      "MessageCreatedDateTime": "2021-12-01T13:50:36.567Z",
+      "MessageControlType": "TestMessage"
+    },
+    "PartyList": {
+      "Party": [
+        {
+          "PartyReference": "P1",
+          "PartyName": [
+            {
+              "@LanguageAndScriptCode": "it",
+              "FullName": "Wiener Philharmoniker",
+              "KeyName": "Wiener Philharmoniker"
+            },
+            {
+              "@LanguageAndScriptCode": "ja-hrkt",
+              "FullName": "ウィーンフィルハーモニーカンゲンガクダン",
+              "KeyName": "ウィーンフィルハーモニーカンゲンガクダン"
+            },
+            {
+              "@LanguageAndScriptCode": "ja-jpan",
+              "FullName": "ウィーン・フィルハーモニー管弦楽団",
+              "KeyName": "ウィーン・フィルハーモニー管弦楽団"
+            },
+            {
+              "@LanguageAndScriptCode": "ko-kor",
+              "FullName": "빈 필하모닉 오케스트라",
+              "KeyName": "빈 필하모닉 오케스트라"
+            }
+          ]
+        },
+        {
+          "PartyReference": "P2",
+          "PartyName": [
+            {
+              "@LanguageAndScriptCode": "it",
+              "FullName": "Leonard Bernstein",
+              "NamesBeforeKeyName": "Leonard",
+              "KeyName": "Bernstein"
+            },
+            {
+              "@LanguageAndScriptCode": "ja-hrkt",
+              "FullName": "レナードバーンスタイン",
+              "KeyName": "レナードバーンスタイン"
+            },
+            {
+              "@LanguageAndScriptCode": "ja-jpan",
+              "FullName": "レナード・バーンスタイン",
+              "KeyName": "レナード・バーンスタイン"
+            }
+          ]
+        },
+        {
+          "PartyReference": "P3",
+          "PartyName": [
+            {
+              "@LanguageAndScriptCode": "it",
+              "FullName": "Hanno Rinke",
+              "NamesBeforeKeyName": "Hanno",
+              "KeyName": "Rinke"
+            },
+            {
+              "@LanguageAndScriptCode": "ja-hrkt",
+              "FullName": "ハンノリンケ",
+              "KeyName": "ハンノリンケ"
+            },
+            {
+              "@LanguageAndScriptCode": "ja-jpan",
+              "FullName": "ハンノ・リンケ",
+              "KeyName": "ハンノ・リンケ"
+            }
+          ]
+        },
+        {
+          "PartyReference": "P4",
+          "PartyName": [
+            {
+              "@LanguageAndScriptCode": "it",
+              "FullName": "Hans Weber",
+              "NamesBeforeKeyName": "Hans",
+              "KeyName": "Weber"
+            },
+            {
+              "@LanguageAndScriptCode": "ja-hrkt",
+              "FullName": "ＨａｎｓＷｅｂｅｒ",
+              "KeyName": "ＨａｎｓＷｅｂｅｒ"
+            },
+            {
+              "@LanguageAndScriptCode": "ja-jpan",
+              "FullName": "Hans Weber",
+              "KeyName": "Hans Weber"
+            }
+          ]
+        },
+        {
+          "PartyReference": "P5",
+          "PartyName": [
+            {
+              "@LanguageAndScriptCode": "it",
+              "FullName": "Klaus Scheibe",
+              "NamesBeforeKeyName": "Klaus",
+              "KeyName": "Scheibe"
+            },
+            {
+              "@LanguageAndScriptCode": "ja-hrkt",
+              "FullName": "ＫｌａｕｓＳｃｈｅｉｂｅ",
+              "KeyName": "ＫｌａｕｓＳｃｈｅｉｂｅ"
+            },
+            {
+              "@LanguageAndScriptCode": "ja-jpan",
+              "FullName": "KLAUS SCHEIBE",
+              "KeyName": "KLAUS SCHEIBE"
+            }
+          ]
+        },
+        {
+          "PartyReference": "P6",
+          "PartyName": [
+            {
+              "@LanguageAndScriptCode": "it",
+              "FullName": "Jobst Eberhardt",
+              "NamesBeforeKeyName": "Jobst",
+              "KeyName": "Eberhardt"
+            },
+            {
+              "@LanguageAndScriptCode": "ja-hrkt",
+              "FullName": "エバーハルト",
+              "KeyName": "エバーハルト"
+            },
+            {
+              "@LanguageAndScriptCode": "ja-jpan",
+              "FullName": "Jobst Eberhardt",
+              "KeyName": "Jobst Eberhardt"
+            }
+          ]
+        },
+        {
+          "PartyReference": "P7",
+          "PartyName": [
+            {
+              "@LanguageAndScriptCode": "it",
+              "FullName": "Joachim Niss",
+              "NamesBeforeKeyName": "Joachim",
+              "KeyName": "Niss"
+            },
+            {
+              "@LanguageAndScriptCode": "ja-hrkt",
+              "FullName": "Ｊｏａｃｈｉｍ　Ｎｉｓｓ",
+              "KeyName": "Ｊｏａｃｈｉｍ　Ｎｉｓｓ"
+            },
+            {
+              "@LanguageAndScriptCode": "ja-jpan",
+              "FullName": "Joachim Niss",
+              "KeyName": "Joachim Niss"
+            }
+          ]
+        },
+        {
+          "PartyReference": "P8",
+          "PartyName": [
+            {
+              "@LanguageAndScriptCode": "it",
+              "FullName": "Klaus Behrens",
+              "NamesBeforeKeyName": "Klaus",
+              "KeyName": "Behrens"
+            },
+            {
+              "@LanguageAndScriptCode": "ja-hrkt",
+              "FullName": "ベーレンス",
+              "KeyName": "ベーレンス"
+            },
+            {
+              "@LanguageAndScriptCode": "ja-jpan",
+              "FullName": "クラウス・ベーレンス",
+              "KeyName": "クラウス・ベーレンス"
+            }
+          ]
+        },
+        {
+          "PartyReference": "P9",
+          "PartyName": {
+            "@LanguageAndScriptCode": "it",
+            "FullName": "Wolfgang Amadeus Mozart",
+            "NamesBeforeKeyName": "Wolfgang Amadeus",
+            "KeyName": "Mozart"
+          }
+        },
+        {
+          "PartyReference": "P10",
+          "PartyName": {
+            "FullName": "Wiener Philharmoniker",
+            "KeyName": "Wiener Philharmoniker"
+          }
+        },
+        {
+          "PartyReference": "P11",
+          "PartyName": {
+            "FullName": "Leonard Bernstein",
+            "NamesBeforeKeyName": "Leonard",
+            "KeyName": "Bernstein"
+          }
+        },
+        {
+          "PartyReference": "P12",
+          "PartyName": {
+            "FullName": "Deutsche Grammophon (DG)"
+          }
+        }
+      ]
+    },
+    "ResourceList": {
+      "SoundRecording": [
+        {
+          "ResourceReference": "A1",
+          "Type": "MusicalWorkSoundRecording",
+          "ResourceId": {
+            "ISRC": "DEF058400331"
+          },
+          "DisplayTitleText": {
+            "@IsDefault": "true",
+            "@LanguageAndScriptCode": "it",
+            "#text": "Mozart: Symphony No. 40 in G Minor, K. 550 - I. Molto allegro"
+          },
+          "DisplayTitle": [
+            {
+              "@IsDefault": "true",
+              "@LanguageAndScriptCode": "it",
+              "TitleText": "Mozart: Symphony No. 40 in G Minor, K. 550 - I. Molto allegro",
+              "SubTitle": "Live at Grosser Saal, Musikverein, Wien / 1984"
+            },
+            {
+              "@IsDefault": "true",
+              "@LanguageAndScriptCode": "ja-hrkt",
+              "TitleText": "Mozart: コウキョウキョクダイヨンジュウバントタンチョウケッヘルゴヒャクゴジュウ - ダイイチガクショウモルトアレグロ"
+            },
+            {
+              "@IsDefault": "true",
+              "@LanguageAndScriptCode": "ja-jpan",
+              "TitleText": "Mozart: 交響曲 第40番 ト短調 K.550 - 第1楽章: Molto allegro"
+            }
+          ],
+          "AdditionalTitle": [
+            {
+              "@IsDefault": "true",
+              "@LanguageAndScriptCode": "it",
+              "@TitleType": "FormalTitle",
+              "TitleText": "Mozart: Symphony No. 40 in G Minor, K. 550 - I. Molto allegro",
+              "SubTitle": "Live at Grosser Saal, Musikverein, Wien / 1984"
+            },
+            {
+              "@IsDefault": "true",
+              "@LanguageAndScriptCode": "it",
+              "@TitleType": "GroupingTitle",
+              "TitleText": "Symphony No. 40 in G Minor, K. 550"
+            },
+            {
+              "@IsDefault": "true",
+              "@LanguageAndScriptCode": "ja-hrkt",
+              "@TitleType": "GroupingTitle",
+              "TitleText": "コウキョウキョクダイヨンジュウバントタンチョウケッヘルゴヒャクゴジュウ"
+            },
+            {
+              "@IsDefault": "true",
+              "@LanguageAndScriptCode": "ja-jpan",
+              "@TitleType": "GroupingTitle",
+              "TitleText": "交響曲 第40番 ト短調 K.550"
+            }
+          ],
+          "DisplayArtistName": {
+            "@IsDefault": "true",
+            "#text": "Wiener Philharmoniker and Leonard Bernstein"
+          },
+          "DisplayArtist": [
+            {
+              "@SequenceNumber": "1",
+              "ArtistPartyReference": "P1",
+              "DisplayArtistRole": "MainArtist",
+              "ArtisticRole": {
+                "@Namespace": "PADPIDA2013042401U",
+                "#text": "Orchestra"
+              }
+            },
+            {
+              "@SequenceNumber": "2",
+              "ArtistPartyReference": "P2",
+              "DisplayArtistRole": "MainArtist",
+              "ArtisticRole": {
+                "@Namespace": "PADPIDA2013042401U",
+                "#text": "Conductor"
+              }
+            }
+          ],
+          "Contributor": [
+            {
+              "@SequenceNumber": "1",
+              "ContributorPartyReference": "P3",
+              "Role": {
+                "@Namespace": "PADPIDA2013042401U",
+                "@UserDefinedValue": "Producer",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "2",
+              "ContributorPartyReference": "P4",
+              "Role": [
+                {
+                  "@Namespace": "PADPIDA2013042401U",
+                  "@UserDefinedValue": "Producer",
+                  "#text": "UserDefined"
+                },
+                {
+                  "@Namespace": "PADPIDA2013042401U",
+                  "@UserDefinedValue": "Recording Producer",
+                  "#text": "UserDefined"
+                }
+              ]
+            },
+            {
+              "@SequenceNumber": "3",
+              "ContributorPartyReference": "P5",
+              "Role": [
+                "StudioPersonnel",
+                {
+                  "@Namespace": "PADPIDA2013042401U",
+                  "@UserDefinedValue": "Balance Engineer",
+                  "#text": "UserDefined"
+                }
+              ]
+            },
+            {
+              "@SequenceNumber": "4",
+              "ContributorPartyReference": "P6",
+              "Role": [
+                "StudioPersonnel",
+                {
+                  "@Namespace": "PADPIDA2013042401U",
+                  "@UserDefinedValue": "Recording Engineer",
+                  "#text": "UserDefined"
+                }
+              ]
+            },
+            {
+              "@SequenceNumber": "5",
+              "ContributorPartyReference": "P7",
+              "Role": [
+                "StudioPersonnel",
+                {
+                  "@Namespace": "PADPIDA2013042401U",
+                  "@UserDefinedValue": "Recording Engineer",
+                  "#text": "UserDefined"
+                }
+              ]
+            },
+            {
+              "@SequenceNumber": "6",
+              "ContributorPartyReference": "P8",
+              "Role": [
+                "StudioPersonnel",
+                "Editor"
+              ]
+            },
+            {
+              "@SequenceNumber": "7",
+              "ContributorPartyReference": "P9",
+              "Role": "Composer"
+            }
+          ],
+          "PLine": {
+            "@IsDefault": "true",
+            "Year": "1984",
+            "PLineCompany": "Deutsche Grammophon GmbH, Berlin",
+            "PLineText": "℗ 1984 Deutsche Grammophon GmbH, Berlin"
+          },
+          "Duration": "PT8M28S",
+          "CreationDate": {
+            "@ApplicableTerritoryCode": "AT",
+            "@LocationDescription": "Grosser Saal, Musikverein, Wien",
+            "#text": "1984-01-31"
+          },
+          "ParentalWarningType": {
+            "@IsDefault": "true",
+            "#text": "NotExplicit"
+          }
+        },
+        {
+          "ResourceReference": "A2",
+          "Type": "MusicalWorkSoundRecording",
+          "ResourceId": {
+            "ISRC": "DEF058400332"
+          },
+          "DisplayTitleText": {
+            "@IsDefault": "true",
+            "@LanguageAndScriptCode": "it",
+            "#text": "Mozart: Symphony No. 40 in G Minor, K. 550 - II. Andante"
+          },
+          "DisplayTitle": [
+            {
+              "@IsDefault": "true",
+              "@LanguageAndScriptCode": "it",
+              "TitleText": "Mozart: Symphony No. 40 in G Minor, K. 550 - II. Andante",
+              "SubTitle": "Live at Grosser Saal, Musikverein, Wien / 1984"
+            },
+            {
+              "@IsDefault": "true",
+              "@LanguageAndScriptCode": "ja-hrkt",
+              "TitleText": "Mozart: コウキョウキョクダイ４０バン - ダイニガクショウ：アンダンテ"
+            },
+            {
+              "@IsDefault": "true",
+              "@LanguageAndScriptCode": "ja-jpan",
+              "TitleText": "Mozart: 交響曲 第40番 ト短調 K.550 - 第2楽章: Andante"
+            }
+          ],
+          "AdditionalTitle": [
+            {
+              "@IsDefault": "true",
+              "@LanguageAndScriptCode": "it",
+              "@TitleType": "FormalTitle",
+              "TitleText": "Mozart: Symphony No. 40 in G Minor, K. 550 - II. Andante",
+              "SubTitle": "Live at Grosser Saal, Musikverein, Wien / 1984"
+            },
+            {
+              "@IsDefault": "true",
+              "@LanguageAndScriptCode": "it",
+              "@TitleType": "GroupingTitle",
+              "TitleText": "Symphony No. 40 in G Minor, K. 550"
+            },
+            {
+              "@IsDefault": "true",
+              "@LanguageAndScriptCode": "ja-hrkt",
+              "@TitleType": "GroupingTitle",
+              "TitleText": "コウキョウキョクダイ４０バン"
+            },
+            {
+              "@IsDefault": "true",
+              "@LanguageAndScriptCode": "ja-jpan",
+              "@TitleType": "GroupingTitle",
+              "TitleText": "交響曲 第40番 ト短調 K.550"
+            }
+          ],
+          "DisplayArtistName": {
+            "@IsDefault": "true",
+            "#text": "Wiener Philharmoniker and Leonard Bernstein"
+          },
+          "DisplayArtist": [
+            {
+              "@SequenceNumber": "1",
+              "ArtistPartyReference": "P1",
+              "DisplayArtistRole": "MainArtist",
+              "ArtisticRole": {
+                "@Namespace": "PADPIDA2013042401U",
+                "#text": "Orchestra"
+              }
+            },
+            {
+              "@SequenceNumber": "2",
+              "ArtistPartyReference": "P2",
+              "DisplayArtistRole": "MainArtist",
+              "ArtisticRole": {
+                "@Namespace": "PADPIDA2013042401U",
+                "#text": "Conductor"
+              }
+            }
+          ],
+          "Contributor": [
+            {
+              "@SequenceNumber": "1",
+              "ContributorPartyReference": "P3",
+              "Role": "StudioProducer"
+            },
+            {
+              "@SequenceNumber": "2",
+              "ContributorPartyReference": "P4",
+              "Role": {
+                "@Namespace": "PADPIDA2013042401U",
+                "@UserDefinedValue": "Recording Producer",
+                "#text": "StudioProducer"
+              }
+            },
+            {
+              "@SequenceNumber": "3",
+              "ContributorPartyReference": "P5",
+              "Role": [
+                "StudioPersonnel",
+                "Engineer"
+              ]
+            },
+            {
+              "@SequenceNumber": "4",
+              "ContributorPartyReference": "P6",
+              "Role": [
+                "StudioPersonnel",
+                "Engineer"
+              ]
+            },
+            {
+              "@SequenceNumber": "5",
+              "ContributorPartyReference": "P7",
+              "Role": [
+                "StudioPersonnel",
+                "Engineer"
+              ]
+            },
+            {
+              "@SequenceNumber": "6",
+              "ContributorPartyReference": "P8",
+              "Role": "Editor"
+            },
+            {
+              "@SequenceNumber": "7",
+              "ContributorPartyReference": "P9",
+              "Role": "Composer"
+            }
+          ],
+          "PLine": {
+            "@IsDefault": "true",
+            "Year": "1984",
+            "PLineCompany": "Deutsche Grammophon GmbH, Berlin",
+            "PLineText": "℗ 1984 Deutsche Grammophon GmbH, Berlin"
+          },
+          "Duration": "PT8M12S",
+          "CreationDate": {
+            "@ApplicableTerritoryCode": "AT",
+            "@LocationDescription": "Grosser Saal, Musikverein, Wien",
+            "#text": "1984-01-31"
+          },
+          "ParentalWarningType": {
+            "@IsDefault": "true",
+            "#text": "NotExplicit"
+          }
+        },
+        {
+          "ResourceReference": "A3",
+          "Type": "MusicalWorkSoundRecording",
+          "ResourceId": {
+            "ISRC": "DEF058400333"
+          },
+          "DisplayTitleText": {
+            "@IsDefault": "true",
+            "@LanguageAndScriptCode": "it",
+            "#text": "Mozart: Symphony No. 40 in G Minor, K. 550 - III. Menuetto (Allegretto) - Trio"
+          },
+          "DisplayTitle": [
+            {
+              "@IsDefault": "true",
+              "@LanguageAndScriptCode": "it",
+              "TitleText": "Mozart: Symphony No. 40 in G Minor, K. 550 - III. Menuetto (Allegretto) - Trio",
+              "SubTitle": "Live at Grosser Saal, Musikverein, Wien / 1984"
+            },
+            {
+              "@IsDefault": "true",
+              "@LanguageAndScriptCode": "ja-hrkt",
+              "TitleText": "Mozart: コウキョウキョクダイ４０バン - ダイサンガクショウ：メヌエット"
+            },
+            {
+              "@IsDefault": "true",
+              "@LanguageAndScriptCode": "ja-jpan",
+              "TitleText": "Mozart: 交響曲 第40番 ト短調 K.550 - 第3楽章: Menuetto (Allegretto) - Trio"
+            }
+          ],
+          "AdditionalTitle": [
+            {
+              "@IsDefault": "true",
+              "@LanguageAndScriptCode": "it",
+              "@TitleType": "FormalTitle",
+              "TitleText": "Mozart: Symphony No. 40 in G Minor, K. 550 - III. Menuetto (Allegretto) - Trio",
+              "SubTitle": "Live at Grosser Saal, Musikverein, Wien / 1984"
+            },
+            {
+              "@IsDefault": "true",
+              "@LanguageAndScriptCode": "it",
+              "@TitleType": "GroupingTitle",
+              "TitleText": "Symphony No. 40 in G Minor, K. 550"
+            },
+            {
+              "@IsDefault": "true",
+              "@LanguageAndScriptCode": "ja-hrkt",
+              "@TitleType": "GroupingTitle",
+              "TitleText": "コウキョウキョクダイ４０バン"
+            },
+            {
+              "@IsDefault": "true",
+              "@LanguageAndScriptCode": "ja-jpan",
+              "@TitleType": "GroupingTitle",
+              "TitleText": "交響曲 第40番 ト短調 K.550"
+            }
+          ],
+          "DisplayArtistName": {
+            "@IsDefault": "true",
+            "#text": "Wiener Philharmoniker and Leonard Bernstein"
+          },
+          "DisplayArtist": [
+            {
+              "@SequenceNumber": "1",
+              "ArtistPartyReference": "P1",
+              "DisplayArtistRole": "MainArtist",
+              "ArtisticRole": {
+                "@Namespace": "PADPIDA2013042401U",
+                "#text": "Orchestra"
+              }
+            },
+            {
+              "@SequenceNumber": "2",
+              "ArtistPartyReference": "P2",
+              "DisplayArtistRole": "MainArtist",
+              "ArtisticRole": {
+                "@Namespace": "PADPIDA2013042401U",
+                "#text": "Conductor"
+              }
+            }
+          ],
+          "Contributor": [
+            {
+              "@SequenceNumber": "1",
+              "ContributorPartyReference": "P3",
+              "Role": "StudioProducer"
+            },
+            {
+              "@SequenceNumber": "2",
+              "ContributorPartyReference": "P4",
+              "Role": {
+                "@Namespace": "PADPIDA2013042401U",
+                "@UserDefinedValue": "Recording Producer",
+                "#text": "StudioProducer"
+              }
+            },
+            {
+              "@SequenceNumber": "3",
+              "ContributorPartyReference": "P5",
+              "Role": [
+                "StudioPersonnel",
+                {
+                  "@Namespace": "PADPIDA2013042401U",
+                  "@UserDefinedValue": "Balance Engineer",
+                  "#text": "Engineer"
+                }
+              ]
+            },
+            {
+              "@SequenceNumber": "4",
+              "ContributorPartyReference": "P6",
+              "Role": [
+                "StudioPersonnel",
+                "RecordingEngineer"
+              ]
+            },
+            {
+              "@SequenceNumber": "5",
+              "ContributorPartyReference": "P7",
+              "Role": [
+                "StudioPersonnel",
+                "RecordingEngineer"
+              ]
+            },
+            {
+              "@SequenceNumber": "6",
+              "ContributorPartyReference": "P8",
+              "Role": [
+                "StudioPersonnel",
+                "Editor"
+              ]
+            },
+            {
+              "@SequenceNumber": "7",
+              "ContributorPartyReference": "P9",
+              "Role": "Composer"
+            }
+          ],
+          "PLine": {
+            "@IsDefault": "true",
+            "Year": "1984",
+            "PLineCompany": "Deutsche Grammophon GmbH, Berlin",
+            "PLineText": "℗ 1984 Deutsche Grammophon GmbH, Berlin"
+          },
+          "Duration": "PT4M50S",
+          "CreationDate": {
+            "@ApplicableTerritoryCode": "AT",
+            "@LocationDescription": "Grosser Saal, Musikverein, Wien",
+            "#text": "1984-01-31"
+          },
+          "ParentalWarningType": {
+            "@IsDefault": "true",
+            "#text": "NotExplicit"
+          }
+        },
+        {
+          "ResourceReference": "A4",
+          "Type": "MusicalWorkSoundRecording",
+          "ResourceId": {
+            "ISRC": "DEF058400334"
+          },
+          "DisplayTitleText": {
+            "@IsDefault": "true",
+            "@LanguageAndScriptCode": "it",
+            "#text": "Mozart: Symphony No. 40 in G Minor, K. 550 - IV. Finale (Allegro assai)"
+          },
+          "DisplayTitle": [
+            {
+              "@IsDefault": "true",
+              "@LanguageAndScriptCode": "it",
+              "TitleText": "Mozart: Symphony No. 40 in G Minor, K. 550 - IV. Finale (Allegro assai)",
+              "SubTitle": "Live at Grosser Saal, Musikverein, Wien / 1984"
+            },
+            {
+              "@IsDefault": "true",
+              "@LanguageAndScriptCode": "ja-hrkt",
+              "TitleText": "Mozart: コウキョウキョクダイ４０バン - ダイヨンガクショウ：フィナーレ　アレグロアッサイ"
+            },
+            {
+              "@IsDefault": "true",
+              "@LanguageAndScriptCode": "ja-jpan",
+              "TitleText": "Mozart: 交響曲 第40番 ト短調 K.550 - 第4楽章: Finale (Allegro assai)"
+            }
+          ],
+          "AdditionalTitle": [
+            {
+              "@IsDefault": "true",
+              "@LanguageAndScriptCode": "it",
+              "@TitleType": "FormalTitle",
+              "TitleText": "Mozart: Symphony No. 40 in G Minor, K. 550 - IV. Finale (Allegro assai)",
+              "SubTitle": "Live at Grosser Saal, Musikverein, Wien / 1984"
+            },
+            {
+              "@IsDefault": "true",
+              "@LanguageAndScriptCode": "it",
+              "@TitleType": "GroupingTitle",
+              "TitleText": "Symphony No. 40 in G Minor, K. 550"
+            },
+            {
+              "@IsDefault": "true",
+              "@LanguageAndScriptCode": "ja-hrkt",
+              "@TitleType": "GroupingTitle",
+              "TitleText": "コウキョウキョクダイ４０バン"
+            },
+            {
+              "@IsDefault": "true",
+              "@LanguageAndScriptCode": "ja-jpan",
+              "@TitleType": "GroupingTitle",
+              "TitleText": "交響曲 第40番 ト短調 K.550"
+            }
+          ],
+          "DisplayArtistName": {
+            "@IsDefault": "true",
+            "#text": "Wiener Philharmoniker and Leonard Bernstein"
+          },
+          "DisplayArtist": [
+            {
+              "@SequenceNumber": "1",
+              "ArtistPartyReference": "P1",
+              "DisplayArtistRole": "MainArtist",
+              "ArtisticRole": {
+                "@Namespace": "PADPIDA2013042401U",
+                "#text": "Orchestra"
+              }
+            },
+            {
+              "@SequenceNumber": "2",
+              "ArtistPartyReference": "P2",
+              "DisplayArtistRole": "MainArtist",
+              "ArtisticRole": {
+                "@Namespace": "PADPIDA2013042401U",
+                "#text": "Conductor"
+              }
+            }
+          ],
+          "Contributor": [
+            {
+              "@SequenceNumber": "1",
+              "ContributorPartyReference": "P3",
+              "Role": "StudioProducer"
+            },
+            {
+              "@SequenceNumber": "2",
+              "ContributorPartyReference": "P4",
+              "Role": {
+                "@Namespace": "PADPIDA2013042401U",
+                "@UserDefinedValue": "Recording Producer",
+                "#text": "StudioProducer"
+              }
+            },
+            {
+              "@SequenceNumber": "3",
+              "ContributorPartyReference": "P5",
+              "Role": [
+                "StudioPersonnel",
+                {
+                  "@Namespace": "PADPIDA2013042401U",
+                  "@UserDefinedValue": "Balance Engineer",
+                  "#text": "Engineer"
+                }
+              ]
+            },
+            {
+              "@SequenceNumber": "4",
+              "ContributorPartyReference": "P6",
+              "Role": [
+                "StudioPersonnel",
+                "RecordingEngineer"
+              ]
+            },
+            {
+              "@SequenceNumber": "5",
+              "ContributorPartyReference": "P7",
+              "Role": [
+                "StudioPersonnel",
+                "RecordingEngineer"
+              ]
+            },
+            {
+              "@SequenceNumber": "6",
+              "ContributorPartyReference": "P8",
+              "Role": [
+                "StudioPersonnel",
+                "Editor"
+              ]
+            },
+            {
+              "@SequenceNumber": "7",
+              "ContributorPartyReference": "P9",
+              "Role": "Composer"
+            }
+          ],
+          "PLine": {
+            "@IsDefault": "true",
+            "Year": "1984",
+            "PLineCompany": "Deutsche Grammophon GmbH, Berlin",
+            "PLineText": "℗ 1984 Deutsche Grammophon GmbH, Berlin"
+          },
+          "Duration": "PT9M12S",
+          "CreationDate": {
+            "@ApplicableTerritoryCode": "AT",
+            "@LocationDescription": "Grosser Saal, Musikverein, Wien",
+            "#text": "1984-01-31"
+          },
+          "ParentalWarningType": {
+            "@IsDefault": "true",
+            "#text": "NotExplicit"
+          }
+        }
+      ],
+      "Image": {
+        "ResourceReference": "A5",
+        "Type": "FrontCoverImage",
+        "ResourceId": {
+          "ProprietaryId": {
+            "@Namespace": "PADPIDA2013042401U",
+            "#text": "09UMGIM12352"
+          }
+        },
+        "DisplayTitleText": {
+          "@IsDefault": "true",
+          "@LanguageAndScriptCode": "en",
+          "#text": "Mozart: Symphony No. 40"
+        },
+        "DisplayTitle": {
+          "@IsDefault": "true",
+          "@LanguageAndScriptCode": "en",
+          "TitleText": "Mozart: Symphony No. 40"
+        },
+        "AdditionalTitle": {
+          "@IsDefault": "true",
+          "@LanguageAndScriptCode": "en",
+          "@TitleType": "FormalTitle",
+          "TitleText": "Mozart: Symphony No. 40"
+        },
+        "Contributor": [
+          {
+            "@SequenceNumber": "1",
+            "ContributorPartyReference": "P10",
+            "Role": "Orchestra"
+          },
+          {
+            "@SequenceNumber": "2",
+            "ContributorPartyReference": "P11",
+            "Role": "Conductor"
+          }
+        ],
+        "CLine": {
+          "@IsDefault": "true",
+          "Year": "2009",
+          "CLineCompany": "Deutsche Grammophon GmbH, Berlin",
+          "CLineText": "© 2009 Deutsche Grammophon GmbH, Berlin"
+        },
+        "ParentalWarningType": {
+          "@IsDefault": "true",
+          "#text": "NotExplicit"
+        }
+      }
+    },
+    "ReleaseList": {
+      "Release": {
+        "ReleaseReference": "R0",
+        "ReleaseType": "ClassicalAlbum",
+        "ReleaseId": {
+          "ICPN": "00028948386765"
+        },
+        "DisplayTitleText": {
+          "@IsDefault": "true",
+          "@LanguageAndScriptCode": "en",
+          "#text": "Mozart: Symphony No. 40 in G Minor, K. 550"
+        },
+        "DisplayTitle": {
+          "@IsDefault": "true",
+          "@LanguageAndScriptCode": "en",
+          "TitleText": "Mozart: Symphony No. 40 in G Minor, K. 550"
+        },
+        "AdditionalTitle": {
+          "@IsDefault": "true",
+          "@LanguageAndScriptCode": "en",
+          "@TitleType": "FormalTitle",
+          "TitleText": "Mozart: Symphony No. 40 in G Minor, K. 550"
+        },
+        "DisplayArtistName": {
+          "@IsDefault": "true",
+          "#text": "Wiener Philharmoniker and Leonard Bernstein"
+        },
+        "DisplayArtist": [
+          {
+            "@SequenceNumber": "1",
+            "ArtistPartyReference": "P1",
+            "DisplayArtistRole": "MainArtist",
+            "ArtisticRole": {
+              "@Namespace": "PADPIDA2013042401U",
+              "#text": "Orchestra"
+            }
+          },
+          {
+            "@SequenceNumber": "2",
+            "ArtistPartyReference": "P2",
+            "DisplayArtistRole": "MainArtist",
+            "ArtisticRole": {
+              "@Namespace": "PADPIDA2013042401U",
+              "#text": "Conductor"
+            }
+          }
+        ],
+        "ReleaseLabelReference": {
+          "@IsDefault": "true",
+          "#text": "P12"
+        },
+        "PLine": {
+          "@IsDefault": "true",
+          "Year": "2009",
+          "PLineCompany": "Deutsche Grammophon GmbH, Berlin",
+          "PLineText": "℗ 2009 Deutsche Grammophon GmbH, Berlin"
+        },
+        "CLine": {
+          "@IsDefault": "true",
+          "Year": "2020",
+          "CLineCompany": "Deutsche Grammophon GmbH, Berlin",
+          "CLineText": "© 2020 Deutsche Grammophon GmbH, Berlin"
+        },
+        "Duration": "PT30M55S",
+        "Genre": {
+          "@IsDefault": "true",
+          "GenreText": "Classical"
+        },
+        "ReleaseDate": {
+          "@IsDefault": "true",
+          "#text": "2020-02-07"
+        },
+        "OriginalReleaseDate": {
+          "@IsDefault": "true",
+          "#text": "2009-01-01"
+        },
+        "ParentalWarningType": {
+          "@IsDefault": "true",
+          "#text": "NotExplicit"
+        },
+        "IsMultiArtistCompilation": "false",
+        "ResourceGroup": {
+          "ResourceGroup": {
+            "@ResourceGroupType": "Component",
+            "SequenceNumber": "1",
+            "ResourceGroup": {
+              "@ResourceGroupType": "MultiWorkPart",
+              "AdditionalTitle": {
+                "@TitleType": "GroupingTitle",
+                "TitleText": "Symphony No.40 in G minor, K.550"
+              },
+              "ResourceGroupContentItem": [
+                {
+                  "SequenceNumber": "1",
+                  "ReleaseResourceReference": "A1",
+                  "IsInstantGratificationResource": "false",
+                  "IsPreOrderIncentiveResource": "false"
+                },
+                {
+                  "SequenceNumber": "2",
+                  "ReleaseResourceReference": "A2",
+                  "IsInstantGratificationResource": "false",
+                  "IsPreOrderIncentiveResource": "false"
+                },
+                {
+                  "SequenceNumber": "3",
+                  "ReleaseResourceReference": "A3",
+                  "IsInstantGratificationResource": "false",
+                  "IsPreOrderIncentiveResource": "false"
+                },
+                {
+                  "SequenceNumber": "4",
+                  "ReleaseResourceReference": "A4",
+                  "IsInstantGratificationResource": "false",
+                  "IsPreOrderIncentiveResource": "false"
+                }
+              ]
+            }
+          },
+          "LinkedReleaseResourceReference": "A5"
+        }
+      },
+      "TrackRelease": [
+        {
+          "ReleaseReference": "R1",
+          "ReleaseId": {
+            "ProprietaryId": {
+              "@Namespace": "PADPIDA2013042401U",
+              "#text": "00028948386765_DEF058400331_R1"
+            }
+          },
+          "DisplayTitleText": {
+            "@IsDefault": "true",
+            "@LanguageAndScriptCode": "it",
+            "#text": "Mozart: Movement 1: Molto allegro"
+          },
+          "DisplayTitle": [
+            {
+              "@IsDefault": "true",
+              "@LanguageAndScriptCode": "it",
+              "TitleText": "Mozart: Movement 1: Molto allegro"
+            },
+            {
+              "@IsDefault": "true",
+              "@LanguageAndScriptCode": "ja-hrkt",
+              "TitleText": "Mozart: ダイイチガクショウモルトアレグロ"
+            },
+            {
+              "@IsDefault": "true",
+              "@LanguageAndScriptCode": "ja-jpan",
+              "TitleText": "Mozart: 第1楽章: Molto allegro"
+            }
+          ],
+          "AdditionalTitle": {
+            "@IsDefault": "true",
+            "@LanguageAndScriptCode": "it",
+            "@TitleType": "FormalTitle",
+            "TitleText": "Movement 1: Molto allegro"
+          },
+          "ReleaseResourceReference": "A1",
+          "ReleaseLabelReference": {
+            "@IsDefault": "true",
+            "#text": "P12"
+          },
+          "Genre": {
+            "@IsDefault": "true",
+            "GenreText": "Classical"
+          }
+        },
+        {
+          "ReleaseReference": "R2",
+          "ReleaseId": {
+            "ProprietaryId": {
+              "@Namespace": "PADPIDA2013042401U",
+              "#text": "00028948386765_DEF058400332_R2"
+            }
+          },
+          "DisplayTitleText": {
+            "@IsDefault": "true",
+            "@LanguageAndScriptCode": "it",
+            "#text": "Mozart: Movement 2: Andante"
+          },
+          "DisplayTitle": [
+            {
+              "@IsDefault": "true",
+              "@LanguageAndScriptCode": "it",
+              "TitleText": "Mozart: Movement 2: Andante"
+            },
+            {
+              "@IsDefault": "true",
+              "@LanguageAndScriptCode": "ja-hrkt",
+              "TitleText": "Mozart: ダイニガクショウ：アンダンテ"
+            },
+            {
+              "@IsDefault": "true",
+              "@LanguageAndScriptCode": "ja-jpan",
+              "TitleText": "Mozart: 第2楽章: Andante"
+            }
+          ],
+          "AdditionalTitle": {
+            "@IsDefault": "true",
+            "@LanguageAndScriptCode": "it",
+            "@TitleType": "FormalTitle",
+            "TitleText": "Movement 2: Andante"
+          },
+          "ReleaseResourceReference": "A2",
+          "ReleaseLabelReference": {
+            "@IsDefault": "true",
+            "#text": "P12"
+          },
+          "Genre": {
+            "@IsDefault": "true",
+            "GenreText": "Classical"
+          }
+        },
+        {
+          "ReleaseReference": "R3",
+          "ReleaseId": {
+            "ProprietaryId": {
+              "@Namespace": "PADPIDA2013042401U",
+              "#text": "00028948386765_DEF058400333_R3"
+            }
+          },
+          "DisplayTitleText": {
+            "@IsDefault": "true",
+            "@LanguageAndScriptCode": "it",
+            "#text": "Mozart: Movement 3: Menuetto - Allegretto"
+          },
+          "DisplayTitle": [
+            {
+              "@IsDefault": "true",
+              "@LanguageAndScriptCode": "it",
+              "TitleText": "Mozart: Movement 3: Menuetto - Allegretto"
+            },
+            {
+              "@IsDefault": "true",
+              "@LanguageAndScriptCode": "ja-hrkt",
+              "TitleText": "Mozart: ダイサンガクショウ：メヌエット"
+            },
+            {
+              "@IsDefault": "true",
+              "@LanguageAndScriptCode": "ja-jpan",
+              "TitleText": "Mozart: 第3楽章: Menuetto (Allegretto) - Trio"
+            }
+          ],
+          "AdditionalTitle": {
+            "@IsDefault": "true",
+            "@LanguageAndScriptCode": "it",
+            "@TitleType": "FormalTitle",
+            "TitleText": "Movement 3: Menuetto - Allegretto"
+          },
+          "ReleaseResourceReference": "A3",
+          "ReleaseLabelReference": {
+            "@IsDefault": "true",
+            "#text": "P12"
+          },
+          "Genre": {
+            "@IsDefault": "true",
+            "GenreText": "Classical"
+          }
+        },
+        {
+          "ReleaseReference": "R4",
+          "ReleaseId": {
+            "ProprietaryId": {
+              "@Namespace": "PADPIDA2013042401U",
+              "#text": "00028948386765_DEF058400334_R4"
+            }
+          },
+          "DisplayTitleText": {
+            "@IsDefault": "true",
+            "@LanguageAndScriptCode": "it",
+            "#text": "Mozart: Movement 4: Finale - Allegro assai"
+          },
+          "DisplayTitle": [
+            {
+              "@IsDefault": "true",
+              "@LanguageAndScriptCode": "it",
+              "TitleText": "Mozart: Movement 4: Finale - Allegro assai"
+            },
+            {
+              "@IsDefault": "true",
+              "@LanguageAndScriptCode": "ja-hrkt",
+              "TitleText": "Mozart: ダイヨンガクショウ：フィナーレ　アレグロアッサイ"
+            },
+            {
+              "@IsDefault": "true",
+              "@LanguageAndScriptCode": "ja-jpan",
+              "TitleText": "Mozart: 第4楽章: Finale (Allegro assai)"
+            }
+          ],
+          "AdditionalTitle": {
+            "@IsDefault": "true",
+            "@LanguageAndScriptCode": "it",
+            "@TitleType": "FormalTitle",
+            "TitleText": "Movement 4: Finale - Allegro assai"
+          },
+          "ReleaseResourceReference": "A4",
+          "ReleaseLabelReference": {
+            "@IsDefault": "true",
+            "#text": "P12"
+          },
+          "Genre": {
+            "@IsDefault": "true",
+            "GenreText": "Classical"
+          }
+        }
+      ]
+    }
+  }
+}

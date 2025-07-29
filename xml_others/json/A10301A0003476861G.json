@@ -1,0 +1,2524 @@
+{
+  "ernm:NewReleaseMessage": {
+    "@AvsVersionId": "5",
+    "@LanguageAndScriptCode": "en",
+    "@xsi:schemaLocation": "http://ddex.net/xml/ern/43 http://ddex.net/xml/ern/43/release-notification.xsd",
+    "@xmlns:ernm": "http://ddex.net/xml/ern/43",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "MessageHeader": {
+      "MessageThreadId": "G010003476861G_KUC",
+      "MessageId": "332932372",
+      "MessageSender": {
+        "PartyId": "PADPIDA2007040502I",
+        "PartyName": {
+          "FullName": "Sony Music Entertainment"
+        }
+      },
+      "MessageRecipient": {
+        "PartyId": "PADPIDA2012073006T",
+        "PartyName": {
+          "FullName": "KuackMedia 4.3 SD"
+        }
+      },
+      "MessageCreatedDateTime": "2024-10-23T08:54:18.088Z",
+      "MessageControlType": "TestMessage"
+    },
+    "PartyList": {
+      "Party": [
+        {
+          "PartyReference": "P_SME_SENDER",
+          "PartyName": {
+            "FullName": "Sony Music Entertainment"
+          },
+          "PartyId": {
+            "DPID": "PADPIDA2007040502I"
+          }
+        },
+        {
+          "PartyReference": "P_ARTIST_2510",
+          "PartyName": [
+            {
+              "FullName": "Olga Scheps"
+            },
+            {
+              "@LanguageAndScriptCode": "zh-Hant",
+              "FullName": "\u6b50\u723e\u5609\u8a31\u666e\u7d72"
+            }
+          ]
+        },
+        {
+          "PartyReference": "P_ARTIST_1727105",
+          "PartyName": {
+            "FullName": "Phillip Schulz"
+          }
+        },
+        {
+          "PartyReference": "P_ARTIST_2079050",
+          "PartyName": {
+            "FullName": "Jason Charles Beck"
+          }
+        },
+        {
+          "PartyReference": "P_ARTIST_2770501",
+          "PartyName": [
+            {
+              "FullName": "Erik Satie"
+            },
+            {
+              "@LanguageAndScriptCode": "ja-Jpan",
+              "FullName": "Erik Satie"
+            }
+          ]
+        },
+        {
+          "PartyReference": "P_LABEL_RCA_RED_SEAL",
+          "PartyName": {
+            "FullName": "RCA Red Seal"
+          }
+        }
+      ]
+    },
+    "ResourceList": {
+      "SoundRecording": [
+        {
+          "ResourceReference": "A1",
+          "Type": "MusicalWorkSoundRecording",
+          "SoundRecordingEdition": {
+            "Type": "NonImmersiveEdition",
+            "ResourceId": {
+              "ISRC": "DEE861600236"
+            },
+            "PLine": {
+              "Year": "2016",
+              "PLineText": "(P) 2016 Sony Music Entertainment Germany GmbH"
+            },
+            "TechnicalDetails": {
+              "TechnicalResourceDetailsReference": "T1",
+              "DeliveryFile": {
+                "Type": "AudioFile",
+                "AudioCodecType": "MP3",
+                "BitRate": {
+                  "@UnitOfMeasure": "kbps",
+                  "#text": "320"
+                },
+                "NumberOfChannels": "2",
+                "SamplingRate": {
+                  "@UnitOfMeasure": "kHz",
+                  "#text": "44.1"
+                },
+                "BitsPerSample": "16",
+                "File": {
+                  "URI": "https://mgsrv-aws.smecde.com/rd/6af8542f8b/20122/39476127.20122.mp3?oauth_consumer_key=kuc&tag=77c8179db13fb39f933ba17247748792&oauth_timestamp=1738313658&oauth_signature=Cxvg2BTSOiHt9%2FiB7%2BWEurFuPCk%3D",
+                  "HashSum": {
+                    "Algorithm": "MD5",
+                    "HashSumValue": "77c8179db13fb39f933ba17247748792"
+                  },
+                  "FileSize": "7511120"
+                },
+                "IsProvidedInDelivery": "false"
+              },
+              "IsClip": "false",
+              "ClipDetails": {
+                "TechnicalResourceDetailsReference": "T1P",
+                "ClipType": "Preview",
+                "Timing": {
+                  "StartPoint": "48000",
+                  "EndPoint": "78000",
+                  "DurationUsed": "P0DT0H0M30.000S"
+                },
+                "ExpressionType": "Instructive"
+              }
+            }
+          },
+          "DisplayTitleText": {
+            "@LanguageAndScriptCode": "fr",
+            "#text": "Gnossienne No. 1: Lent"
+          },
+          "DisplayTitle": {
+            "@LanguageAndScriptCode": "fr",
+            "TitleText": "Gnossienne No. 1: Lent"
+          },
+          "DisplayArtistName": "Olga Scheps",
+          "DisplayArtist": [
+            {
+              "@SequenceNumber": "1",
+              "ArtistPartyReference": "P_ARTIST_2510",
+              "DisplayArtistRole": "MainArtist",
+              "ArtisticRole": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Piano",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "2",
+              "ArtistPartyReference": "P_ARTIST_2770501",
+              "DisplayArtistRole": "Composer"
+            }
+          ],
+          "Contributor": {
+            "@SequenceNumber": "1",
+            "ContributorPartyReference": "P_ARTIST_1727105",
+            "Role": "Engineer"
+          },
+          "Duration": "PT0H3M7S",
+          "ParentalWarningType": "ExplicitContentEdited"
+        },
+        {
+          "ResourceReference": "A2",
+          "Type": "MusicalWorkSoundRecording",
+          "SoundRecordingEdition": {
+            "Type": "NonImmersiveEdition",
+            "ResourceId": {
+              "ISRC": "DEE861600237"
+            },
+            "PLine": {
+              "Year": "2016",
+              "PLineText": "(P) 2016 Sony Music Entertainment Germany GmbH"
+            },
+            "TechnicalDetails": {
+              "TechnicalResourceDetailsReference": "T2",
+              "DeliveryFile": {
+                "Type": "AudioFile",
+                "AudioCodecType": "MP3",
+                "BitRate": {
+                  "@UnitOfMeasure": "kbps",
+                  "#text": "320"
+                },
+                "NumberOfChannels": "2",
+                "SamplingRate": {
+                  "@UnitOfMeasure": "kHz",
+                  "#text": "44.1"
+                },
+                "BitsPerSample": "16",
+                "File": {
+                  "URI": "https://mgsrv-aws.smecde.com/rd/adc2642f8b/20122/39476129.20122.mp3?oauth_consumer_key=kuc&tag=9466b776449115e095306f5ad9981256&oauth_timestamp=1738313658&oauth_signature=6AW0DglsdNZnDKPJjf6BL1s1gVA%3D",
+                  "HashSum": {
+                    "Algorithm": "MD5",
+                    "HashSumValue": "9466b776449115e095306f5ad9981256"
+                  },
+                  "FileSize": "4852873"
+                },
+                "IsProvidedInDelivery": "false"
+              },
+              "IsClip": "false",
+              "ClipDetails": {
+                "TechnicalResourceDetailsReference": "T2P",
+                "ClipType": "Preview",
+                "Timing": {
+                  "StartPoint": "48000",
+                  "EndPoint": "78000",
+                  "DurationUsed": "P0DT0H0M30.000S"
+                },
+                "ExpressionType": "Instructive"
+              }
+            }
+          },
+          "DisplayTitleText": {
+            "@LanguageAndScriptCode": "fr",
+            "#text": "Gnossienne No. 2: Avec \u00e9tonnement"
+          },
+          "DisplayTitle": {
+            "@LanguageAndScriptCode": "fr",
+            "TitleText": "Gnossienne No. 2: Avec \u00e9tonnement"
+          },
+          "DisplayArtistName": "Olga Scheps",
+          "DisplayArtist": [
+            {
+              "@SequenceNumber": "1",
+              "ArtistPartyReference": "P_ARTIST_2510",
+              "DisplayArtistRole": "MainArtist",
+              "ArtisticRole": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Piano",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "2",
+              "ArtistPartyReference": "P_ARTIST_2770501",
+              "DisplayArtistRole": "Composer"
+            }
+          ],
+          "Contributor": {
+            "@SequenceNumber": "1",
+            "ContributorPartyReference": "P_ARTIST_1727105",
+            "Role": "Engineer"
+          },
+          "Duration": "PT0H2M1S",
+          "ParentalWarningType": "ExplicitContentEdited"
+        },
+        {
+          "ResourceReference": "A3",
+          "Type": "MusicalWorkSoundRecording",
+          "SoundRecordingEdition": {
+            "Type": "NonImmersiveEdition",
+            "ResourceId": {
+              "ISRC": "DEE861600238"
+            },
+            "PLine": {
+              "Year": "2016",
+              "PLineText": "(P) 2016 Sony Music Entertainment Germany GmbH"
+            },
+            "TechnicalDetails": {
+              "TechnicalResourceDetailsReference": "T3",
+              "DeliveryFile": {
+                "Type": "AudioFile",
+                "AudioCodecType": "MP3",
+                "BitRate": {
+                  "@UnitOfMeasure": "kbps",
+                  "#text": "320"
+                },
+                "NumberOfChannels": "2",
+                "SamplingRate": {
+                  "@UnitOfMeasure": "kHz",
+                  "#text": "44.1"
+                },
+                "BitsPerSample": "16",
+                "File": {
+                  "URI": "https://mgsrv-aws.smecde.com/rd/e0ac642f8b/20122/39476131.20122.mp3?oauth_consumer_key=kuc&tag=cdc061d4564d8b43ba404f8f115a640a&oauth_timestamp=1738313658&oauth_signature=cUxXY7S6qvvD3h00HjLsEbjdKcQ%3D",
+                  "HashSum": {
+                    "Algorithm": "MD5",
+                    "HashSumValue": "cdc061d4564d8b43ba404f8f115a640a"
+                  },
+                  "FileSize": "6075392"
+                },
+                "IsProvidedInDelivery": "false"
+              },
+              "IsClip": "false",
+              "ClipDetails": {
+                "TechnicalResourceDetailsReference": "T3P",
+                "ClipType": "Preview",
+                "Timing": {
+                  "StartPoint": "48000",
+                  "EndPoint": "78000",
+                  "DurationUsed": "P0DT0H0M30.000S"
+                },
+                "ExpressionType": "Instructive"
+              }
+            }
+          },
+          "DisplayTitleText": {
+            "@LanguageAndScriptCode": "fr",
+            "#text": "Gnossienne No. 3: Lent"
+          },
+          "DisplayTitle": {
+            "@LanguageAndScriptCode": "fr",
+            "TitleText": "Gnossienne No. 3: Lent"
+          },
+          "DisplayArtistName": "Olga Scheps",
+          "DisplayArtist": [
+            {
+              "@SequenceNumber": "1",
+              "ArtistPartyReference": "P_ARTIST_2510",
+              "DisplayArtistRole": "MainArtist",
+              "ArtisticRole": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Piano",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "2",
+              "ArtistPartyReference": "P_ARTIST_2770501",
+              "DisplayArtistRole": "Composer"
+            }
+          ],
+          "Contributor": {
+            "@SequenceNumber": "1",
+            "ContributorPartyReference": "P_ARTIST_1727105",
+            "Role": "Engineer"
+          },
+          "Duration": "PT0H2M31S",
+          "ParentalWarningType": "ExplicitContentEdited"
+        },
+        {
+          "ResourceReference": "A4",
+          "Type": "MusicalWorkSoundRecording",
+          "SoundRecordingEdition": {
+            "Type": "NonImmersiveEdition",
+            "ResourceId": {
+              "ISRC": "DEE861600239"
+            },
+            "PLine": {
+              "Year": "2016",
+              "PLineText": "(P) 2016 Sony Music Entertainment Germany GmbH"
+            },
+            "TechnicalDetails": {
+              "TechnicalResourceDetailsReference": "T4",
+              "DeliveryFile": {
+                "Type": "AudioFile",
+                "AudioCodecType": "MP3",
+                "BitRate": {
+                  "@UnitOfMeasure": "kbps",
+                  "#text": "320"
+                },
+                "NumberOfChannels": "2",
+                "SamplingRate": {
+                  "@UnitOfMeasure": "kHz",
+                  "#text": "44.1"
+                },
+                "BitsPerSample": "16",
+                "File": {
+                  "URI": "https://mgsrv-aws.smecde.com/rd/2476742f8b/20122/39476133.20122.mp3?oauth_consumer_key=kuc&tag=3d7b7dbd8691432c05d7f2bde797430c&oauth_timestamp=1738313658&oauth_signature=ERxE8p4sn5KGAC3QDuyF0D991pU%3D",
+                  "HashSum": {
+                    "Algorithm": "MD5",
+                    "HashSumValue": "3d7b7dbd8691432c05d7f2bde797430c"
+                  },
+                  "FileSize": "6759801"
+                },
+                "IsProvidedInDelivery": "false"
+              },
+              "IsClip": "false",
+              "ClipDetails": {
+                "TechnicalResourceDetailsReference": "T4P",
+                "ClipType": "Preview",
+                "Timing": {
+                  "StartPoint": "48000",
+                  "EndPoint": "78000",
+                  "DurationUsed": "P0DT0H0M30.000S"
+                },
+                "ExpressionType": "Instructive"
+              }
+            }
+          },
+          "DisplayTitleText": {
+            "@LanguageAndScriptCode": "fr",
+            "#text": "Gnossienne No. 4: Lent"
+          },
+          "DisplayTitle": {
+            "@LanguageAndScriptCode": "fr",
+            "TitleText": "Gnossienne No. 4: Lent"
+          },
+          "DisplayArtistName": "Olga Scheps",
+          "DisplayArtist": [
+            {
+              "@SequenceNumber": "1",
+              "ArtistPartyReference": "P_ARTIST_2510",
+              "DisplayArtistRole": "MainArtist",
+              "ArtisticRole": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Piano",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "2",
+              "ArtistPartyReference": "P_ARTIST_2770501",
+              "DisplayArtistRole": "Composer"
+            }
+          ],
+          "Contributor": {
+            "@SequenceNumber": "1",
+            "ContributorPartyReference": "P_ARTIST_1727105",
+            "Role": "Engineer"
+          },
+          "Duration": "PT0H2M48S",
+          "ParentalWarningType": "ExplicitContentEdited"
+        },
+        {
+          "ResourceReference": "A5",
+          "Type": "MusicalWorkSoundRecording",
+          "SoundRecordingEdition": {
+            "Type": "NonImmersiveEdition",
+            "ResourceId": {
+              "ISRC": "DEE861600240"
+            },
+            "PLine": {
+              "Year": "2016",
+              "PLineText": "(P) 2016 Sony Music Entertainment Germany GmbH"
+            },
+            "TechnicalDetails": {
+              "TechnicalResourceDetailsReference": "T5",
+              "DeliveryFile": {
+                "Type": "AudioFile",
+                "AudioCodecType": "MP3",
+                "BitRate": {
+                  "@UnitOfMeasure": "kbps",
+                  "#text": "320"
+                },
+                "NumberOfChannels": "2",
+                "SamplingRate": {
+                  "@UnitOfMeasure": "kHz",
+                  "#text": "44.1"
+                },
+                "BitsPerSample": "16",
+                "File": {
+                  "URI": "https://mgsrv-aws.smecde.com/rd/6740842f8b/20122/39476135.20122.mp3?oauth_consumer_key=kuc&tag=f12ef9d440e506a871d7153d2d94c73a&oauth_timestamp=1738313658&oauth_signature=OLGStMIrt%2BdJMlu16yK%2FxSjD1KE%3D",
+                  "HashSum": {
+                    "Algorithm": "MD5",
+                    "HashSumValue": "f12ef9d440e506a871d7153d2d94c73a"
+                  },
+                  "FileSize": "8682415"
+                },
+                "IsProvidedInDelivery": "false"
+              },
+              "IsClip": "false",
+              "ClipDetails": {
+                "TechnicalResourceDetailsReference": "T5P",
+                "ClipType": "Preview",
+                "Timing": {
+                  "StartPoint": "48000",
+                  "EndPoint": "78000",
+                  "DurationUsed": "P0DT0H0M30.000S"
+                },
+                "ExpressionType": "Instructive"
+              }
+            }
+          },
+          "DisplayTitleText": {
+            "@LanguageAndScriptCode": "fr",
+            "#text": "Gnossienne No. 5: Mod\u00e9r\u00e9"
+          },
+          "DisplayTitle": {
+            "@LanguageAndScriptCode": "fr",
+            "TitleText": "Gnossienne No. 5: Mod\u00e9r\u00e9"
+          },
+          "DisplayArtistName": "Olga Scheps",
+          "DisplayArtist": [
+            {
+              "@SequenceNumber": "1",
+              "ArtistPartyReference": "P_ARTIST_2510",
+              "DisplayArtistRole": "MainArtist",
+              "ArtisticRole": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Piano",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "2",
+              "ArtistPartyReference": "P_ARTIST_2770501",
+              "DisplayArtistRole": "Composer"
+            }
+          ],
+          "Contributor": {
+            "@SequenceNumber": "1",
+            "ContributorPartyReference": "P_ARTIST_1727105",
+            "Role": "Engineer"
+          },
+          "Duration": "PT0H3M36S",
+          "ParentalWarningType": "ExplicitContentEdited"
+        },
+        {
+          "ResourceReference": "A6",
+          "Type": "MusicalWorkSoundRecording",
+          "SoundRecordingEdition": {
+            "Type": "NonImmersiveEdition",
+            "ResourceId": {
+              "ISRC": "DEE861600241"
+            },
+            "PLine": {
+              "Year": "2016",
+              "PLineText": "(P) 2016 Sony Music Entertainment Germany GmbH"
+            },
+            "TechnicalDetails": {
+              "TechnicalResourceDetailsReference": "T6",
+              "DeliveryFile": {
+                "Type": "AudioFile",
+                "AudioCodecType": "MP3",
+                "BitRate": {
+                  "@UnitOfMeasure": "kbps",
+                  "#text": "320"
+                },
+                "NumberOfChannels": "2",
+                "SamplingRate": {
+                  "@UnitOfMeasure": "kHz",
+                  "#text": "44.1"
+                },
+                "BitsPerSample": "16",
+                "File": {
+                  "URI": "https://mgsrv-aws.smecde.com/rd/aa1a842f8b/20122/39476137.20122.mp3?oauth_consumer_key=kuc&tag=a434a6e19df32a8a7b3060a88f0677cc&oauth_timestamp=1738313658&oauth_signature=ujdNtXfJ3GOHlcXaREYur48t%2BdM%3D",
+                  "HashSum": {
+                    "Algorithm": "MD5",
+                    "HashSumValue": "a434a6e19df32a8a7b3060a88f0677cc"
+                  },
+                  "FileSize": "6038865"
+                },
+                "IsProvidedInDelivery": "false"
+              },
+              "IsClip": "false",
+              "ClipDetails": {
+                "TechnicalResourceDetailsReference": "T6P",
+                "ClipType": "Preview",
+                "Timing": {
+                  "StartPoint": "48000",
+                  "EndPoint": "78000",
+                  "DurationUsed": "P0DT0H0M30.000S"
+                },
+                "ExpressionType": "Instructive"
+              }
+            }
+          },
+          "DisplayTitleText": {
+            "@LanguageAndScriptCode": "fr",
+            "#text": "Gnossienne No. 6: Avec conviction et avec une tristesse rigoureuse"
+          },
+          "DisplayTitle": {
+            "@LanguageAndScriptCode": "fr",
+            "TitleText": "Gnossienne No. 6: Avec conviction et avec une tristesse rigoureuse"
+          },
+          "DisplayArtistName": "Olga Scheps",
+          "DisplayArtist": [
+            {
+              "@SequenceNumber": "1",
+              "ArtistPartyReference": "P_ARTIST_2510",
+              "DisplayArtistRole": "MainArtist",
+              "ArtisticRole": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Piano",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "2",
+              "ArtistPartyReference": "P_ARTIST_2770501",
+              "DisplayArtistRole": "Composer"
+            }
+          ],
+          "Contributor": {
+            "@SequenceNumber": "1",
+            "ContributorPartyReference": "P_ARTIST_1727105",
+            "Role": "Engineer"
+          },
+          "Duration": "PT0H2M30S",
+          "ParentalWarningType": "ExplicitContentEdited"
+        },
+        {
+          "ResourceReference": "A7",
+          "Type": "MusicalWorkSoundRecording",
+          "SoundRecordingEdition": {
+            "Type": "NonImmersiveEdition",
+            "ResourceId": {
+              "ISRC": "DEE861600242"
+            },
+            "PLine": {
+              "Year": "2016",
+              "PLineText": "(P) 2016 Sony Music Entertainment Germany GmbH"
+            },
+            "TechnicalDetails": {
+              "TechnicalResourceDetailsReference": "T7",
+              "DeliveryFile": {
+                "Type": "AudioFile",
+                "AudioCodecType": "MP3",
+                "BitRate": {
+                  "@UnitOfMeasure": "kbps",
+                  "#text": "320"
+                },
+                "NumberOfChannels": "2",
+                "SamplingRate": {
+                  "@UnitOfMeasure": "kHz",
+                  "#text": "44.1"
+                },
+                "BitsPerSample": "16",
+                "File": {
+                  "URI": "https://mgsrv-aws.smecde.com/rd/ede3942f8b/20122/39476139.20122.mp3?oauth_consumer_key=kuc&tag=ff79c484897c99efc859dc06104fc191&oauth_timestamp=1738313658&oauth_signature=mFZNFaJBBLQKDb2ohpJztlF33M0%3D",
+                  "HashSum": {
+                    "Algorithm": "MD5",
+                    "HashSumValue": "ff79c484897c99efc859dc06104fc191"
+                  },
+                  "FileSize": "1856129"
+                },
+                "IsProvidedInDelivery": "false"
+              },
+              "IsClip": "false",
+              "ClipDetails": {
+                "TechnicalResourceDetailsReference": "T7P",
+                "ClipType": "Preview",
+                "Timing": {
+                  "StartPoint": "16307",
+                  "EndPoint": "46307",
+                  "DurationUsed": "P0DT0H0M30.000S"
+                },
+                "ExpressionType": "Instructive"
+              }
+            }
+          },
+          "DisplayTitleText": {
+            "@LanguageAndScriptCode": "fr",
+            "#text": "Cinq Grimaces pour le songe d'une nuit d'\u00e9t\u00e9: I. Pr\u00e9ambule"
+          },
+          "DisplayTitle": {
+            "@LanguageAndScriptCode": "fr",
+            "TitleText": "Cinq Grimaces pour le songe d'une nuit d'\u00e9t\u00e9: I. Pr\u00e9ambule"
+          },
+          "AdditionalTitle": [
+            {
+              "@LanguageAndScriptCode": "fr",
+              "@TitleType": "GroupingTitle",
+              "TitleText": "Cinq Grimaces pour le songe d'une nuit d'\u00e9t\u00e9"
+            },
+            {
+              "@LanguageAndScriptCode": "fr",
+              "@TitleType": "FormalTitle",
+              "TitleText": "I. Pr\u00e9ambule"
+            }
+          ],
+          "DisplayArtistName": "Olga Scheps",
+          "DisplayArtist": [
+            {
+              "@SequenceNumber": "1",
+              "ArtistPartyReference": "P_ARTIST_2510",
+              "DisplayArtistRole": "MainArtist",
+              "ArtisticRole": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Piano",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "2",
+              "ArtistPartyReference": "P_ARTIST_2770501",
+              "DisplayArtistRole": "Composer"
+            }
+          ],
+          "Contributor": {
+            "@SequenceNumber": "1",
+            "ContributorPartyReference": "P_ARTIST_1727105",
+            "Role": "Engineer"
+          },
+          "Duration": "PT0H0M46S",
+          "ParentalWarningType": "ExplicitContentEdited"
+        },
+        {
+          "ResourceReference": "A8",
+          "Type": "MusicalWorkSoundRecording",
+          "SoundRecordingEdition": {
+            "Type": "NonImmersiveEdition",
+            "ResourceId": {
+              "ISRC": "DEE861600243"
+            },
+            "PLine": {
+              "Year": "2016",
+              "PLineText": "(P) 2016 Sony Music Entertainment Germany GmbH"
+            },
+            "TechnicalDetails": {
+              "TechnicalResourceDetailsReference": "T8",
+              "DeliveryFile": {
+                "Type": "AudioFile",
+                "AudioCodecType": "MP3",
+                "BitRate": {
+                  "@UnitOfMeasure": "kbps",
+                  "#text": "320"
+                },
+                "NumberOfChannels": "2",
+                "SamplingRate": {
+                  "@UnitOfMeasure": "kHz",
+                  "#text": "44.1"
+                },
+                "BitsPerSample": "16",
+                "File": {
+                  "URI": "https://mgsrv-aws.smecde.com/rd/21cd942f8b/20122/39476141.20122.mp3?oauth_consumer_key=kuc&tag=2546d7d01cb41357059b04ad97809d38&oauth_timestamp=1738313658&oauth_signature=Bh7CWm86nM07meUIffMViTT83Q0%3D",
+                  "HashSum": {
+                    "Algorithm": "MD5",
+                    "HashSumValue": "2546d7d01cb41357059b04ad97809d38"
+                  },
+                  "FileSize": "1722386"
+                },
+                "IsProvidedInDelivery": "false"
+              },
+              "IsClip": "false",
+              "ClipDetails": {
+                "TechnicalResourceDetailsReference": "T8P",
+                "ClipType": "Preview",
+                "Timing": {
+                  "StartPoint": "12973",
+                  "EndPoint": "42973",
+                  "DurationUsed": "P0DT0H0M30.000S"
+                },
+                "ExpressionType": "Instructive"
+              }
+            }
+          },
+          "DisplayTitleText": {
+            "@LanguageAndScriptCode": "fr",
+            "#text": "Cinq Grimaces pour le songe d'une nuit d'\u00e9t\u00e9: II. Coquecigrue"
+          },
+          "DisplayTitle": {
+            "@LanguageAndScriptCode": "fr",
+            "TitleText": "Cinq Grimaces pour le songe d'une nuit d'\u00e9t\u00e9: II. Coquecigrue"
+          },
+          "AdditionalTitle": [
+            {
+              "@LanguageAndScriptCode": "fr",
+              "@TitleType": "GroupingTitle",
+              "TitleText": "Cinq Grimaces pour le songe d'une nuit d'\u00e9t\u00e9"
+            },
+            {
+              "@LanguageAndScriptCode": "fr",
+              "@TitleType": "FormalTitle",
+              "TitleText": "II. Coquecigrue"
+            }
+          ],
+          "DisplayArtistName": "Olga Scheps",
+          "DisplayArtist": [
+            {
+              "@SequenceNumber": "1",
+              "ArtistPartyReference": "P_ARTIST_2510",
+              "DisplayArtistRole": "MainArtist",
+              "ArtisticRole": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Piano",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "2",
+              "ArtistPartyReference": "P_ARTIST_2770501",
+              "DisplayArtistRole": "Composer"
+            }
+          ],
+          "Contributor": {
+            "@SequenceNumber": "1",
+            "ContributorPartyReference": "P_ARTIST_1727105",
+            "Role": "Engineer"
+          },
+          "Duration": "PT0H0M42S",
+          "ParentalWarningType": "ExplicitContentEdited"
+        },
+        {
+          "ResourceReference": "A9",
+          "Type": "MusicalWorkSoundRecording",
+          "SoundRecordingEdition": {
+            "Type": "NonImmersiveEdition",
+            "ResourceId": {
+              "ISRC": "DEE861600244"
+            },
+            "PLine": {
+              "Year": "2016",
+              "PLineText": "(P) 2016 Sony Music Entertainment Germany GmbH"
+            },
+            "TechnicalDetails": {
+              "TechnicalResourceDetailsReference": "T9",
+              "DeliveryFile": {
+                "Type": "AudioFile",
+                "AudioCodecType": "MP3",
+                "BitRate": {
+                  "@UnitOfMeasure": "kbps",
+                  "#text": "320"
+                },
+                "NumberOfChannels": "2",
+                "SamplingRate": {
+                  "@UnitOfMeasure": "kHz",
+                  "#text": "44.1"
+                },
+                "BitsPerSample": "16",
+                "File": {
+                  "URI": "https://mgsrv-aws.smecde.com/rd/6497a42f8b/20122/39476143.20122.mp3?oauth_consumer_key=kuc&tag=83f186a2027e20c287799db404be9492&oauth_timestamp=1738313658&oauth_signature=OtYNXDYrkEjOebEiOFttg%2Bj7iZw%3D",
+                  "HashSum": {
+                    "Algorithm": "MD5",
+                    "HashSumValue": "83f186a2027e20c287799db404be9492"
+                  },
+                  "FileSize": "1344128"
+                },
+                "IsProvidedInDelivery": "false"
+              },
+              "IsClip": "false",
+              "ClipDetails": {
+                "TechnicalResourceDetailsReference": "T9P",
+                "ClipType": "Preview",
+                "Timing": {
+                  "StartPoint": "3520",
+                  "EndPoint": "33520",
+                  "DurationUsed": "P0DT0H0M30.000S"
+                },
+                "ExpressionType": "Instructive"
+              }
+            }
+          },
+          "DisplayTitleText": {
+            "@LanguageAndScriptCode": "fr",
+            "#text": "Cinq Grimaces pour le songe d'une nuit d'\u00e9t\u00e9: III. Chasse"
+          },
+          "DisplayTitle": {
+            "@LanguageAndScriptCode": "fr",
+            "TitleText": "Cinq Grimaces pour le songe d'une nuit d'\u00e9t\u00e9: III. Chasse"
+          },
+          "AdditionalTitle": [
+            {
+              "@LanguageAndScriptCode": "fr",
+              "@TitleType": "GroupingTitle",
+              "TitleText": "Cinq Grimaces pour le songe d'une nuit d'\u00e9t\u00e9"
+            },
+            {
+              "@LanguageAndScriptCode": "fr",
+              "@TitleType": "FormalTitle",
+              "TitleText": "III. Chasse"
+            }
+          ],
+          "DisplayArtistName": "Olga Scheps",
+          "DisplayArtist": [
+            {
+              "@SequenceNumber": "1",
+              "ArtistPartyReference": "P_ARTIST_2510",
+              "DisplayArtistRole": "MainArtist",
+              "ArtisticRole": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Piano",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "2",
+              "ArtistPartyReference": "P_ARTIST_2770501",
+              "DisplayArtistRole": "Composer"
+            }
+          ],
+          "Contributor": {
+            "@SequenceNumber": "1",
+            "ContributorPartyReference": "P_ARTIST_1727105",
+            "Role": "Engineer"
+          },
+          "Duration": "PT0H0M33S",
+          "ParentalWarningType": "ExplicitContentEdited"
+        },
+        {
+          "ResourceReference": "A10",
+          "Type": "MusicalWorkSoundRecording",
+          "SoundRecordingEdition": {
+            "Type": "NonImmersiveEdition",
+            "ResourceId": {
+              "ISRC": "DEE861600245"
+            },
+            "PLine": {
+              "Year": "2016",
+              "PLineText": "(P) 2016 Sony Music Entertainment Germany GmbH"
+            },
+            "TechnicalDetails": {
+              "TechnicalResourceDetailsReference": "T10",
+              "DeliveryFile": {
+                "Type": "AudioFile",
+                "AudioCodecType": "MP3",
+                "BitRate": {
+                  "@UnitOfMeasure": "kbps",
+                  "#text": "320"
+                },
+                "NumberOfChannels": "2",
+                "SamplingRate": {
+                  "@UnitOfMeasure": "kHz",
+                  "#text": "44.1"
+                },
+                "BitsPerSample": "16",
+                "File": {
+                  "URI": "https://mgsrv-aws.smecde.com/rd/a761b42f8b/20122/39476145.20122.mp3?oauth_consumer_key=kuc&tag=691a78e98c03a6840893851e23c2eca1&oauth_timestamp=1738313658&oauth_signature=y8VrAEM9NQNIEO%2B9PuIZ3RxVon8%3D",
+                  "HashSum": {
+                    "Algorithm": "MD5",
+                    "HashSumValue": "691a78e98c03a6840893851e23c2eca1"
+                  },
+                  "FileSize": "899008"
+                },
+                "IsProvidedInDelivery": "false"
+              },
+              "IsClip": "false",
+              "ClipDetails": {
+                "TechnicalResourceDetailsReference": "T10P",
+                "ClipType": "Preview",
+                "Timing": {
+                  "StartPoint": "0",
+                  "EndPoint": "22400",
+                  "DurationUsed": "P0DT0H0M22.400S"
+                },
+                "ExpressionType": "Instructive"
+              }
+            }
+          },
+          "DisplayTitleText": {
+            "@LanguageAndScriptCode": "fr",
+            "#text": "Cinq Grimaces pour le songe d'une nuit d'\u00e9t\u00e9: IV. Fanfaronnade"
+          },
+          "DisplayTitle": {
+            "@LanguageAndScriptCode": "fr",
+            "TitleText": "Cinq Grimaces pour le songe d'une nuit d'\u00e9t\u00e9: IV. Fanfaronnade"
+          },
+          "AdditionalTitle": [
+            {
+              "@LanguageAndScriptCode": "fr",
+              "@TitleType": "GroupingTitle",
+              "TitleText": "Cinq Grimaces pour le songe d'une nuit d'\u00e9t\u00e9"
+            },
+            {
+              "@LanguageAndScriptCode": "fr",
+              "@TitleType": "FormalTitle",
+              "TitleText": "IV. Fanfaronnade"
+            }
+          ],
+          "DisplayArtistName": "Olga Scheps",
+          "DisplayArtist": [
+            {
+              "@SequenceNumber": "1",
+              "ArtistPartyReference": "P_ARTIST_2510",
+              "DisplayArtistRole": "MainArtist",
+              "ArtisticRole": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Piano",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "2",
+              "ArtistPartyReference": "P_ARTIST_2770501",
+              "DisplayArtistRole": "Composer"
+            }
+          ],
+          "Contributor": {
+            "@SequenceNumber": "1",
+            "ContributorPartyReference": "P_ARTIST_1727105",
+            "Role": "Engineer"
+          },
+          "Duration": "PT0H0M22S",
+          "ParentalWarningType": "ExplicitContentEdited"
+        },
+        {
+          "ResourceReference": "A11",
+          "Type": "MusicalWorkSoundRecording",
+          "SoundRecordingEdition": {
+            "Type": "NonImmersiveEdition",
+            "ResourceId": {
+              "ISRC": "DEE861600246"
+            },
+            "PLine": {
+              "Year": "2016",
+              "PLineText": "(P) 2016 Sony Music Entertainment Germany GmbH"
+            },
+            "TechnicalDetails": {
+              "TechnicalResourceDetailsReference": "T11",
+              "DeliveryFile": {
+                "Type": "AudioFile",
+                "AudioCodecType": "MP3",
+                "BitRate": {
+                  "@UnitOfMeasure": "kbps",
+                  "#text": "320"
+                },
+                "NumberOfChannels": "2",
+                "SamplingRate": {
+                  "@UnitOfMeasure": "kHz",
+                  "#text": "44.1"
+                },
+                "BitsPerSample": "16",
+                "File": {
+                  "URI": "https://mgsrv-aws.smecde.com/rd/ea3bb42f8b/20122/39476147.20122.mp3?oauth_consumer_key=kuc&tag=b3a738257148f69b0fa956c65df6f252&oauth_timestamp=1738313658&oauth_signature=5Upbsq%2Fnn16F7y4SwmFtHa7c14A%3D",
+                  "HashSum": {
+                    "Algorithm": "MD5",
+                    "HashSumValue": "b3a738257148f69b0fa956c65df6f252"
+                  },
+                  "FileSize": "2457994"
+                },
+                "IsProvidedInDelivery": "false"
+              },
+              "IsClip": "false",
+              "ClipDetails": {
+                "TechnicalResourceDetailsReference": "T11P",
+                "ClipType": "Preview",
+                "Timing": {
+                  "StartPoint": "31360",
+                  "EndPoint": "61360",
+                  "DurationUsed": "P0DT0H0M30.000S"
+                },
+                "ExpressionType": "Instructive"
+              }
+            }
+          },
+          "DisplayTitleText": {
+            "@LanguageAndScriptCode": "fr",
+            "#text": "Cinq Grimaces pour le songe d'une nuit d'\u00e9t\u00e9: V. Pour sortir"
+          },
+          "DisplayTitle": {
+            "@LanguageAndScriptCode": "fr",
+            "TitleText": "Cinq Grimaces pour le songe d'une nuit d'\u00e9t\u00e9: V. Pour sortir"
+          },
+          "AdditionalTitle": [
+            {
+              "@LanguageAndScriptCode": "fr",
+              "@TitleType": "GroupingTitle",
+              "TitleText": "Cinq Grimaces pour le songe d'une nuit d'\u00e9t\u00e9"
+            },
+            {
+              "@LanguageAndScriptCode": "fr",
+              "@TitleType": "FormalTitle",
+              "TitleText": "V. Pour sortir"
+            }
+          ],
+          "DisplayArtistName": "Olga Scheps",
+          "DisplayArtist": [
+            {
+              "@SequenceNumber": "1",
+              "ArtistPartyReference": "P_ARTIST_2510",
+              "DisplayArtistRole": "MainArtist",
+              "ArtisticRole": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Piano",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "2",
+              "ArtistPartyReference": "P_ARTIST_2770501",
+              "DisplayArtistRole": "Composer"
+            }
+          ],
+          "Contributor": {
+            "@SequenceNumber": "1",
+            "ContributorPartyReference": "P_ARTIST_1727105",
+            "Role": "Engineer"
+          },
+          "Duration": "PT0H1M1S",
+          "ParentalWarningType": "ExplicitContentEdited"
+        },
+        {
+          "ResourceReference": "A12",
+          "Type": "MusicalWorkSoundRecording",
+          "SoundRecordingEdition": {
+            "Type": "NonImmersiveEdition",
+            "ResourceId": {
+              "ISRC": "DEE861600233"
+            },
+            "PLine": {
+              "Year": "2016",
+              "PLineText": "(P) 2016 Sony Music Entertainment Germany GmbH"
+            },
+            "TechnicalDetails": {
+              "TechnicalResourceDetailsReference": "T12",
+              "DeliveryFile": {
+                "Type": "AudioFile",
+                "AudioCodecType": "MP3",
+                "BitRate": {
+                  "@UnitOfMeasure": "kbps",
+                  "#text": "320"
+                },
+                "NumberOfChannels": "2",
+                "SamplingRate": {
+                  "@UnitOfMeasure": "kHz",
+                  "#text": "44.1"
+                },
+                "BitsPerSample": "16",
+                "File": {
+                  "URI": "https://mgsrv-aws.smecde.com/rd/2e05c42f8b/20122/39476149.20122.mp3?oauth_consumer_key=kuc&tag=719ebc3dc8b4a59d471987aa9a239e45&oauth_timestamp=1738313658&oauth_signature=r2ArcXx4F5KLHPd9bFuJow10%2Bi4%3D",
+                  "HashSum": {
+                    "Algorithm": "MD5",
+                    "HashSumValue": "719ebc3dc8b4a59d471987aa9a239e45"
+                  },
+                  "FileSize": "7596792"
+                },
+                "IsProvidedInDelivery": "false"
+              },
+              "IsClip": "false",
+              "ClipDetails": {
+                "TechnicalResourceDetailsReference": "T12P",
+                "ClipType": "Preview",
+                "Timing": {
+                  "StartPoint": "48000",
+                  "EndPoint": "78000",
+                  "DurationUsed": "P0DT0H0M30.000S"
+                },
+                "ExpressionType": "Instructive"
+              }
+            }
+          },
+          "DisplayTitleText": {
+            "@LanguageAndScriptCode": "fr",
+            "#text": "Gymnop\u00e9die No. 1: Lent et douloureux"
+          },
+          "DisplayTitle": {
+            "@LanguageAndScriptCode": "fr",
+            "TitleText": "Gymnop\u00e9die No. 1: Lent et douloureux"
+          },
+          "DisplayArtistName": "Olga Scheps",
+          "DisplayArtist": [
+            {
+              "@SequenceNumber": "1",
+              "ArtistPartyReference": "P_ARTIST_2510",
+              "DisplayArtistRole": "MainArtist",
+              "ArtisticRole": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Piano",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "2",
+              "ArtistPartyReference": "P_ARTIST_2770501",
+              "DisplayArtistRole": "Composer"
+            }
+          ],
+          "Contributor": {
+            "@SequenceNumber": "1",
+            "ContributorPartyReference": "P_ARTIST_1727105",
+            "Role": "Engineer"
+          },
+          "Duration": "PT0H3M9S",
+          "ParentalWarningType": "ExplicitContentEdited"
+        },
+        {
+          "ResourceReference": "A13",
+          "Type": "MusicalWorkSoundRecording",
+          "SoundRecordingEdition": {
+            "Type": "NonImmersiveEdition",
+            "ResourceId": {
+              "ISRC": "DEE861600234"
+            },
+            "PLine": {
+              "Year": "2016",
+              "PLineText": "(P) 2016 Sony Music Entertainment Germany GmbH"
+            },
+            "TechnicalDetails": {
+              "TechnicalResourceDetailsReference": "T13",
+              "DeliveryFile": {
+                "Type": "AudioFile",
+                "AudioCodecType": "MP3",
+                "BitRate": {
+                  "@UnitOfMeasure": "kbps",
+                  "#text": "320"
+                },
+                "NumberOfChannels": "2",
+                "SamplingRate": {
+                  "@UnitOfMeasure": "kHz",
+                  "#text": "44.1"
+                },
+                "BitsPerSample": "16",
+                "File": {
+                  "URI": "https://mgsrv-aws.smecde.com/rd/61eec42f8b/20122/39476151.20122.mp3?oauth_consumer_key=kuc&tag=8fe9f6eb7a3fc29f1236371d0066cc62&oauth_timestamp=1738313658&oauth_signature=qOG0euMcD4mX2i4xFlVau9oAGWk%3D",
+                  "HashSum": {
+                    "Algorithm": "MD5",
+                    "HashSumValue": "8fe9f6eb7a3fc29f1236371d0066cc62"
+                  },
+                  "FileSize": "7765003"
+                },
+                "IsProvidedInDelivery": "false"
+              },
+              "IsClip": "false",
+              "ClipDetails": {
+                "TechnicalResourceDetailsReference": "T13P",
+                "ClipType": "Preview",
+                "Timing": {
+                  "StartPoint": "48000",
+                  "EndPoint": "78000",
+                  "DurationUsed": "P0DT0H0M30.000S"
+                },
+                "ExpressionType": "Instructive"
+              }
+            }
+          },
+          "DisplayTitleText": {
+            "@LanguageAndScriptCode": "fr",
+            "#text": "Gymnop\u00e9die No. 2: Lent et triste"
+          },
+          "DisplayTitle": {
+            "@LanguageAndScriptCode": "fr",
+            "TitleText": "Gymnop\u00e9die No. 2: Lent et triste"
+          },
+          "DisplayArtistName": "Olga Scheps",
+          "DisplayArtist": [
+            {
+              "@SequenceNumber": "1",
+              "ArtistPartyReference": "P_ARTIST_2510",
+              "DisplayArtistRole": "MainArtist",
+              "ArtisticRole": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Piano",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "2",
+              "ArtistPartyReference": "P_ARTIST_2770501",
+              "DisplayArtistRole": "Composer"
+            }
+          ],
+          "Contributor": {
+            "@SequenceNumber": "1",
+            "ContributorPartyReference": "P_ARTIST_1727105",
+            "Role": "Engineer"
+          },
+          "Duration": "PT0H3M14S",
+          "ParentalWarningType": "ExplicitContentEdited"
+        },
+        {
+          "ResourceReference": "A14",
+          "Type": "MusicalWorkSoundRecording",
+          "SoundRecordingEdition": {
+            "Type": "NonImmersiveEdition",
+            "ResourceId": {
+              "ISRC": "DEE861600235"
+            },
+            "PLine": {
+              "Year": "2016",
+              "PLineText": "(P) 2016 Sony Music Entertainment Germany GmbH"
+            },
+            "TechnicalDetails": {
+              "TechnicalResourceDetailsReference": "T14",
+              "DeliveryFile": {
+                "Type": "AudioFile",
+                "AudioCodecType": "MP3",
+                "BitRate": {
+                  "@UnitOfMeasure": "kbps",
+                  "#text": "320"
+                },
+                "NumberOfChannels": "2",
+                "SamplingRate": {
+                  "@UnitOfMeasure": "kHz",
+                  "#text": "44.1"
+                },
+                "BitsPerSample": "16",
+                "File": {
+                  "URI": "https://mgsrv-aws.smecde.com/rd/a4b8d42f8b/20122/39476153.20122.mp3?oauth_consumer_key=kuc&tag=92d02e62a8a75bcb2e64f1777e0a76f5&oauth_timestamp=1738313658&oauth_signature=Jw%2FiUIXsC7fSOvZaEL%2BlUMBZqjs%3D",
+                  "HashSum": {
+                    "Algorithm": "MD5",
+                    "HashSumValue": "92d02e62a8a75bcb2e64f1777e0a76f5"
+                  },
+                  "FileSize": "6001215"
+                },
+                "IsProvidedInDelivery": "false"
+              },
+              "IsClip": "false",
+              "ClipDetails": {
+                "TechnicalResourceDetailsReference": "T14P",
+                "ClipType": "Preview",
+                "Timing": {
+                  "StartPoint": "48000",
+                  "EndPoint": "78000",
+                  "DurationUsed": "P0DT0H0M30.000S"
+                },
+                "ExpressionType": "Instructive"
+              }
+            }
+          },
+          "DisplayTitleText": {
+            "@LanguageAndScriptCode": "fr",
+            "#text": "Gymnop\u00e9die No. 3: Lent et grave"
+          },
+          "DisplayTitle": {
+            "@LanguageAndScriptCode": "fr",
+            "TitleText": "Gymnop\u00e9die No. 3: Lent et grave"
+          },
+          "DisplayArtistName": "Olga Scheps",
+          "DisplayArtist": [
+            {
+              "@SequenceNumber": "1",
+              "ArtistPartyReference": "P_ARTIST_2510",
+              "DisplayArtistRole": "MainArtist",
+              "ArtisticRole": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Piano",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "2",
+              "ArtistPartyReference": "P_ARTIST_2770501",
+              "DisplayArtistRole": "Composer"
+            }
+          ],
+          "Contributor": {
+            "@SequenceNumber": "1",
+            "ContributorPartyReference": "P_ARTIST_1727105",
+            "Role": "Engineer"
+          },
+          "Duration": "PT0H2M29S",
+          "ParentalWarningType": "ExplicitContentEdited"
+        },
+        {
+          "ResourceReference": "A15",
+          "Type": "MusicalWorkSoundRecording",
+          "SoundRecordingEdition": {
+            "Type": "NonImmersiveEdition",
+            "ResourceId": {
+              "ISRC": "DEE861600232"
+            },
+            "PLine": {
+              "Year": "2016",
+              "PLineText": "(P) 2016 Sony Music Entertainment Germany GmbH"
+            },
+            "TechnicalDetails": {
+              "TechnicalResourceDetailsReference": "T15",
+              "DeliveryFile": {
+                "Type": "AudioFile",
+                "AudioCodecType": "MP3",
+                "BitRate": {
+                  "@UnitOfMeasure": "kbps",
+                  "#text": "320"
+                },
+                "NumberOfChannels": "2",
+                "SamplingRate": {
+                  "@UnitOfMeasure": "kHz",
+                  "#text": "44.1"
+                },
+                "BitsPerSample": "16",
+                "File": {
+                  "URI": "https://mgsrv-aws.smecde.com/rd/e782e42f8b/20122/39476155.20122.mp3?oauth_consumer_key=kuc&tag=c0f75246698df3f89124397446a13f2e&oauth_timestamp=1738313658&oauth_signature=BpMFz5y2yTmUNUUlIIo7LFD2dbg%3D",
+                  "HashSum": {
+                    "Algorithm": "MD5",
+                    "HashSumValue": "c0f75246698df3f89124397446a13f2e"
+                  },
+                  "FileSize": "13414745"
+                },
+                "IsProvidedInDelivery": "false"
+              },
+              "IsClip": "false",
+              "ClipDetails": {
+                "TechnicalResourceDetailsReference": "T15P",
+                "ClipType": "Preview",
+                "Timing": {
+                  "StartPoint": "48000",
+                  "EndPoint": "78000",
+                  "DurationUsed": "P0DT0H0M30.000S"
+                },
+                "ExpressionType": "Instructive"
+              }
+            }
+          },
+          "DisplayTitleText": {
+            "@LanguageAndScriptCode": "fr",
+            "#text": "Je te veux"
+          },
+          "DisplayTitle": {
+            "@LanguageAndScriptCode": "fr",
+            "TitleText": "Je te veux"
+          },
+          "DisplayArtistName": "Olga Scheps",
+          "DisplayArtist": [
+            {
+              "@SequenceNumber": "1",
+              "ArtistPartyReference": "P_ARTIST_2510",
+              "DisplayArtistRole": "MainArtist",
+              "ArtisticRole": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Piano",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "2",
+              "ArtistPartyReference": "P_ARTIST_2770501",
+              "DisplayArtistRole": "Composer"
+            }
+          ],
+          "Contributor": {
+            "@SequenceNumber": "1",
+            "ContributorPartyReference": "P_ARTIST_1727105",
+            "Role": "Engineer"
+          },
+          "Duration": "PT0H5M35S",
+          "ParentalWarningType": "ExplicitContentEdited"
+        },
+        {
+          "ResourceReference": "A16",
+          "Type": "MusicalWorkSoundRecording",
+          "SoundRecordingEdition": {
+            "Type": "NonImmersiveEdition",
+            "ResourceId": {
+              "ISRC": "DEE861600248"
+            },
+            "PLine": {
+              "Year": "2016",
+              "PLineText": "(P) 2016 Sony Music Entertainment Germany GmbH"
+            },
+            "TechnicalDetails": {
+              "TechnicalResourceDetailsReference": "T16",
+              "DeliveryFile": {
+                "Type": "AudioFile",
+                "AudioCodecType": "MP3",
+                "BitRate": {
+                  "@UnitOfMeasure": "kbps",
+                  "#text": "320"
+                },
+                "NumberOfChannels": "2",
+                "SamplingRate": {
+                  "@UnitOfMeasure": "kHz",
+                  "#text": "44.1"
+                },
+                "BitsPerSample": "16",
+                "File": {
+                  "URI": "https://mgsrv-aws.smecde.com/rd/2b5ce42f8b/20122/39476157.20122.mp3?oauth_consumer_key=kuc&tag=eded31d5b9342ab5d6fd741b729919ca&oauth_timestamp=1738313658&oauth_signature=Uji6clir8bSZl%2BvBwBE8O7DFSIY%3D",
+                  "HashSum": {
+                    "Algorithm": "MD5",
+                    "HashSumValue": "eded31d5b9342ab5d6fd741b729919ca"
+                  },
+                  "FileSize": "14649830"
+                },
+                "IsProvidedInDelivery": "false"
+              },
+              "IsClip": "false",
+              "ClipDetails": {
+                "TechnicalResourceDetailsReference": "T16P",
+                "ClipType": "Preview",
+                "Timing": {
+                  "StartPoint": "48000",
+                  "EndPoint": "78000",
+                  "DurationUsed": "P0DT0H0M30.000S"
+                },
+                "ExpressionType": "Instructive"
+              }
+            }
+          },
+          "DisplayTitleText": {
+            "@LanguageAndScriptCode": "fr",
+            "#text": "Sarabande No. 1 in F Minor"
+          },
+          "DisplayTitle": {
+            "@LanguageAndScriptCode": "fr",
+            "TitleText": "Sarabande No. 1 in F Minor"
+          },
+          "DisplayArtistName": "Olga Scheps",
+          "DisplayArtist": [
+            {
+              "@SequenceNumber": "1",
+              "ArtistPartyReference": "P_ARTIST_2510",
+              "DisplayArtistRole": "MainArtist",
+              "ArtisticRole": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Piano",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "2",
+              "ArtistPartyReference": "P_ARTIST_2770501",
+              "DisplayArtistRole": "Composer"
+            }
+          ],
+          "Contributor": {
+            "@SequenceNumber": "1",
+            "ContributorPartyReference": "P_ARTIST_1727105",
+            "Role": "Engineer"
+          },
+          "Duration": "PT0H6M6S",
+          "ParentalWarningType": "ExplicitContentEdited"
+        },
+        {
+          "ResourceReference": "A17",
+          "Type": "MusicalWorkSoundRecording",
+          "SoundRecordingEdition": {
+            "Type": "NonImmersiveEdition",
+            "ResourceId": {
+              "ISRC": "DEE861600249"
+            },
+            "PLine": {
+              "Year": "2016",
+              "PLineText": "(P) 2016 Sony Music Entertainment Germany GmbH"
+            },
+            "TechnicalDetails": {
+              "TechnicalResourceDetailsReference": "T17",
+              "DeliveryFile": {
+                "Type": "AudioFile",
+                "AudioCodecType": "MP3",
+                "BitRate": {
+                  "@UnitOfMeasure": "kbps",
+                  "#text": "320"
+                },
+                "NumberOfChannels": "2",
+                "SamplingRate": {
+                  "@UnitOfMeasure": "kHz",
+                  "#text": "44.1"
+                },
+                "BitsPerSample": "16",
+                "File": {
+                  "URI": "https://mgsrv-aws.smecde.com/rd/6e26f42f8b/20122/39476159.20122.mp3?oauth_consumer_key=kuc&tag=cfa1c48f4ce7ebdeaf1d87e38fb40750&oauth_timestamp=1738313658&oauth_signature=apAul%2FHganduvcMxwmMWVcOdukY%3D",
+                  "HashSum": {
+                    "Algorithm": "MD5",
+                    "HashSumValue": "cfa1c48f4ce7ebdeaf1d87e38fb40750"
+                  },
+                  "FileSize": "16737562"
+                },
+                "IsProvidedInDelivery": "false"
+              },
+              "IsClip": "false",
+              "ClipDetails": {
+                "TechnicalResourceDetailsReference": "T17P",
+                "ClipType": "Preview",
+                "Timing": {
+                  "StartPoint": "48000",
+                  "EndPoint": "78000",
+                  "DurationUsed": "P0DT0H0M30.000S"
+                },
+                "ExpressionType": "Instructive"
+              }
+            }
+          },
+          "DisplayTitleText": {
+            "@LanguageAndScriptCode": "fr",
+            "#text": "Sarabande No. 2 in D- Sharp Minor, \"\u00e0 Maurice Ravel\""
+          },
+          "DisplayTitle": {
+            "@LanguageAndScriptCode": "fr",
+            "TitleText": "Sarabande No. 2 in D- Sharp Minor, \"\u00e0 Maurice Ravel\""
+          },
+          "DisplayArtistName": "Olga Scheps",
+          "DisplayArtist": [
+            {
+              "@SequenceNumber": "1",
+              "ArtistPartyReference": "P_ARTIST_2510",
+              "DisplayArtistRole": "MainArtist",
+              "ArtisticRole": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Piano",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "2",
+              "ArtistPartyReference": "P_ARTIST_2770501",
+              "DisplayArtistRole": "Composer"
+            }
+          ],
+          "Contributor": {
+            "@SequenceNumber": "1",
+            "ContributorPartyReference": "P_ARTIST_1727105",
+            "Role": "Engineer"
+          },
+          "Duration": "PT0H6M58S",
+          "ParentalWarningType": "ExplicitContentEdited"
+        },
+        {
+          "ResourceReference": "A18",
+          "Type": "MusicalWorkSoundRecording",
+          "SoundRecordingEdition": {
+            "Type": "NonImmersiveEdition",
+            "ResourceId": {
+              "ISRC": "DEE861600250"
+            },
+            "PLine": {
+              "Year": "2016",
+              "PLineText": "(P) 2016 Sony Music Entertainment Germany GmbH"
+            },
+            "TechnicalDetails": {
+              "TechnicalResourceDetailsReference": "T18",
+              "DeliveryFile": {
+                "Type": "AudioFile",
+                "AudioCodecType": "MP3",
+                "BitRate": {
+                  "@UnitOfMeasure": "kbps",
+                  "#text": "320"
+                },
+                "NumberOfChannels": "2",
+                "SamplingRate": {
+                  "@UnitOfMeasure": "kHz",
+                  "#text": "44.1"
+                },
+                "BitsPerSample": "16",
+                "File": {
+                  "URI": "https://mgsrv-aws.smecde.com/rd/a100052f8b/20122/39476161.20122.mp3?oauth_consumer_key=kuc&tag=eb564fbae1bc4fd610372098fbe7bebe&oauth_timestamp=1738313658&oauth_signature=XjRqRNQQ%2Fc0riooOQv7lfKUkOR4%3D",
+                  "HashSum": {
+                    "Algorithm": "MD5",
+                    "HashSumValue": "eb564fbae1bc4fd610372098fbe7bebe"
+                  },
+                  "FileSize": "16558864"
+                },
+                "IsProvidedInDelivery": "false"
+              },
+              "IsClip": "false",
+              "ClipDetails": {
+                "TechnicalResourceDetailsReference": "T18P",
+                "ClipType": "Preview",
+                "Timing": {
+                  "StartPoint": "48000",
+                  "EndPoint": "78000",
+                  "DurationUsed": "P0DT0H0M30.000S"
+                },
+                "ExpressionType": "Instructive"
+              }
+            }
+          },
+          "DisplayTitleText": {
+            "@LanguageAndScriptCode": "fr",
+            "#text": "Sarabande No. 3 in B-Flat Minor"
+          },
+          "DisplayTitle": {
+            "@LanguageAndScriptCode": "fr",
+            "TitleText": "Sarabande No. 3 in B-Flat Minor"
+          },
+          "DisplayArtistName": "Olga Scheps",
+          "DisplayArtist": [
+            {
+              "@SequenceNumber": "1",
+              "ArtistPartyReference": "P_ARTIST_2510",
+              "DisplayArtistRole": "MainArtist",
+              "ArtisticRole": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Piano",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "2",
+              "ArtistPartyReference": "P_ARTIST_2770501",
+              "DisplayArtistRole": "Composer"
+            }
+          ],
+          "Contributor": {
+            "@SequenceNumber": "1",
+            "ContributorPartyReference": "P_ARTIST_1727105",
+            "Role": "Engineer"
+          },
+          "Duration": "PT0H6M53S",
+          "ParentalWarningType": "ExplicitContentEdited"
+        },
+        {
+          "ResourceReference": "A19",
+          "Type": "MusicalWorkSoundRecording",
+          "SoundRecordingEdition": {
+            "Type": "NonImmersiveEdition",
+            "ResourceId": {
+              "ISRC": "DEE861600247"
+            },
+            "PLine": {
+              "Year": "2016",
+              "PLineText": "(P) 2016 Sony Music Entertainment Germany GmbH"
+            },
+            "TechnicalDetails": {
+              "TechnicalResourceDetailsReference": "T19",
+              "DeliveryFile": {
+                "Type": "AudioFile",
+                "AudioCodecType": "MP3",
+                "BitRate": {
+                  "@UnitOfMeasure": "kbps",
+                  "#text": "320"
+                },
+                "NumberOfChannels": "2",
+                "SamplingRate": {
+                  "@UnitOfMeasure": "kHz",
+                  "#text": "44.1"
+                },
+                "BitsPerSample": "16",
+                "File": {
+                  "URI": "https://mgsrv-aws.smecde.com/rd/e4d9052f8b/20122/39476163.20122.mp3?oauth_consumer_key=kuc&tag=d2c0cc2f351155f5b1bb54094b459726&oauth_timestamp=1738313658&oauth_signature=h8aVOYVFo3v4EjVFAUwXn2eRwOY%3D",
+                  "HashSum": {
+                    "Algorithm": "MD5",
+                    "HashSumValue": "d2c0cc2f351155f5b1bb54094b459726"
+                  },
+                  "FileSize": "10998957"
+                },
+                "IsProvidedInDelivery": "false"
+              },
+              "IsClip": "false",
+              "ClipDetails": {
+                "TechnicalResourceDetailsReference": "T19P",
+                "ClipType": "Preview",
+                "Timing": {
+                  "StartPoint": "48000",
+                  "EndPoint": "78000",
+                  "DurationUsed": "P0DT0H0M30.000S"
+                },
+                "ExpressionType": "Instructive"
+              }
+            }
+          },
+          "DisplayTitleText": {
+            "@LanguageAndScriptCode": "fr",
+            "#text": "Tendrement - Valse chant\u00e9e"
+          },
+          "DisplayTitle": {
+            "@LanguageAndScriptCode": "fr",
+            "TitleText": "Tendrement - Valse chant\u00e9e"
+          },
+          "DisplayArtistName": "Olga Scheps",
+          "DisplayArtist": [
+            {
+              "@SequenceNumber": "1",
+              "ArtistPartyReference": "P_ARTIST_2510",
+              "DisplayArtistRole": "MainArtist",
+              "ArtisticRole": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Piano",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "2",
+              "ArtistPartyReference": "P_ARTIST_2770501",
+              "DisplayArtistRole": "Composer"
+            }
+          ],
+          "Contributor": {
+            "@SequenceNumber": "1",
+            "ContributorPartyReference": "P_ARTIST_1727105",
+            "Role": "Engineer"
+          },
+          "Duration": "PT0H4M34S",
+          "ParentalWarningType": "ExplicitContentEdited"
+        },
+        {
+          "ResourceReference": "A20",
+          "Type": "MusicalWorkSoundRecording",
+          "SoundRecordingEdition": {
+            "Type": "NonImmersiveEdition",
+            "ResourceId": {
+              "ISRC": "DEE861600251"
+            },
+            "PLine": {
+              "Year": "2016",
+              "PLineText": "(P) 2016 Sony Music Entertainment Germany GmbH"
+            },
+            "TechnicalDetails": {
+              "TechnicalResourceDetailsReference": "T20",
+              "DeliveryFile": {
+                "Type": "AudioFile",
+                "AudioCodecType": "MP3",
+                "BitRate": {
+                  "@UnitOfMeasure": "kbps",
+                  "#text": "320"
+                },
+                "NumberOfChannels": "2",
+                "SamplingRate": {
+                  "@UnitOfMeasure": "kHz",
+                  "#text": "44.1"
+                },
+                "BitsPerSample": "16",
+                "File": {
+                  "URI": "https://mgsrv-aws.smecde.com/rd/28a3152f8b/20122/39476165.20122.mp3?oauth_consumer_key=kuc&tag=3b225eaa6bbf80d4afb9e1d5074bd39e&oauth_timestamp=1738313658&oauth_signature=1rMYEsWyBr2Zp2AabsSloJZ49OI%3D",
+                  "HashSum": {
+                    "Algorithm": "MD5",
+                    "HashSumValue": "3b225eaa6bbf80d4afb9e1d5074bd39e"
+                  },
+                  "FileSize": "9459809"
+                },
+                "IsProvidedInDelivery": "false"
+              },
+              "IsClip": "false",
+              "ClipDetails": {
+                "TechnicalResourceDetailsReference": "T20P",
+                "ClipType": "Preview",
+                "Timing": {
+                  "StartPoint": "48000",
+                  "EndPoint": "78000",
+                  "DurationUsed": "P0DT0H0M30.000S"
+                },
+                "ExpressionType": "Instructive"
+              }
+            }
+          },
+          "DisplayTitleText": {
+            "@LanguageAndScriptCode": "en",
+            "#text": "Gentle Threat"
+          },
+          "DisplayTitle": {
+            "@LanguageAndScriptCode": "en",
+            "TitleText": "Gentle Threat"
+          },
+          "DisplayArtistName": "Olga Scheps",
+          "DisplayArtist": [
+            {
+              "@SequenceNumber": "1",
+              "ArtistPartyReference": "P_ARTIST_2510",
+              "DisplayArtistRole": "MainArtist",
+              "ArtisticRole": {
+                "@Namespace": "DPID:PADPIDA2007040502I",
+                "@UserDefinedValue": "Piano",
+                "#text": "UserDefined"
+              }
+            },
+            {
+              "@SequenceNumber": "2",
+              "ArtistPartyReference": "P_ARTIST_2079050",
+              "DisplayArtistRole": "Composer"
+            }
+          ],
+          "Contributor": {
+            "@SequenceNumber": "1",
+            "ContributorPartyReference": "P_ARTIST_1727105",
+            "Role": "Engineer"
+          },
+          "Duration": "PT0H3M56S",
+          "ParentalWarningType": "ExplicitContentEdited"
+        }
+      ],
+      "Image": {
+        "ResourceReference": "A21",
+        "Type": "FrontCoverImage",
+        "ResourceId": {
+          "ProprietaryId": {
+            "@Namespace": "DPID:PADPIDA2007040502I",
+            "#text": "G010003476861G"
+          }
+        },
+        "FirstPublicationDate": {
+          "FulfillmentDate": "2016-05-06"
+        },
+        "TechnicalDetails": {
+          "TechnicalResourceDetailsReference": "T21",
+          "ImageCodecType": "JPEG",
+          "ImageHeight": "1400",
+          "ImageWidth": "1400",
+          "ImageResolution": "300",
+          "File": {
+            "URI": "https://mgsrv-aws.smecde.com/rd/000/039/696/807/20126/39696807.20126.jpg?oauth_consumer_key=kuc&tag=5bd5509f6887a77fe50e61ee7d0140b9&oauth_timestamp=1738313658&oauth_signature=QoIgghtqCLfVODZTxeJoKH3lWcs%3D",
+            "HashSum": {
+              "Algorithm": "MD5",
+              "HashSumValue": "5bd5509f6887a77fe50e61ee7d0140b9"
+            },
+            "FileSize": "1702396"
+          },
+          "IsProvidedInDelivery": "false"
+        }
+      }
+    },
+    "ReleaseList": {
+      "Release": {
+        "ReleaseReference": "R0",
+        "ReleaseType": "ClassicalAlbum",
+        "ReleaseId": {
+          "GRid": "A10301A0003476861G",
+          "ICPN": "886445714562",
+          "CatalogNumber": {
+            "@Namespace": "DPID:PADPIDA2007040502I",
+            "#text": "G010003476861G"
+          }
+        },
+        "DisplayTitleText": {
+          "@LanguageAndScriptCode": "fr",
+          "#text": "Satie"
+        },
+        "DisplayTitle": {
+          "@LanguageAndScriptCode": "fr",
+          "TitleText": "Satie"
+        },
+        "DisplayArtistName": "Olga Scheps",
+        "DisplayArtist": [
+          {
+            "@SequenceNumber": "1",
+            "ArtistPartyReference": "P_ARTIST_2510",
+            "DisplayArtistRole": "MainArtist"
+          },
+          {
+            "@SequenceNumber": "2",
+            "ArtistPartyReference": "P_ARTIST_2770501",
+            "DisplayArtistRole": "Composer"
+          }
+        ],
+        "ReleaseLabelReference": {
+          "@LabelType": "DisplayLabel",
+          "#text": "P_LABEL_RCA_RED_SEAL"
+        },
+        "PLine": {
+          "Year": "2016",
+          "PLineText": "(P) 2016 Sony Music Entertainment Germany GmbH"
+        },
+        "Duration": "PT1H2M51S",
+        "Genre": {
+          "@ApplicableTerritoryCode": "Worldwide",
+          "GenreText": "Classical"
+        },
+        "OriginalReleaseDate": "2016-05-06",
+        "ParentalWarningType": "NotExplicit",
+        "ResourceGroup": {
+          "AdditionalTitle": {
+            "@TitleType": "GroupingTitle",
+            "TitleText": "Disc 1"
+          },
+          "SequenceNumber": "1",
+          "ResourceGroup": {
+            "@ResourceGroupType": "MultiWorkPart",
+            "AdditionalTitle": {
+              "@LanguageAndScriptCode": "fr",
+              "@TitleType": "GroupingTitle",
+              "TitleText": "Cinq Grimaces pour le songe d'une nuit d'\u00e9t\u00e9"
+            },
+            "SequenceNumber": "1",
+            "ResourceGroupContentItem": [
+              {
+                "SequenceNumber": "7",
+                "ReleaseResourceReference": "A7"
+              },
+              {
+                "SequenceNumber": "8",
+                "ReleaseResourceReference": "A8"
+              },
+              {
+                "SequenceNumber": "9",
+                "ReleaseResourceReference": "A9"
+              },
+              {
+                "SequenceNumber": "10",
+                "ReleaseResourceReference": "A10"
+              },
+              {
+                "SequenceNumber": "11",
+                "ReleaseResourceReference": "A11"
+              }
+            ]
+          },
+          "ResourceGroupContentItem": [
+            {
+              "SequenceNumber": "1",
+              "ReleaseResourceReference": "A1"
+            },
+            {
+              "SequenceNumber": "2",
+              "ReleaseResourceReference": "A2"
+            },
+            {
+              "SequenceNumber": "3",
+              "ReleaseResourceReference": "A3"
+            },
+            {
+              "SequenceNumber": "4",
+              "ReleaseResourceReference": "A4"
+            },
+            {
+              "SequenceNumber": "5",
+              "ReleaseResourceReference": "A5"
+            },
+            {
+              "SequenceNumber": "6",
+              "ReleaseResourceReference": "A6"
+            },
+            {
+              "SequenceNumber": "12",
+              "ReleaseResourceReference": "A12"
+            },
+            {
+              "SequenceNumber": "13",
+              "ReleaseResourceReference": "A13"
+            },
+            {
+              "SequenceNumber": "14",
+              "ReleaseResourceReference": "A14"
+            },
+            {
+              "SequenceNumber": "15",
+              "ReleaseResourceReference": "A15"
+            },
+            {
+              "SequenceNumber": "16",
+              "ReleaseResourceReference": "A16"
+            },
+            {
+              "SequenceNumber": "17",
+              "ReleaseResourceReference": "A17"
+            },
+            {
+              "SequenceNumber": "18",
+              "ReleaseResourceReference": "A18"
+            },
+            {
+              "SequenceNumber": "19",
+              "ReleaseResourceReference": "A19"
+            },
+            {
+              "SequenceNumber": "20",
+              "ReleaseResourceReference": "A20"
+            }
+          ],
+          "LinkedReleaseResourceReference": {
+            "@LinkDescription": "CoverArt",
+            "#text": "A21"
+          }
+        }
+      },
+      "TrackRelease": [
+        {
+          "ReleaseReference": "R1",
+          "ReleaseId": {
+            "GRid": "A10328E0007821452E",
+            "ProprietaryId": {
+              "@Namespace": "ISRC",
+              "#text": "DEE861600236"
+            }
+          },
+          "ReleaseResourceReference": "A1",
+          "ReleaseLabelReference": {
+            "@LabelType": "DisplayLabel",
+            "#text": "P_LABEL_RCA_RED_SEAL"
+          },
+          "Genre": {
+            "@ApplicableTerritoryCode": "Worldwide",
+            "GenreText": "Classical"
+          }
+        },
+        {
+          "ReleaseReference": "R2",
+          "ReleaseId": {
+            "GRid": "A10328E0007821453C",
+            "ProprietaryId": {
+              "@Namespace": "ISRC",
+              "#text": "DEE861600237"
+            }
+          },
+          "ReleaseResourceReference": "A2",
+          "ReleaseLabelReference": {
+            "@LabelType": "DisplayLabel",
+            "#text": "P_LABEL_RCA_RED_SEAL"
+          },
+          "Genre": {
+            "@ApplicableTerritoryCode": "Worldwide",
+            "GenreText": "Classical"
+          }
+        },
+        {
+          "ReleaseReference": "R3",
+          "ReleaseId": {
+            "GRid": "A10328E0007821454A",
+            "ProprietaryId": {
+              "@Namespace": "ISRC",
+              "#text": "DEE861600238"
+            }
+          },
+          "ReleaseResourceReference": "A3",
+          "ReleaseLabelReference": {
+            "@LabelType": "DisplayLabel",
+            "#text": "P_LABEL_RCA_RED_SEAL"
+          },
+          "Genre": {
+            "@ApplicableTerritoryCode": "Worldwide",
+            "GenreText": "Classical"
+          }
+        },
+        {
+          "ReleaseReference": "R4",
+          "ReleaseId": {
+            "GRid": "A10328E00078214558",
+            "ProprietaryId": {
+              "@Namespace": "ISRC",
+              "#text": "DEE861600239"
+            }
+          },
+          "ReleaseResourceReference": "A4",
+          "ReleaseLabelReference": {
+            "@LabelType": "DisplayLabel",
+            "#text": "P_LABEL_RCA_RED_SEAL"
+          },
+          "Genre": {
+            "@ApplicableTerritoryCode": "Worldwide",
+            "GenreText": "Classical"
+          }
+        },
+        {
+          "ReleaseReference": "R5",
+          "ReleaseId": {
+            "GRid": "A10328E00078214566",
+            "ProprietaryId": {
+              "@Namespace": "ISRC",
+              "#text": "DEE861600240"
+            }
+          },
+          "ReleaseResourceReference": "A5",
+          "ReleaseLabelReference": {
+            "@LabelType": "DisplayLabel",
+            "#text": "P_LABEL_RCA_RED_SEAL"
+          },
+          "Genre": {
+            "@ApplicableTerritoryCode": "Worldwide",
+            "GenreText": "Classical"
+          }
+        },
+        {
+          "ReleaseReference": "R6",
+          "ReleaseId": {
+            "GRid": "A10328E00078214574",
+            "ProprietaryId": {
+              "@Namespace": "ISRC",
+              "#text": "DEE861600241"
+            }
+          },
+          "ReleaseResourceReference": "A6",
+          "ReleaseLabelReference": {
+            "@LabelType": "DisplayLabel",
+            "#text": "P_LABEL_RCA_RED_SEAL"
+          },
+          "Genre": {
+            "@ApplicableTerritoryCode": "Worldwide",
+            "GenreText": "Classical"
+          }
+        },
+        {
+          "ReleaseReference": "R7",
+          "ReleaseId": {
+            "GRid": "A10328E0007821459Z",
+            "ProprietaryId": {
+              "@Namespace": "ISRC",
+              "#text": "DEE861600242"
+            }
+          },
+          "ReleaseResourceReference": "A7",
+          "ReleaseLabelReference": {
+            "@LabelType": "DisplayLabel",
+            "#text": "P_LABEL_RCA_RED_SEAL"
+          },
+          "Genre": {
+            "@ApplicableTerritoryCode": "Worldwide",
+            "GenreText": "Classical"
+          }
+        },
+        {
+          "ReleaseReference": "R8",
+          "ReleaseId": {
+            "GRid": "A10328E0007821460E",
+            "ProprietaryId": {
+              "@Namespace": "ISRC",
+              "#text": "DEE861600243"
+            }
+          },
+          "ReleaseResourceReference": "A8",
+          "ReleaseLabelReference": {
+            "@LabelType": "DisplayLabel",
+            "#text": "P_LABEL_RCA_RED_SEAL"
+          },
+          "Genre": {
+            "@ApplicableTerritoryCode": "Worldwide",
+            "GenreText": "Classical"
+          }
+        },
+        {
+          "ReleaseReference": "R9",
+          "ReleaseId": {
+            "GRid": "A10328E0007821461C",
+            "ProprietaryId": {
+              "@Namespace": "ISRC",
+              "#text": "DEE861600244"
+            }
+          },
+          "ReleaseResourceReference": "A9",
+          "ReleaseLabelReference": {
+            "@LabelType": "DisplayLabel",
+            "#text": "P_LABEL_RCA_RED_SEAL"
+          },
+          "Genre": {
+            "@ApplicableTerritoryCode": "Worldwide",
+            "GenreText": "Classical"
+          }
+        },
+        {
+          "ReleaseReference": "R10",
+          "ReleaseId": {
+            "GRid": "A10328E0007821462A",
+            "ProprietaryId": {
+              "@Namespace": "ISRC",
+              "#text": "DEE861600245"
+            }
+          },
+          "ReleaseResourceReference": "A10",
+          "ReleaseLabelReference": {
+            "@LabelType": "DisplayLabel",
+            "#text": "P_LABEL_RCA_RED_SEAL"
+          },
+          "Genre": {
+            "@ApplicableTerritoryCode": "Worldwide",
+            "GenreText": "Classical"
+          }
+        },
+        {
+          "ReleaseReference": "R11",
+          "ReleaseId": {
+            "GRid": "A10328E00078214638",
+            "ProprietaryId": {
+              "@Namespace": "ISRC",
+              "#text": "DEE861600246"
+            }
+          },
+          "ReleaseResourceReference": "A11",
+          "ReleaseLabelReference": {
+            "@LabelType": "DisplayLabel",
+            "#text": "P_LABEL_RCA_RED_SEAL"
+          },
+          "Genre": {
+            "@ApplicableTerritoryCode": "Worldwide",
+            "GenreText": "Classical"
+          }
+        },
+        {
+          "ReleaseReference": "R12",
+          "ReleaseId": {
+            "GRid": "A10328E00078214646",
+            "ProprietaryId": {
+              "@Namespace": "ISRC",
+              "#text": "DEE861600233"
+            }
+          },
+          "ReleaseResourceReference": "A12",
+          "ReleaseLabelReference": {
+            "@LabelType": "DisplayLabel",
+            "#text": "P_LABEL_RCA_RED_SEAL"
+          },
+          "Genre": {
+            "@ApplicableTerritoryCode": "Worldwide",
+            "GenreText": "Classical"
+          }
+        },
+        {
+          "ReleaseReference": "R13",
+          "ReleaseId": {
+            "GRid": "A10328E00078214654",
+            "ProprietaryId": {
+              "@Namespace": "ISRC",
+              "#text": "DEE861600234"
+            }
+          },
+          "ReleaseResourceReference": "A13",
+          "ReleaseLabelReference": {
+            "@LabelType": "DisplayLabel",
+            "#text": "P_LABEL_RCA_RED_SEAL"
+          },
+          "Genre": {
+            "@ApplicableTerritoryCode": "Worldwide",
+            "GenreText": "Classical"
+          }
+        },
+        {
+          "ReleaseReference": "R14",
+          "ReleaseId": {
+            "GRid": "A10328E00078214662",
+            "ProprietaryId": {
+              "@Namespace": "ISRC",
+              "#text": "DEE861600235"
+            }
+          },
+          "ReleaseResourceReference": "A14",
+          "ReleaseLabelReference": {
+            "@LabelType": "DisplayLabel",
+            "#text": "P_LABEL_RCA_RED_SEAL"
+          },
+          "Genre": {
+            "@ApplicableTerritoryCode": "Worldwide",
+            "GenreText": "Classical"
+          }
+        },
+        {
+          "ReleaseReference": "R15",
+          "ReleaseId": {
+            "GRid": "A10328E0007821467Z",
+            "ProprietaryId": {
+              "@Namespace": "ISRC",
+              "#text": "DEE861600232"
+            }
+          },
+          "ReleaseResourceReference": "A15",
+          "ReleaseLabelReference": {
+            "@LabelType": "DisplayLabel",
+            "#text": "P_LABEL_RCA_RED_SEAL"
+          },
+          "Genre": {
+            "@ApplicableTerritoryCode": "Worldwide",
+            "GenreText": "Classical"
+          }
+        },
+        {
+          "ReleaseReference": "R16",
+          "ReleaseId": {
+            "GRid": "A10328E0007821468X",
+            "ProprietaryId": {
+              "@Namespace": "ISRC",
+              "#text": "DEE861600248"
+            }
+          },
+          "ReleaseResourceReference": "A16",
+          "ReleaseLabelReference": {
+            "@LabelType": "DisplayLabel",
+            "#text": "P_LABEL_RCA_RED_SEAL"
+          },
+          "Genre": {
+            "@ApplicableTerritoryCode": "Worldwide",
+            "GenreText": "Classical"
+          }
+        },
+        {
+          "ReleaseReference": "R17",
+          "ReleaseId": {
+            "GRid": "A10328E0007821469V",
+            "ProprietaryId": {
+              "@Namespace": "ISRC",
+              "#text": "DEE861600249"
+            }
+          },
+          "ReleaseResourceReference": "A17",
+          "ReleaseLabelReference": {
+            "@LabelType": "DisplayLabel",
+            "#text": "P_LABEL_RCA_RED_SEAL"
+          },
+          "Genre": {
+            "@ApplicableTerritoryCode": "Worldwide",
+            "GenreText": "Classical"
+          }
+        },
+        {
+          "ReleaseReference": "R18",
+          "ReleaseId": {
+            "GRid": "A10328E0007821470A",
+            "ProprietaryId": {
+              "@Namespace": "ISRC",
+              "#text": "DEE861600250"
+            }
+          },
+          "ReleaseResourceReference": "A18",
+          "ReleaseLabelReference": {
+            "@LabelType": "DisplayLabel",
+            "#text": "P_LABEL_RCA_RED_SEAL"
+          },
+          "Genre": {
+            "@ApplicableTerritoryCode": "Worldwide",
+            "GenreText": "Classical"
+          }
+        },
+        {
+          "ReleaseReference": "R19",
+          "ReleaseId": {
+            "GRid": "A10328E00078214718",
+            "ProprietaryId": {
+              "@Namespace": "ISRC",
+              "#text": "DEE861600247"
+            }
+          },
+          "ReleaseResourceReference": "A19",
+          "ReleaseLabelReference": {
+            "@LabelType": "DisplayLabel",
+            "#text": "P_LABEL_RCA_RED_SEAL"
+          },
+          "Genre": {
+            "@ApplicableTerritoryCode": "Worldwide",
+            "GenreText": "Classical"
+          }
+        },
+        {
+          "ReleaseReference": "R20",
+          "ReleaseId": {
+            "GRid": "A10328E00078214726",
+            "ProprietaryId": {
+              "@Namespace": "ISRC",
+              "#text": "DEE861600251"
+            }
+          },
+          "ReleaseResourceReference": "A20",
+          "ReleaseLabelReference": {
+            "@LabelType": "DisplayLabel",
+            "#text": "P_LABEL_RCA_RED_SEAL"
+          },
+          "Genre": {
+            "@ApplicableTerritoryCode": "Worldwide",
+            "GenreText": "Classical"
+          }
+        }
+      ]
+    },
+    "DealList": {
+      "ReleaseDeal": {
+        "DealReleaseReference": [
+          "R1",
+          "R2",
+          "R3",
+          "R4",
+          "R5",
+          "R6",
+          "R7",
+          "R8",
+          "R9",
+          "R10",
+          "R11",
+          "R12",
+          "R13",
+          "R14",
+          "R15",
+          "R16",
+          "R17",
+          "R18",
+          "R19",
+          "R20"
+        ],
+        "Deal": [
+          {
+            "DealTerms": {
+              "TerritoryCode": [
+                "AG",
+                "AI",
+                "AW",
+                "BB",
+                "BM",
+                "BO",
+                "BQ",
+                "BR",
+                "BZ",
+                "CL",
+                "CO",
+                "CR",
+                "CW",
+                "DM",
+                "DO",
+                "EC",
+                "ES",
+                "GD",
+                "GF",
+                "GP",
+                "GY",
+                "HT",
+                "JM",
+                "KN",
+                "KY",
+                "LC",
+                "MQ",
+                "MS",
+                "PA",
+                "PE",
+                "SR",
+                "SV",
+                "TC",
+                "TT",
+                "VC",
+                "VG",
+                "VU",
+                "ZM"
+              ],
+              "ValidityPeriod": {
+                "StartDateTime": "2016-05-06T00:00:00"
+              },
+              "CommercialModelType": "SubscriptionModel",
+              "UseType": [
+                "ConditionalDownload",
+                "NonInteractiveStream",
+                "OnDemandStream"
+              ]
+            }
+          },
+          {
+            "DealTerms": {
+              "TerritoryCode": [
+                "AG",
+                "AI",
+                "AW",
+                "BB",
+                "BM",
+                "BO",
+                "BQ",
+                "BR",
+                "BZ",
+                "CL",
+                "CO",
+                "CR",
+                "CW",
+                "DM",
+                "DO",
+                "EC",
+                "ES",
+                "GD",
+                "GF",
+                "GP",
+                "GY",
+                "HT",
+                "JM",
+                "KN",
+                "KY",
+                "LC",
+                "MQ",
+                "MS",
+                "PA",
+                "PE",
+                "SR",
+                "SV",
+                "TC",
+                "TT",
+                "VC",
+                "VG",
+                "VU",
+                "ZM"
+              ],
+              "ValidityPeriod": {
+                "StartDateTime": "2016-05-06T00:00:00"
+              },
+              "CommercialModelType": "AdvertisementSupportedModel",
+              "UseType": [
+                "NonInteractiveStream",
+                "OnDemandStream"
+              ]
+            }
+          }
+        ]
+      }
+    }
+  }
+}

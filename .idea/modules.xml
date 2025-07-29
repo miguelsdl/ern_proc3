@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../feed-poc-dfs-traversal/.idea/feed-poc-dfs-traversal.iml" filepath="$PROJECT_DIR$/../feed-poc-dfs-traversal/.idea/feed-poc-dfs-traversal.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/processor_ern.iml" filepath="$PROJECT_DIR$/.idea/processor_ern.iml" />
     </modules>
   </component>
